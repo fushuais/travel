@@ -1,0 +1,30 @@
+# GitHub Pages 配置
+
+theme: jekyll-theme-cayman
+
+# 配置 GitHub Pages 从 docs 文件夹部署
+include:
+  - docs/
+
+# 确保所有文件都被包含
+keep_files:
+  - docs/
+
+# 排除不需要的文件
+exclude:
+  - .git
+  - .gitignore
+  - travel.xcodeproj
+  - travel
+  - travelTests
+  - travelUITests
+  - "*.swp"
+  - "*.swo"
+  - "*~"
+
+# 确保 index.html 被正确处理
+defaults:
+  - scope:
+      path: "docs"
+    values:
+      layout: null
