@@ -146,9 +146,38 @@
             z-index: 1;
             text-align: left;
             max-width: 520px;
+            opacity: 0;
+            transform: translateY(30px);
+            transition: opacity 0.8s var(--ease-out), transform 0.8s var(--ease-out);
         }
 
-        /* 图片轮播 */
+        /* Hero 内容子元素的独立动画 */
+        .hero-content .hero-badge {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.6s var(--ease-out) 0.2s, transform 0.6s var(--ease-out) 0.2s;
+        }
+
+        .hero-content h1 {
+            opacity: 0;
+            transform: translateY(25px);
+            transition: opacity 0.8s var(--ease-out) 0.3s, transform 0.8s var(--ease-out) 0.3s;
+        }
+
+        .hero-content p {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.7s var(--ease-out) 0.45s, transform 0.7s var(--ease-out) 0.45s;
+        }
+
+        /* Hero 内容显示后的子元素状态 */
+        .hero-content.show .hero-badge,
+        .hero-content.show h1,
+        .hero-content.show p {
+            opacity: inherit;
+            transform: translateY(0);
+        }
+
         .hero-carousel {
             position: relative;
             width: 100%;
@@ -160,6 +189,18 @@
             margin-bottom: 0;
             background: #000;
             border: 1px solid rgba(255, 255, 255, 0.04);
+            opacity: 0;
+            transform: translateY(40px);
+            transition: opacity 1s var(--ease-out), transform 1s var(--ease-out), -webkit-transform 0.3s ease-out;
+        }
+
+        .cta-buttons {
+            display: flex;
+            gap: 1.5rem;
+            justify-content: center;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.8s var(--ease-out), transform 0.8s var(--ease-out);
         }
 
         .carousel-container {
@@ -274,14 +315,12 @@
             font-weight: 800;
             letter-spacing: -0.04em;
             color: var(--apple-dark);
-            animation: fadeInUp 0.9s var(--ease-out) both;
         }
 
         .hero p {
             font-size: 1.6rem;
             margin-bottom: 3rem;
             opacity: 0.9;
-            animation: fadeInUp 1s var(--ease-out) 0.1s both;
             font-weight: 300;
             letter-spacing: 0;
         }
@@ -295,14 +334,6 @@
             margin-bottom: 2rem;
             backdrop-filter: blur(10px);
             border: 1px solid rgba(255, 255, 255, 0.3);
-            animation: fadeInUp 0.9s var(--ease-out) 0.05s both;
-        }
-
-        .cta-buttons {
-            display: flex;
-            gap: 1.5rem;
-            justify-content: center;
-            animation: fadeInUp 0.9s var(--ease-out) 0.25s both;
         }
 
         .btn {
@@ -603,10 +634,82 @@
             }
         }
 
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(60px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes slideUpLeft {
+            from {
+                opacity: 0;
+                transform: translate3d(-30px, 60px, 0);
+            }
+            to {
+                opacity: 1;
+                transform: translate3d(0, 0, 0);
+            }
+        }
+
+        @keyframes slideUpRight {
+            from {
+                opacity: 0;
+                transform: translate3d(30px, 60px, 0);
+            }
+            to {
+                opacity: 1;
+                transform: translate3d(0, 0, 0);
+            }
+        }
+
+        @keyframes scaleUp {
+            from {
+                opacity: 0;
+                transform: scale(0.85);
+            }
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
         .fade-in {
             opacity: 0;
             animation: fadeInUp 0.8s var(--ease-out) forwards;
         }
+
+        .slide-up {
+            opacity: 0;
+            animation: slideUp 1s var(--ease-out) forwards;
+        }
+
+        .slide-up-left {
+            opacity: 0;
+            animation: slideUpLeft 1s var(--ease-out) forwards;
+        }
+
+        .slide-up-right {
+            opacity: 0;
+            animation: slideUpRight 1s var(--ease-out) forwards;
+        }
+
+        .scale-up {
+            opacity: 0;
+            animation: scaleUp 1s var(--ease-out) forwards;
+        }
+
+        /* 延迟动画类 */
+        .delay-100 { animation-delay: 0.1s; }
+        .delay-200 { animation-delay: 0.2s; }
+        .delay-300 { animation-delay: 0.3s; }
+        .delay-400 { animation-delay: 0.4s; }
+        .delay-500 { animation-delay: 0.5s; }
+        .delay-600 { animation-delay: 0.6s; }
 
         /* Responsive */
         @media (max-width: 768px) {
@@ -799,20 +902,20 @@
 
     <section id="features" class="features">
         <div class="container">
-            <h2 class="section-title">核心功能</h2>
-            <p class="section-subtitle">一站式京都旅游体验</p>
+            <h2 class="section-title slide-up">核心功能</h2>
+            <p class="section-subtitle slide-up delay-100">一站式京都旅游体验</p>
             <div class="features-grid">
-                <div class="feature-card fade-in">
+                <div class="feature-card slide-up-left">
                     <div class="feature-icon">📍</div>
                     <h3>精选位置</h3>
                     <p>探索京都最著名的景点：清水寺、伏见稻荷大社、金阁寺、岚山竹林、祇园、二条城。每个景点都配有精美的真实照片和详细介绍。</p>
                 </div>
-                <div class="feature-card fade-in" style="animation-delay: 0.1s">
+                <div class="feature-card slide-up">
                     <div class="feature-icon">🍜</div>
                     <h3>地道美食</h3>
                     <p>品尝最正宗的京都美食：怀石料理、拉面、抹茶甜点、豆腐料理、鳗鱼饭、寿司。包含价格参考，让你轻松规划美食之旅。</p>
                 </div>
-                <div class="feature-card fade-in" style="animation-delay: 0.2s">
+                <div class="feature-card slide-up-right">
                     <div class="feature-icon">🏠</div>
                     <h3>舒适住宿</h3>
                     <p>从传统町屋到现代酒店，精选各类住宿选择。提供详细的价格、评分和特色介绍，满足不同预算需求。</p>
@@ -823,18 +926,18 @@
 
     <section id="screenshots" class="screenshots">
         <div class="container">
-            <h2 class="section-title">应用截图</h2>
-            <p class="section-subtitle">精美的界面设计</p>
+            <h2 class="section-title slide-up">应用截图</h2>
+            <p class="section-subtitle slide-up delay-100">精美的界面设计</p>
             <div class="screenshot-grid">
-                <div class="screenshot-item fade-in">
+                <div class="screenshot-item scale-up">
                     <div class="screenshot-placeholder">📍</div>
                     <h4>位置导览</h4>
                 </div>
-                <div class="screenshot-item fade-in" style="animation-delay: 0.1s">
+                <div class="screenshot-item scale-up delay-200">
                     <div class="screenshot-placeholder">🍜</div>
                     <h4>美食推荐</h4>
                 </div>
-                <div class="screenshot-item fade-in" style="animation-delay: 0.2s">
+                <div class="screenshot-item scale-up delay-400">
                     <div class="screenshot-placeholder">🏠</div>
                     <h4>住宿预订</h4>
                 </div>
@@ -844,9 +947,9 @@
 
     <section id="download" class="download">
         <div class="container download-content">
-            <h2>开始你的京都之旅</h2>
-            <p>开源的SwiftUI应用 · 支持iOS 18.0及以上版本 · 完全免费</p>
-            <a href="https://github.com/fushuais/travel" class="github-btn">
+            <h2 class="slide-up">开始你的京都之旅</h2>
+            <p class="slide-up delay-100">开源的SwiftUI应用 · 支持iOS 18.0及以上版本 · 完全免费</p>
+            <a href="https://github.com/fushuais/travel" class="github-btn slide-up delay-200">
                 <svg height="24" width="24" viewBox="0 0 16 16" fill="currentColor">
                     <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
                 </svg>
@@ -887,22 +990,53 @@
             });
         });
 
-        // 滚动动画
+        // 优化的滚动动画观察器
         const observerOptions = {
-            threshold: 0.1,
-            rootMargin: '0px 0px -100px 0px'
+            threshold: 0.15,
+            rootMargin: '0px 0px -80px 0px'
         };
 
         const observer = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
                 if (entry.isIntersecting) {
-                    entry.target.classList.add('fade-in');
+                    // 为不同类型的元素添加对应的动画类
+                    if (entry.target.classList.contains('slide-up') || 
+                        entry.target.classList.contains('slide-up-left') || 
+                        entry.target.classList.contains('slide-up-right') ||
+                        entry.target.classList.contains('scale-up') ||
+                        entry.target.classList.contains('fade-in')) {
+                        
+                        // 确保动画只触发一次
+                        if (!entry.target.classList.contains('animated')) {
+                            entry.target.classList.add('animated');
+                        }
+                    }
                 }
             });
         }, observerOptions);
 
-        document.querySelectorAll('.feature-card, .screenshot-item').forEach(el => {
+        // 为所有需要动画的元素添加观察
+        const animatedElements = document.querySelectorAll(
+            '.section-title, .section-subtitle, .feature-card, .screenshot-item, .download-content h2, .download-content p, .github-btn'
+        );
+
+        animatedElements.forEach((el, index) => {
+            // 为没有动画类的元素添加默认动画
+            if (!el.classList.contains('slide-up') && 
+                !el.classList.contains('slide-up-left') && 
+                !el.classList.contains('slide-up-right') &&
+                !el.classList.contains('scale-up') &&
+                !el.classList.contains('fade-in')) {
+                el.classList.add('slide-up');
+            }
             observer.observe(el);
+        });
+
+        // 为所有卡片元素添加初始状态
+        document.querySelectorAll('.feature-card, .screenshot-item').forEach(el => {
+            el.style.opacity = '0';
+            el.style.transform = 'translateY(40px)';
+            el.style.transition = 'opacity 0.8s cubic-bezier(0.45, 0, 0.1, 1), transform 0.8s cubic-bezier(0.45, 0, 0.1, 1)';
         });
 
         // 图片轮播功能
@@ -970,6 +1104,79 @@
             } else if (e.key === 'ArrowRight') {
                 moveSlide(1);
             }
+        });
+
+        // 优化动画触发函数 - 确保动画流畅执行
+        function triggerAnimation(element, animationClass) {
+            element.style.opacity = '0';
+            
+            // 强制重绘
+            void element.offsetWidth;
+            
+            // 添加动画类
+            element.classList.add(animationClass);
+            
+            // 确保动画完成后移除内联样式
+            setTimeout(() => {
+                element.style.opacity = '';
+                element.style.transform = '';
+            }, 1000);
+        }
+
+        // 滚动视差效果 - 为轮播图添加轻微的视差
+        const heroCarousel = document.querySelector('.hero-carousel');
+        window.addEventListener('scroll', () => {
+            const scrolled = window.pageYOffset;
+            const heroHeight = document.querySelector('.hero').offsetHeight;
+            
+            if (scrolled < heroHeight) {
+                const parallax = scrolled * 0.3;
+                heroCarousel.style.transform = `translateY(${parallax}px)`;
+            }
+        });
+
+        // 导航栏渐变效果增强
+        const header = document.getElementById('header');
+        const heroSection = document.querySelector('.hero');
+        
+        window.addEventListener('scroll', () => {
+            const scrolled = window.scrollY;
+            const heroHeight = heroSection.offsetHeight;
+            const progress = Math.min(scrolled / heroHeight, 1);
+            
+            if (scrolled > 50) {
+                header.classList.add('scrolled');
+                // 根据滚动进度调整背景透明度
+                const opacity = 0.72 + (progress * 0.18);
+                header.style.background = `rgba(255, 255, 255, ${opacity})`;
+            } else {
+                header.classList.remove('scrolled');
+                header.style.background = '';
+            }
+        });
+
+        // 页面加载时的初始动画
+        document.addEventListener('DOMContentLoaded', () => {
+            const heroContent = document.querySelector('.hero-content');
+            const heroCarousel = document.querySelector('.hero-carousel');
+            const ctaButtons = document.querySelector('.cta-buttons');
+            
+            // Hero 内容渐入动画 - 添加 show 类触发子元素动画
+            setTimeout(() => {
+                heroContent.classList.add('show');
+            }, 100);
+            
+            // 轮播图渐入动画
+            setTimeout(() => {
+                heroCarousel.style.opacity = '1';
+                heroCarousel.style.transform = 'translateY(0)';
+            }, 400);
+            
+            // CTA 按钮渐入动画
+            setTimeout(() => {
+                ctaButtons.style.opacity = '1';
+                ctaButtons.style.transform = 'translateY(0)';
+            }, 700);
         });
     </script>
 </body>
