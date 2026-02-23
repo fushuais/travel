@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/platform-iOS%2018.0%2B-lightgrey.svg)](https://developer.apple.com)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[📱 查看演示网站](https://yourusername.github.io/travel/)
+[📱 查看演示网站](https://fushuais.github.io/travel/)
 
 ## ✨ 功能特点
 
@@ -67,7 +67,7 @@
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/travel.git
+git clone https://github.com/fushuais/travel.git
 cd travel
 ```
 
@@ -149,7 +149,7 @@ travel/
 
 ## 👨‍💻 作者
 
-- **Your Name** - [GitHub](https://github.com/yourusername)
+- **Fu Shuai** - [GitHub](https://github.com/fushuais)
 
 ## 🙏 致谢
 
