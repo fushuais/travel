@@ -156,31 +156,33 @@
         /* Hero Section */
         .hero {
             min-height: 100vh;
-            display: grid;
-            grid-template-columns: 1fr 1fr;
+            display: flex;
+            flex-direction: column;
             align-items: center;
-            gap: 4rem;
+            justify-content: center;
             color: white;
             position: relative;
             padding: 100px 0;
+            text-align: center;
         }
 
         .hero-content {
             position: relative;
             z-index: 1;
-            text-align: left;
+            text-align: center;
+            margin-bottom: 3rem;
         }
 
         /* 图片轮播 */
         .hero-carousel {
             position: relative;
             width: 100%;
-            max-width: 600px;
-            height: 700px;
+            max-width: 900px;
+            height: 600px;
             border-radius: 30px;
             overflow: hidden;
             box-shadow: 0 30px 80px rgba(0, 0, 0, 0.5);
-            justify-self: end;
+            margin-bottom: 3rem;
         }
 
         .carousel-container {
@@ -330,6 +332,7 @@
         .cta-buttons {
             display: flex;
             gap: 1.5rem;
+            justify-content: center;
             animation: fadeInUp 1s ease 0.4s both;
         }
 
@@ -699,23 +702,10 @@
 
         /* Responsive */
         @media (max-width: 768px) {
-            .hero {
-                grid-template-columns: 1fr;
-                gap: 2rem;
-            }
-
-            .hero-content {
-                text-align: center;
-            }
-
             .hero-carousel {
-                justify-self: center;
                 max-width: 100%;
-                height: 500px;
-            }
-
-            .cta-buttons {
-                justify-content: center;
+                height: 450px;
+                margin-bottom: 2rem;
             }
 
             .hero h1 {
@@ -790,63 +780,53 @@
     </header>
 
     <section class="hero">
-        <div class="container" style="display: contents;">
+        <div class="container">
             <div class="hero-content">
                 <div class="hero-badge">✨ iOS 18.0+ SwiftUI应用</div>
                 <h1>探索京都之美</h1>
                 <p>体验千年古都的魅力，发现最美的景点、美食和住宿</p>
-                <div class="cta-buttons">
-                    <a href="#download" class="btn btn-primary">
-                        <span>立即下载</span>
-                        <span>→</span>
-                    </a>
-                    <a href="https://github.com/fushuais/travel" class="btn btn-secondary">
-                        <span>查看源码</span>
-                        <span>⭐</span>
-                    </a>
-                </div>
             </div>
             
             <!-- 图片轮播 -->
             <div class="hero-carousel">
                 <div class="carousel-container">
                     <div class="carousel-slide active">
-                        <img src="https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800&q=80" alt="京都伏见稻荷大社">
+                        <img src="https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1200&q=80" alt="京都伏见稻荷大社">
                         <div class="carousel-overlay">
                             <h3>伏见稻荷大社</h3>
                             <p>千本鸟居的壮观景象</p>
                         </div>
                     </div>
                     <div class="carousel-slide">
-                        <img src="https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=800&q=80" alt="京都金阁寺">
+                        <img src="https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1200&q=80" alt="京都金阁寺">
                         <div class="carousel-overlay">
                             <h3>金阁寺</h3>
                             <p>金光闪闪的禅宗寺院</p>
                         </div>
                     </div>
                     <div class="carousel-slide">
-                        <img src="https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=800&q=80" alt="和服美女">
+                        <img src="https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200&q=80" alt="和服美女">
                         <div class="carousel-overlay">
                             <h3>和服体验</h3>
                             <p>感受传统日本文化</p>
                         </div>
                     </div>
                     <div class="carousel-slide">
-                        <img src="https://images.unsplash.com/photo-1480796927426-f609979314bd?w=800&q=80" alt="京都清水寺">
+                        <img src="https://images.unsplash.com/photo-1480796927426-f609979314bd?w=1200&q=80" alt="京都清水寺">
                         <div class="carousel-overlay">
                             <h3>清水寺</h3>
                             <p>世界文化遗产之一</p>
                         </div>
                     </div>
                     <div class="carousel-slide">
-                        <img src="https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&q=80" alt="岚山竹林">
+                        <img src="https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=1200&q=80" alt="岚山竹林">
                         <div class="carousel-overlay">
                             <h3>岚山竹林</h3>
                             <p>如诗如画的竹林小径</p>
                         </div>
                     </div>
                     <div class="carousel-slide">
-                        <img src="https://images.unsplash.com/photo-1528164344705-47542687000d?w=800&q=80" alt="祇园艺伎">
+                        <img src="https://images.unsplash.com/photo-1528164344705-47542687000d?w=1200&q=80" alt="祇园艺伎">
                         <div class="carousel-overlay">
                             <h3>祇园风情</h3>
                             <p>传统艺伎文化街区</p>
@@ -867,6 +847,18 @@
                     <span class="indicator" onclick="currentSlide(4)"></span>
                     <span class="indicator" onclick="currentSlide(5)"></span>
                 </div>
+            </div>
+            
+            <!-- CTA 按钮 -->
+            <div class="cta-buttons">
+                <a href="#download" class="btn btn-primary">
+                    <span>立即下载</span>
+                    <span>→</span>
+                </a>
+                <a href="https://github.com/fushuais/travel" class="btn btn-secondary">
+                    <span>查看源码</span>
+                    <span>⭐</span>
+                </a>
             </div>
         </div>
         <div class="scroll-indicator"></div>
