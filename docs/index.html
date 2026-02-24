@@ -129,7 +129,7 @@
             display: flex;
             align-items: center;
             position: relative;
-            padding: 120px 0 100px;
+            padding: 80px 0 60px;
             text-align: center;
             color: var(--apple-text);
         }
@@ -137,7 +137,7 @@
         .hero .container {
             display: flex;
             flex-direction: column;
-            gap: 3rem;
+            gap: 1.5rem;
             align-items: center;
             width: 100%;
         }
@@ -172,6 +172,11 @@
         }
 
         /* Hero 内容显示后的子元素状态 */
+        .hero-content.show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
         .hero-content.show .hero-badge,
         .hero-content.show h1,
         .hero-content.show p {
@@ -187,7 +192,7 @@
             border-radius: 30px;
             overflow: hidden;
             box-shadow: 0 24px 60px rgba(0, 0, 0, 0.25);
-            margin-bottom: 2rem;
+            margin-bottom: 1rem;
             background: #000;
             border: 1px solid rgba(255, 255, 255, 0.04);
             opacity: 1;
@@ -607,20 +612,109 @@
 
         /* Footer */
         footer {
-            background: #0a0a0a;
+            background: #1d1d1f;
             color: #aaa;
-            text-align: center;
-            padding: 3rem 0;
+            padding: 4rem 0 2rem;
         }
 
-        footer a {
-            color: #667eea;
+        .footer-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 3rem;
+            padding: 0 22px;
+        }
+
+        .footer-section h4 {
+            color: #f5f5f7;
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+            letter-spacing: -0.01em;
+        }
+
+        .footer-links {
+            list-style: none;
+        }
+
+        .footer-links li {
+            margin-bottom: 0.75rem;
+        }
+
+        .footer-links a {
+            color: #aaa;
             text-decoration: none;
-            transition: color 0.3s;
+            font-size: 0.95rem;
+            transition: all 0.3s var(--ease-out);
+            display: block;
+            padding: 0.25rem 0;
+            border-radius: 6px;
         }
 
-        footer a:hover {
-            color: #764ba2;
+        .footer-links a:hover {
+            color: #f5f5f7;
+            background: rgba(255, 255, 255, 0.05);
+            transform: translateX(4px);
+        }
+
+        .social-links {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .social-links a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.08);
+            color: #f5f5f7;
+            text-decoration: none;
+            transition: all 0.3s var(--ease-out);
+            font-size: 1.2rem;
+        }
+
+        .social-links a:hover {
+            background: #ff9500;
+            color: white;
+            transform: scale(1.1);
+        }
+
+        .footer-bottom {
+            max-width: 1200px;
+            margin: 3rem auto 0;
+            padding: 2rem 22px 1rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .footer-bottom p {
+            color: #888;
+            font-size: 0.9rem;
+        }
+
+        .footer-bottom-links {
+            display: flex;
+            gap: 2rem;
+        }
+
+        .footer-bottom-links a {
+            color: #888;
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.3s var(--ease-out);
+        }
+
+        .footer-bottom-links a:hover {
+            color: #ff9500;
         }
 
         /* Animations */
@@ -817,12 +911,6 @@
 
     <section class="hero">
         <div class="container">
-            <div class="hero-content">
-                <div class="hero-badge">✨ iOS 18.0+ SwiftUI应用</div>
-                <h1>探索京都之美</h1>
-                <p>体验千年古都的魅力，发现最美的景点、美食和住宿</p>
-            </div>
-            
             <!-- 图片轮播 -->
             <div class="hero-carousel">
                 <div class="carousel-container">
@@ -1175,18 +1263,14 @@
 
         // 页面加载时的初始动画
         document.addEventListener('DOMContentLoaded', () => {
-            const heroContent = document.querySelector('.hero-content');
             const ctaButtons = document.querySelector('.cta-buttons');
-
-            // Hero 内容渐入动画 - 添加 show 类触发子元素动画
-            setTimeout(() => {
-                heroContent.classList.add('show');
-            }, 100);
 
             // CTA 按钮渐入动画
             setTimeout(() => {
-                ctaButtons.style.opacity = '1';
-                ctaButtons.style.transform = 'translateY(0)';
+                if (ctaButtons) {
+                    ctaButtons.style.opacity = '1';
+                    ctaButtons.style.transform = 'translateY(0)';
+                }
             }, 400);
 
             // 轮播图现在默认可见，不需要 JS 动画
