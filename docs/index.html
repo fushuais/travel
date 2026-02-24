@@ -30,8 +30,8 @@
             line-height: 1.47059;
             font-weight: 400;
             letter-spacing: -0.022em;
-            color: var(--apple-text);
-            background: #fff;
+            color: #f5f5f7;
+            background: transparent;
             overflow-x: hidden;
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
@@ -43,7 +43,7 @@
             padding: 0 22px;
         }
 
-        /* Apple 风格背景 */
+        /* 龙纹背景 */
         .bg-animation {
             position: fixed;
             top: 0;
@@ -51,11 +51,9 @@
             width: 100%;
             height: 100%;
             z-index: -1;
-            /* 更接近 Apple 的柔和浅色背景与轻微光晕 */
-            background:
-                radial-gradient(circle at 10% 0, rgba(255, 255, 255, 0.9) 0, transparent 55%),
-                radial-gradient(circle at 80% 20%, rgba(0, 122, 255, 0.08) 0, transparent 60%),
-                linear-gradient(180deg, var(--apple-light-gray) 0%, #fafafa 100%);
+            background: 
+                linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
+                url('dragon-bg.png') center/cover no-repeat;
         }
 
         /* 粒子容器保留结构，不再用于视觉效果 */
@@ -131,7 +129,7 @@
             position: relative;
             padding: 80px 0 60px;
             text-align: center;
-            color: var(--apple-text);
+            color: #f5f5f7;
         }
 
         .hero .container {
@@ -442,13 +440,12 @@
         }
 
         .feature-card {
-            background: linear-gradient(rgba(255, 255, 255, 0.92), rgba(255, 255, 255, 0.88)),
-                        url('https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800&q=80') center/cover no-repeat;
+            background: rgba(255, 255, 255, 0.95);
             padding: 3rem 2.4rem;
             border-radius: 26px;
             color: var(--apple-text);
-            box-shadow: 0 18px 45px rgba(0, 0, 0, 0.06);
-            border: 1px solid rgba(0, 0, 0, 0.04);
+            box-shadow: 0 18px 45px rgba(0, 0, 0, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.3);
             transition: transform 0.4s var(--ease-out), box-shadow 0.4s var(--ease-out), border-color 0.4s var(--ease-out);
             position: relative;
             overflow: hidden;
