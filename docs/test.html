@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>京都旅游 - 测试页面</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+            background: #f5f5f7;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        
+        .test-card {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            max-width: 500px;
+        }
+        
+        .test-title {
+            font-size: 2rem;
+            color: #1d1d1f;
+            margin-bottom: 20px;
+        }
+        
+        .test-status {
+            padding: 15px;
+            border-radius: 10px;
+            margin: 10px 0;
+        }
+        
+        .success {
+            background: #e8f5e9;
+            color: #2e7d32;
+            border: 1px solid #81c784;
+        }
+        
+        .error {
+            background: #ffebee;
+            color: #c62828;
+            border: 1px solid #ef5350;
+        }
+        
+        .debug-info {
+            background: #f5f5f5;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 20px;
+            text-align: left;
+            font-family: monospace;
+            font-size: 0.9rem;
+        }
+        
+        .btn {
+            background: #007AFF;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        
+        .btn:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="test-card">
+        <h1 class="test-title">🔍 京都旅游 - 诊断页面</h1>
+        <div id="test-results"></div>
+        <div class="debug-info" id="debug-info">
+            <p>正在加载...</p>
+        </div>
+        <button class="btn" onclick="runTests()">🔄 重新测试</button>
+    </div>
+    
+    <script>
+        function runTests() {
+            const results = [];
+            const debugInfo = [];
+            
+            // 测试 1: 检查图片加载
+            const testImage = new Image();
+            testImage.onload = () => {
+                results.push({ name: '图片加载', status: 'success', message: 'Unsplash 图片可以正常加载' });
+                updateUI();
+            };
+            testImage.onerror = () => {
+                results.push({ name: '图片加载', status: 'error', message: 'Unsplash 图片加载失败' });
+                updateUI();
+            };
+            testImage.src = 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=100&q=80';
+            
+            // 测试 2: 检查 JavaScript
+            try {
+                const testFunction = () => true;
+                if (testFunction()) {
+                    results.push({ name: 'JavaScript', status: 'success', message: 'JavaScript 执行正常' });
+                }
+            } catch (e) {
+                results.push({ name: 'JavaScript', status: 'error', message: 'JavaScript 错误: ' + e.message });
+            }
+            
+            // 测试 3: 检查 CSS 动画
+            debugInfo.push('浏览器支持: ' + navigator.userAgent);
+            debugInfo.push('屏幕分辨率: ' + window.screen.width + 'x' + window.screen.height);
+            debugInfo.push('视口大小: ' + window.innerWidth + 'x' + window.innerHeight);
+            
+            // 测试 4: 检查本地存储
+            try {
+                localStorage.setItem('test', 'test');
+                localStorage.removeItem('test');
+                results.push({ name: '本地存储', status: 'success', message: 'LocalStorage 可用' });
+            } catch (e) {
+                results.push({ name: '本地存储', status: 'error', message: 'LocalStorage 不可用' });
+            }
+            
+            // 测试 5: 检查 Fetch API
+            fetch('https://api.github.com/repos/fushuais/travel')
+                .then(res => {
+                    if (res.ok) {
+                        results.push({ name: 'GitHub API', status: 'success', message: '可以访问 GitHub API' });
+                    } else {
+                        results.push({ name: 'GitHub API', status: 'error', message: 'GitHub API 返回错误' });
+                    }
+                    updateUI();
+                })
+                .catch(err => {
+                    results.push({ name: 'GitHub API', status: 'error', message: '网络错误: ' + err.message });
+                    updateUI();
+                });
+            
+            // 测试 6: DOM 操作
+            const testElement = document.createElement('div');
+            if (document.body.appendChild(testElement)) {
+                document.body.removeChild(testElement);
+                results.push({ name: 'DOM 操作', status: 'success', message: 'DOM 操作正常' });
+            }
+            
+            function updateUI() {
+                const resultsDiv = document.getElementById('test-results');
+                const debugDiv = document.getElementById('debug-info');
+                
+                let html = '';
+                results.forEach(test => {
+                    html += `<div class="test-status ${test.status}">
+                        <strong>${test.name}:</strong> ${test.message}
+                    </div>`;
+                });
+                resultsDiv.innerHTML = html;
+                
+                let debugHtml = '';
+                debugInfo.forEach(info => {
+                    debugHtml += `<p>${info}</p>`;
+                });
+                debugDiv.innerHTML = debugHtml || '<p>调试信息已加载</p>';
+            }
+            
+            updateUI();
+        }
+        
+        // 页面加载时自动运行测试
+        window.onload = runTests;
+    </script>
+</body>
+</html>
