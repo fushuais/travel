@@ -1,0 +1,9003 @@
+{
+  "meta": {
+    "sourceFile": "新完全掌握日本语初级・总结.xlsx",
+    "generatedAt": "2026-03-05",
+    "counts": {
+      "grammarBeginnerUp": 78,
+      "grammarBeginnerDown": 50,
+      "vocabBeginnerUp": 1174
+    }
+  },
+  "grammarBeginnerUp": [
+    {
+      "category": "ます形",
+      "pattern": "～ます / ～ません",
+      "meaning": "表示非过去时（现在、未来）的肯定与否定的礼貌形式",
+      "lesson": "四课"
+    },
+    {
+      "category": "～ました / ～ませんでした",
+      "pattern": "表示过去时的肯定与否定的礼貌形式",
+      "meaning": "五课",
+      "lesson": ""
+    },
+    {
+      "category": "Vませんか",
+      "pattern": "邀请对方做某事的表达方式",
+      "meaning": "六课",
+      "lesson": ""
+    },
+    {
+      "category": "Vましょう",
+      "pattern": "用于说话者邀请听话者一起做事，或接受邀请时的表达方式",
+      "meaning": "八课",
+      "lesson": ""
+    },
+    {
+      "category": "Vたいです",
+      "pattern": "表达说话者希望做某事的愿望 (ます形词干连接)",
+      "meaning": "十三课",
+      "lesson": ""
+    },
+    {
+      "category": "Vましょうか",
+      "pattern": "说话者向听话者提议自己为对方做某事",
+      "meaning": "十三课",
+      "lesson": ""
+    },
+    {
+      "category": "Vかた",
+      "pattern": "表示动作的做法、方法 (ます形词干连接)",
+      "meaning": "十三课",
+      "lesson": ""
+    },
+    {
+      "category": "辞書形",
+      "pattern": "V dic. (字典形)",
+      "meaning": "动词的基本形（原形）",
+      "lesson": "十四课"
+    },
+    {
+      "category": "趣味は V dic. ことです",
+      "pattern": "用「こと」将动词名词化，用于说明爱好",
+      "meaning": "十四课",
+      "lesson": ""
+    },
+    {
+      "category": "V dic. ことができます",
+      "pattern": "表示能力（会做某事）或可能性（可以做某事）",
+      "meaning": "十四课",
+      "lesson": ""
+    },
+    {
+      "category": "V dic. まえに、V2",
+      "pattern": "表示在V1动作之前，进行V2动作",
+      "meaning": "十四课",
+      "lesson": ""
+    },
+    {
+      "category": "て形",
+      "pattern": "いAくて / なAで / Nで",
+      "meaning": "并列连接两个或以上的形容词或名词 (中顿形)",
+      "lesson": "十一课"
+    },
+    {
+      "category": "Vてください",
+      "pattern": "用于指示、委托或劝说对方做某事",
+      "meaning": "十五课",
+      "lesson": ""
+    },
+    {
+      "category": "Vてくださいませんか",
+      "pattern": "比「Vてください」更礼貌的委托表达方式",
+      "meaning": "十五课",
+      "lesson": ""
+    },
+    {
+      "category": "Vています",
+      "pattern": "表示动作正在进行，或表示过去动作造成的结果状态的持续",
+      "meaning": "十五课、十六课",
+      "lesson": ""
+    },
+    {
+      "category": "Vてもいいです",
+      "pattern": "表示许可。“可以做……”",
+      "meaning": "十六课",
+      "lesson": ""
+    },
+    {
+      "category": "Vてはいけません",
+      "pattern": "表示禁止。“不可以做……”",
+      "meaning": "十六课",
+      "lesson": ""
+    },
+    {
+      "category": "V1て、V2て、V3",
+      "pattern": "用て形连接动词，表示动作按顺序发生",
+      "meaning": "十六课",
+      "lesson": ""
+    },
+    {
+      "category": "V1てから、V2",
+      "pattern": "表示V1动作结束之后，再进行V2动作",
+      "meaning": "十七课",
+      "lesson": ""
+    },
+    {
+      "category": "S1ても、S2",
+      "pattern": "表示逆接条件。“即使……，也……”",
+      "meaning": "二十一课",
+      "lesson": ""
+    },
+    {
+      "category": "Vてくれる / もらう / あげる",
+      "pattern": "授受动词。表示伴随恩惠关系的行为",
+      "meaning": "二十二课",
+      "lesson": ""
+    },
+    {
+      "category": "ない形",
+      "pattern": "Vない (ない形)",
+      "meaning": "动词的未然形。非过去时否定形的简体形",
+      "lesson": "十七课"
+    },
+    {
+      "category": "Vないでください",
+      "pattern": "用于要求或命令对方不要做某事",
+      "meaning": "十七课",
+      "lesson": ""
+    },
+    {
+      "category": "Vなくてもいいです",
+      "pattern": "表示没有必要做某事。“不做……也可以”",
+      "meaning": "十七课",
+      "lesson": ""
+    },
+    {
+      "category": "た形",
+      "pattern": "Vた (た形)",
+      "meaning": "动词的过去肯定形的简体形",
+      "lesson": "十八课"
+    },
+    {
+      "category": "Vたことがあります",
+      "pattern": "叙述过去的体验。“做过某事”",
+      "meaning": "十八课",
+      "lesson": ""
+    },
+    {
+      "category": "V1たり、V2たりします",
+      "pattern": "从多个动作中列举几个代表性的例子",
+      "meaning": "十八课",
+      "lesson": ""
+    },
+    {
+      "category": "Vたあとで、V2",
+      "pattern": "表示V1的动作做完之后，接着做V2的动作",
+      "meaning": "十八课",
+      "lesson": ""
+    },
+    {
+      "category": "S1たら、S2",
+      "pattern": "表示假定条件“如果……”，或确定条件“……之后，就……”",
+      "meaning": "二十一课",
+      "lesson": ""
+    },
+    {
+      "category": "普通形",
+      "pattern": "简体形",
+      "meaning": "非礼貌体。用于朋友、家人之间或书面语",
+      "lesson": "十九课"
+    },
+    {
+      "category": "简体形と思います",
+      "pattern": "陈述自己的意见、感想或推测。“我想……”",
+      "meaning": "十九课",
+      "lesson": ""
+    },
+    {
+      "category": "简体形と言います",
+      "pattern": "间接引用他人的话语",
+      "meaning": "十九课",
+      "lesson": ""
+    },
+    {
+      "category": "助詞",
+      "pattern": "は",
+      "meaning": "提示句子的主题",
+      "lesson": "一课"
+    },
+    {
+      "category": "も",
+      "pattern": "意思是“也”",
+      "meaning": "一课",
+      "lesson": ""
+    },
+    {
+      "category": "の",
+      "pattern": "连接两个名词，表示所属关系、内容、种类、产地等",
+      "meaning": "一课、二课、三课",
+      "lesson": ""
+    },
+    {
+      "category": "を",
+      "pattern": "表示动作的对象；表示移动经过的场所",
+      "meaning": "四课、十九课",
+      "lesson": ""
+    },
+    {
+      "category": "で",
+      "pattern": "表示动作进行的场所、交通手段、方法、活动举办地、比较的范围",
+      "meaning": "四课、六课、十课、十一课、十七课",
+      "lesson": ""
+    },
+    {
+      "category": "と",
+      "pattern": "并列连接名词；表示共同行动的对象",
+      "meaning": "四课、六课",
+      "lesson": ""
+    },
+    {
+      "category": "に",
+      "pattern": "表示动作发生的时间点、移动的目的地、动作的授受对象、动作的归着点、频度基准",
+      "meaning": "五课、十课、十五课、二十课、二十一课",
+      "lesson": ""
+    },
+    {
+      "category": "へ",
+      "pattern": "表示移动的方向",
+      "meaning": "六课",
+      "lesson": ""
+    },
+    {
+      "category": "から",
+      "pattern": "表示时间或场所的起点",
+      "meaning": "五课",
+      "lesson": ""
+    },
+    {
+      "category": "まで",
+      "pattern": "表示时间或场所的终点",
+      "meaning": "五课",
+      "lesson": ""
+    },
+    {
+      "category": "ごろ / ぐらい",
+      "pattern": "表示大概的时间点 / 表示大概的数量或期间",
+      "meaning": "五课、十二课",
+      "lesson": ""
+    },
+    {
+      "category": "が",
+      "pattern": "表示存在句的主语、好き等词的对象、修饰句中的主语、自然现象的主体",
+      "meaning": "八课、九课、二十课、二十一课",
+      "lesson": ""
+    },
+    {
+      "category": "や / とか",
+      "pattern": "从多个事物中列举几个例子",
+      "meaning": "八课、十四课",
+      "lesson": ""
+    },
+    {
+      "category": "までに",
+      "pattern": "表示动作完成的最终期限",
+      "meaning": "二十一课",
+      "lesson": ""
+    },
+    {
+      "category": "接続詞 (接続助詞)",
+      "pattern": "S1か、S2か",
+      "meaning": "用于选择疑问句。“是……，还是……”",
+      "lesson": "二课"
+    },
+    {
+      "category": "それから",
+      "pattern": "按顺序连接两个句子。“然后”",
+      "meaning": "四课",
+      "lesson": ""
+    },
+    {
+      "category": "そして",
+      "pattern": "并列连接两个句子。“而且”",
+      "meaning": "七课",
+      "lesson": ""
+    },
+    {
+      "category": "が",
+      "pattern": "连接两个句子表示逆接。“但是”。也用于委婉地引出话题。",
+      "meaning": "七课、十三课",
+      "lesson": ""
+    },
+    {
+      "category": "S1から、S2",
+      "pattern": "表示原因、理由。“因为S1，所以S2”",
+      "meaning": "九课",
+      "lesson": ""
+    },
+    {
+      "category": "助数詞",
+      "pattern": "～えん",
+      "meaning": "日本的货币单位",
+      "lesson": "三课"
+    },
+    {
+      "category": "～じ / ～ふん/ぷん",
+      "pattern": "表示时间的说法",
+      "meaning": "五课",
+      "lesson": ""
+    },
+    {
+      "category": "～にん",
+      "pattern": "点人数时使用的量词",
+      "meaning": "八课",
+      "lesson": ""
+    },
+    {
+      "category": "～つ",
+      "pattern": "数物品时使用的量词（1到10）",
+      "meaning": "十课",
+      "lesson": ""
+    },
+    {
+      "category": "～じかん / ～にち / ～しゅうかん 等",
+      "pattern": "表示期间长短的量词",
+      "meaning": "十二课",
+      "lesson": ""
+    },
+    {
+      "category": "フレーズ",
+      "pattern": "はい、そうです",
+      "meaning": "用于对名词句疑问的肯定回答。“是的，是这样”",
+      "lesson": "一课"
+    },
+    {
+      "category": "何も Vません",
+      "pattern": "表示全面否定。“什么也不（没）做”",
+      "meaning": "四课",
+      "lesson": ""
+    },
+    {
+      "category": "どこへも Vません",
+      "pattern": "表示全面否定。“哪里也（没）去”",
+      "meaning": "六课",
+      "lesson": ""
+    },
+    {
+      "category": "Nにします",
+      "pattern": "表示从多个选项中选定一项。“决定要N”",
+      "meaning": "十课",
+      "lesson": ""
+    },
+    {
+      "category": "Nが 欲しいです",
+      "pattern": "表达说话者希望拥有某物的愿望。“想要N”",
+      "meaning": "十三课",
+      "lesson": ""
+    },
+    {
+      "category": "なん+助数詞+も",
+      "pattern": "表示说话者主观上感觉数量相当多",
+      "meaning": "十八课",
+      "lesson": ""
+    },
+    {
+      "category": "疑問詞+でも",
+      "pattern": "表示“无论何时/何地/何物/谁都可以”",
+      "meaning": "十八课",
+      "lesson": ""
+    },
+    {
+      "category": "疑問詞",
+      "pattern": "なん / なに",
+      "meaning": "询问事物或动作对象",
+      "lesson": "二课、四课"
+    },
+    {
+      "category": "だれ",
+      "pattern": "询问人物",
+      "meaning": "二课",
+      "lesson": ""
+    },
+    {
+      "category": "どこ",
+      "pattern": "询问场所",
+      "meaning": "三课",
+      "lesson": ""
+    },
+    {
+      "category": "いくら",
+      "pattern": "询问价格",
+      "meaning": "三课",
+      "lesson": ""
+    },
+    {
+      "category": "いつ",
+      "pattern": "询问时间",
+      "meaning": "六课",
+      "lesson": ""
+    },
+    {
+      "category": "どう",
+      "pattern": "询问对方的感想、意见",
+      "meaning": "七课",
+      "lesson": ""
+    },
+    {
+      "category": "どれ",
+      "pattern": "从三者或以上中选择时使用",
+      "meaning": "七课",
+      "lesson": ""
+    },
+    {
+      "category": "どんな N",
+      "pattern": "询问N的状态、性质、种类",
+      "meaning": "七课",
+      "lesson": ""
+    },
+    {
+      "category": "どうして",
+      "pattern": "询问理由",
+      "meaning": "九课",
+      "lesson": ""
+    },
+    {
+      "category": "どちら",
+      "pattern": "比较两者时使用",
+      "meaning": "十一课",
+      "lesson": ""
+    },
+    {
+      "category": "どのぐらい",
+      "pattern": "询问时间或期间的长短",
+      "meaning": "十二课",
+      "lesson": ""
+    },
+    {
+      "category": "その他",
+      "pattern": "N1はN2がA",
+      "meaning": "叙述人或事物特征的句式",
+      "lesson": "十一课"
+    },
+    {
+      "category": "比較・最上級",
+      "pattern": "使用「より」「～のほう」「いちばん」的表达方式",
+      "meaning": "十一课",
+      "lesson": ""
+    },
+    {
+      "category": "授受動詞",
+      "pattern": "使用「くれる」「あげる」「もらう」的表达方式",
+      "meaning": "二十二课",
+      "lesson": ""
+    },
+    {
+      "category": "名词前的定语",
+      "pattern": "单词或句子放在名词前修饰名词。修饰句中的主语用「が」表示",
+      "meaning": "二十课",
+      "lesson": ""
+    }
+  ],
+  "grammarBeginnerDown": [
+    {
+      "category": "ます形",
+      "pattern": "お/ごVします",
+      "meaning": "叙述自己谦逊的行为以示敬意（自谦语）。",
+      "lesson": "四十二课"
+    },
+    {
+      "category": "ます形",
+      "pattern": "Vなさい",
+      "meaning": "用于父母对孩子或老师对学生下达指示、命令。",
+      "lesson": "三十八课"
+    },
+    {
+      "category": "辞書形",
+      "pattern": "V dic.と、S",
+      "meaning": "表示某一动作一旦发生，必然会出现另一结果。“一……就……”。",
+      "lesson": "二十三课"
+    },
+    {
+      "category": "辞書形",
+      "pattern": "V dic./Vない ことにしました",
+      "meaning": "表示已经决定的内容。",
+      "lesson": "二十九课"
+    },
+    {
+      "category": "辞書形",
+      "pattern": "V dic./Vない ことになりました",
+      "meaning": "表示非个人意志，而是集体商量或根据命令决定下来的事情。",
+      "lesson": "二十九课"
+    },
+    {
+      "category": "辞書形",
+      "pattern": "V dic./Vない ことになっています",
+      "meaning": "表示已经确定的计划、组织的规章制度和惯例等。",
+      "lesson": "二十九课"
+    },
+    {
+      "category": "辞書形",
+      "pattern": "V dic./Vない ように、S",
+      "meaning": "表示为了实现V的状态而进行S的动作。V多为可能形、ない形等非意志性动词。",
+      "lesson": "三十五课"
+    },
+    {
+      "category": "辞書形",
+      "pattern": "V dic./Vない ようにしています",
+      "meaning": "表示努力做到习惯性地做某事，或努力避免做某事。",
+      "lesson": "三十五课"
+    },
+    {
+      "category": "辞書形",
+      "pattern": "V dic. のにS",
+      "meaning": "以“N+にS”的形式表示用途或目的。",
+      "lesson": "三十五课"
+    },
+    {
+      "category": "て形",
+      "pattern": "Vて来ます",
+      "meaning": "意思是去某一地方做某一事情之后再返回到原来的地方。",
+      "lesson": "二十三课"
+    },
+    {
+      "category": "て形",
+      "pattern": "Vていません",
+      "meaning": "表示动作还没有发生，或者还没有结束。",
+      "lesson": "二十五课"
+    },
+    {
+      "category": "て形",
+      "pattern": "Vておきます",
+      "meaning": "表示为了将来而预先准备，或保持某种状态不变。",
+      "lesson": "三十一课"
+    },
+    {
+      "category": "て形",
+      "pattern": "Vてしまいます",
+      "meaning": "强调动作的完了，或表示对已发生动作的遗憾、懊悔之情。",
+      "lesson": "三十四课"
+    },
+    {
+      "category": "て形",
+      "pattern": "Vてみます",
+      "meaning": "表示尝试着做某事来察看结果。",
+      "lesson": "三十七课"
+    },
+    {
+      "category": "て形",
+      "pattern": "Vていただけませんか",
+      "meaning": "礼貌地请求对方做某事的句式。",
+      "lesson": "二十七课"
+    },
+    {
+      "category": "た形",
+      "pattern": "Vた ほうがいいです",
+      "meaning": "向对方提出建议、忠告。",
+      "lesson": "三十二课"
+    },
+    {
+      "category": "た形",
+      "pattern": "V1 たまま V2",
+      "meaning": "表示V2是在一直保持着V1的动作结果这种不正常的状态下进行的。",
+      "lesson": "三十四课"
+    },
+    {
+      "category": "た形",
+      "pattern": "Vたばかりです",
+      "meaning": "表示说话者主观感觉动作发生后经过的时间不长。",
+      "lesson": "三十九课"
+    },
+    {
+      "category": "普通形",
+      "pattern": "S(简体形)ので、S2",
+      "meaning": "叙述S2的原因或理由，客观叙述因果关系。",
+      "lesson": "二十五课"
+    },
+    {
+      "category": "普通形",
+      "pattern": "疑问词S(简体形)か、～",
+      "meaning": "句子中包含带有疑问词的疑问句。",
+      "lesson": "二十五课"
+    },
+    {
+      "category": "普通形",
+      "pattern": "S(简体形)かどうか、～",
+      "meaning": "句子中包含不带疑问词的疑问句。“是否……”。",
+      "lesson": "二十五课"
+    },
+    {
+      "category": "普通形",
+      "pattern": "S(简体形)とき、S2",
+      "meaning": "连接两个句子，意思是“……的时候”。",
+      "lesson": "二十六课"
+    },
+    {
+      "category": "普通形",
+      "pattern": "S(简体形)んです",
+      "meaning": "用于针对某种状况要求或做出解释。",
+      "lesson": "二十七课"
+    },
+    {
+      "category": "普通形",
+      "pattern": "S(简体形)し、～",
+      "meaning": "罗列相同类型的评价内容或说明判断的理由。",
+      "lesson": "二十九课"
+    },
+    {
+      "category": "普通形",
+      "pattern": "S(简体形) そうです",
+      "meaning": "传达看到的或听到的信息。“听说……”。",
+      "lesson": "二十八课"
+    },
+    {
+      "category": "普通形",
+      "pattern": "S(简体形)かもしれません",
+      "meaning": "表示对将来的事情进行推测，“也许”。",
+      "lesson": "三十二课"
+    },
+    {
+      "category": "普通形",
+      "pattern": "S(简体形)でしょう",
+      "meaning": "表达说话者的推测，可能性比「かもしれません」高。",
+      "lesson": "三十三课"
+    },
+    {
+      "category": "普通形",
+      "pattern": "S(简体形) ようです",
+      "meaning": "根据感官获得的信息对状况做出推测或判断。“好像……”。",
+      "lesson": "三十九课"
+    },
+    {
+      "category": "普通形",
+      "pattern": "S1(简体形)のに、S2",
+      "meaning": "S2与根据S1推断的结果相反，表示意外、不满等。“可是……”。",
+      "lesson": "三十九课"
+    },
+    {
+      "category": "形态变化",
+      "pattern": "～なります",
+      "meaning": "表示状况、状态发生变化。“变成……”。",
+      "lesson": "二十三课"
+    },
+    {
+      "category": "形态变化",
+      "pattern": "可能形",
+      "meaning": "表达事物可能实现或不可能实现。",
+      "lesson": "二十四课"
+    },
+    {
+      "category": "形态变化",
+      "pattern": "V(可能形)dic. ようになります",
+      "meaning": "表示从不可能的状态向可能的状态转化。",
+      "lesson": "二十四课"
+    },
+    {
+      "category": "形态变化",
+      "pattern": "V(可能形)なくなります",
+      "meaning": "表示从可能的状态向不可能的状态转化。",
+      "lesson": "二十四课"
+    },
+    {
+      "category": "形态变化",
+      "pattern": "形容詞・形容動詞の副詞形",
+      "meaning": "形容词「い」变「く」，形容动词词干后加「に」，修饰动词。",
+      "lesson": "二十八课"
+    },
+    {
+      "category": "形态变化",
+      "pattern": "意志形",
+      "meaning": "表示说话者的意志，「Vましょう」的简体形。",
+      "lesson": "三十课"
+    },
+    {
+      "category": "形态变化",
+      "pattern": "V(意志形) と思っています",
+      "meaning": "陈述自己将来想要做什么的个人意志。",
+      "lesson": "三十课"
+    },
+    {
+      "category": "形态变化",
+      "pattern": "Vます/いA/なA すぎます",
+      "meaning": "表示行为或状态的过度。",
+      "lesson": "三十一课"
+    },
+    {
+      "category": "形态变化",
+      "pattern": "被动形",
+      "meaning": "从受事者的立场来叙述行为动作。",
+      "lesson": "三十六课"
+    },
+    {
+      "category": "形态变化",
+      "pattern": "命令形 / 禁止形",
+      "meaning": "命令对方做或不做某事。",
+      "lesson": "三十八课"
+    },
+    {
+      "category": "形态变化",
+      "pattern": "使役形",
+      "meaning": "表示强制对方做某事，或允许对方做某事。",
+      "lesson": "四十课"
+    },
+    {
+      "category": "形态变化",
+      "pattern": "敬语 / 自谦语",
+      "meaning": "对听话者或话题人物表示敬意时使用的语言。",
+      "lesson": "四十一课、四十二课"
+    },
+    {
+      "category": "助詞",
+      "pattern": "しか + 否定",
+      "meaning": "后面必须搭配否定形式，表示“只”。",
+      "lesson": "二十四课"
+    },
+    {
+      "category": "助詞",
+      "pattern": "で",
+      "meaning": "表示原因，常与自然灾害、事故等名词一起使用。",
+      "lesson": "二十八课"
+    },
+    {
+      "category": "助詞",
+      "pattern": "で",
+      "meaning": "和表示数量的词一起使用，表示动作所需的时间、金钱、人数等。",
+      "lesson": "三十四课"
+    },
+    {
+      "category": "接続詞 (接続助詞)",
+      "pattern": "けど",
+      "meaning": "常用于会话中，表示逆接“虽然……但是”，或作为开场白。",
+      "lesson": "二十九课、三十三课"
+    },
+    {
+      "category": "フレーズ",
+      "pattern": "Nがします",
+      "meaning": "描述感知到的味道、气味或声音。",
+      "lesson": "二十八课"
+    },
+    {
+      "category": "フレーズ",
+      "pattern": "V dic. のは/が/を～",
+      "meaning": "形式名词「の」将动词名词化，作为句子的主语或宾语。",
+      "lesson": "三十四课"
+    },
+    {
+      "category": "フレーズ",
+      "pattern": "～ところです",
+      "meaning": "表示动作正处于将要开始、正在进行或刚刚结束的阶段。",
+      "lesson": "三十七课"
+    },
+    {
+      "category": "フレーズ",
+      "pattern": "N1というN2",
+      "meaning": "就听话者或说话者不太熟悉的人、物、场所（N1）加以描述。",
+      "lesson": "三十六课"
+    },
+    {
+      "category": "フレーズ",
+      "pattern": "Nは～という意味です",
+      "meaning": "用来定义标志或词语的意义。",
+      "lesson": "三十八课"
+    }
+  ],
+  "vocabBeginnerUp": [
+    {
+      "word": "私",
+      "reading": "わたし",
+      "meaning": "我",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "学生",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "~人",
+      "reading": "~じん",
+      "meaning": "人 (表示国籍时使用的接尾词)",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "エンジニア",
+      "reading": "エンジニア",
+      "meaning": "工程师",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "~員",
+      "reading": "~いん",
+      "meaning": "员",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "銀行員",
+      "reading": "ぎんこういん",
+      "meaning": "银行职员",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "会社員",
+      "reading": "かいしゃいん",
+      "meaning": "公司职员",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "老师",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "研究員",
+      "reading": "けんきゅういん",
+      "meaning": "研究员",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "日本語学校",
+      "reading": "にほんごがっこう",
+      "meaning": "日语学校",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "大学",
+      "reading": "だいがく",
+      "meaning": "大学",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "寮",
+      "reading": "りょう",
+      "meaning": "宿舍",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "管理人",
+      "reading": "かんりにん",
+      "meaning": "管理员",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "(お)名前",
+      "reading": "(お)なまえ",
+      "meaning": "(您的)姓名",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "(お)国",
+      "reading": "(お)くに",
+      "meaning": "(您的)国家",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "趣味",
+      "reading": "しゅみ",
+      "meaning": "爱好",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "水泳",
+      "reading": "すいえい",
+      "meaning": "游泳",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "学校",
+      "reading": "がっこう",
+      "meaning": "学校",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "朋友",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "はい",
+      "reading": "はい",
+      "meaning": "对, 是",
+      "partOfSpeech": "副詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "いいえ",
+      "reading": "いいえ",
+      "meaning": "不, 不是",
+      "partOfSpeech": "副詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "~さん",
+      "reading": "~さん",
+      "meaning": "先生, 女士",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "そうです",
+      "reading": "そうです",
+      "meaning": "是的",
+      "partOfSpeech": "句",
+      "lesson": "第一課"
+    },
+    {
+      "word": "初めまして",
+      "reading": "はじめまして",
+      "meaning": "初次见面",
+      "partOfSpeech": "句",
+      "lesson": "第一課"
+    },
+    {
+      "word": "どうぞよろしくお願いします",
+      "reading": "どうぞよろしくおねがいします",
+      "meaning": "请多关照",
+      "partOfSpeech": "句",
+      "lesson": "第一課"
+    },
+    {
+      "word": "こちらこそどうぞよろしくお願いします",
+      "reading": "こちらこそどうぞよろしくおねがいします",
+      "meaning": "我才是要请您多关照呢",
+      "partOfSpeech": "句",
+      "lesson": "第一課"
+    },
+    {
+      "word": "すみません",
+      "reading": "すみません",
+      "meaning": "不好意思, 抱歉。(与人搭话, 或拒绝对方的要求时, 开头使用的表达方式)",
+      "partOfSpeech": "句",
+      "lesson": "第一課"
+    },
+    {
+      "word": "お名前は?",
+      "reading": "おなまえは?",
+      "meaning": "您怎么称呼?",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "お国はどちらですか",
+      "reading": "おくにはどちらですか",
+      "meaning": "您是哪国人?",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "~から来ました",
+      "reading": "~からきました",
+      "meaning": "是……人",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第一課"
+    },
+    {
+      "word": "~は?",
+      "reading": "~は?",
+      "meaning": "...呢?",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "そうですか",
+      "reading": "そうですか",
+      "meaning": "是这样啊",
+      "partOfSpeech": "句",
+      "lesson": "第一課"
+    },
+    {
+      "word": "例",
+      "reading": "れい",
+      "meaning": "例, 例句",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "中国",
+      "reading": "ちゅうごく",
+      "meaning": "中国",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "ペルー",
+      "reading": "ペルー",
+      "meaning": "秘鲁",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "オーストラリア",
+      "reading": "オーストラリア",
+      "meaning": "澳大利亚",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "フランス",
+      "reading": "フランス",
+      "meaning": "法国",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "ベトナム",
+      "reading": "ベトナム",
+      "meaning": "越南",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "タイ",
+      "reading": "タイ",
+      "meaning": "泰国",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "日本",
+      "reading": "にほん",
+      "meaning": "日本",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "アメリカ",
+      "reading": "アメリカ",
+      "meaning": "美国",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "韓国",
+      "reading": "かんこく",
+      "meaning": "韩国",
+      "partOfSpeech": "名詞",
+      "lesson": "第一課"
+    },
+    {
+      "word": "使いましょう",
+      "reading": "つかいましょう",
+      "meaning": "应用练习",
+      "partOfSpeech": "句",
+      "lesson": "第一課"
+    },
+    {
+      "word": "これ",
+      "reading": "これ",
+      "meaning": "这个(指离说话者近的东西)",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "それ",
+      "reading": "それ",
+      "meaning": "那个(指离听话人近的东西)",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "あれ",
+      "reading": "あれ",
+      "meaning": "那个(指离听话者和说话者都远的东西)",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "この",
+      "reading": "この",
+      "meaning": "这(指离说话者近的东西,后接名词)",
+      "partOfSpeech": "連体詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "その",
+      "reading": "その",
+      "meaning": "那(指离听话者近的东西,后接名词)",
+      "partOfSpeech": "連体詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "あの",
+      "reading": "あの",
+      "meaning": "那(指离听话者和说话者都远的东西,后接名词)",
+      "partOfSpeech": "連体詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "ノート",
+      "reading": "ノート",
+      "meaning": "笔记本",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "本",
+      "reading": "ほん",
+      "meaning": "书",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "雑誌",
+      "reading": "ざっし",
+      "meaning": "杂志",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "パソコン",
+      "reading": "パソコン",
+      "meaning": "个人台式电脑",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "傘",
+      "reading": "かさ",
+      "meaning": "伞",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "かばん",
+      "reading": "かばん",
+      "meaning": "手提包,皮包",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "テレビ",
+      "reading": "テレビ",
+      "meaning": "电视机",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "ボールペン",
+      "reading": "ボールペン",
+      "meaning": "圆珠笔",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "財布",
+      "reading": "さいふ",
+      "meaning": "钱包",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "新聞",
+      "reading": "しんぶん",
+      "meaning": "报纸",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "砂糖",
+      "reading": "さとう",
+      "meaning": "糖",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "塩",
+      "reading": "しお",
+      "meaning": "盐",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "しょうゆ",
+      "reading": "しょうゆ",
+      "meaning": "酱油",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "ソース",
+      "reading": "ソース",
+      "meaning": "调味汁",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "うどん",
+      "reading": "うどん",
+      "meaning": "乌冬面",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "そば",
+      "reading": "そば",
+      "meaning": "荞麦面",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "水",
+      "reading": "みず",
+      "meaning": "水,凉水",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "ジュース",
+      "reading": "ジュース",
+      "meaning": "果汁,汽水",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "紅茶",
+      "reading": "こうちゃ",
+      "meaning": "红茶",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "コーヒー",
+      "reading": "コーヒー",
+      "meaning": "咖啡",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "カタログ",
+      "reading": "カタログ",
+      "meaning": "商品目录",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "コンピューター",
+      "reading": "コンピューター",
+      "meaning": "电脑,笔记本电脑",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "カメラ",
+      "reading": "カメラ",
+      "meaning": "照相机",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "携帯電話",
+      "reading": "けいたいでんわ",
+      "meaning": "手机",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "車",
+      "reading": "くるま",
+      "meaning": "轿车",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "~製",
+      "reading": "~せい",
+      "meaning": "生产",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "人",
+      "reading": "ひと",
+      "meaning": "人",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "シャープペンシル",
+      "reading": "シャープペンシル",
+      "meaning": "自动铅笔",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "鶏肉",
+      "reading": "とりにく",
+      "meaning": "鸡肉",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "豚肉",
+      "reading": "ぶたにく",
+      "meaning": "猪肉",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "牛どん",
+      "reading": "ぎゅうどん",
+      "meaning": "牛肉盖饭",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "牛肉",
+      "reading": "ぎゅうにく",
+      "meaning": "牛肉",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "肉",
+      "reading": "にく",
+      "meaning": "肉",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "親子どん",
+      "reading": "おやこどん",
+      "meaning": "鸡肉鸡蛋盖饭",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "すき焼き",
+      "reading": "すきやき",
+      "meaning": "日式牛肉火锅",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "ラーメン",
+      "reading": "ラーメン",
+      "meaning": "汤面",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "焼肉定食",
+      "reading": "やきにくていしょく",
+      "meaning": "烤肉套餐",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "CD",
+      "reading": "シーディー",
+      "meaning": "CD,激光唱片",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "~語",
+      "reading": "~ご",
+      "meaning": "语",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "何",
+      "reading": "なん",
+      "meaning": "什么",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "誰",
+      "reading": "だれ",
+      "meaning": "谁",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "ドイツ",
+      "reading": "ドイツ",
+      "meaning": "德国",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "イタリア",
+      "reading": "イタリア",
+      "meaning": "意大利",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "イギリス",
+      "reading": "イギリス",
+      "meaning": "英国",
+      "partOfSpeech": "名詞",
+      "lesson": "第二課"
+    },
+    {
+      "word": "ここ",
+      "reading": "ここ",
+      "meaning": "这里(指说话者所在的地方)",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "そこ",
+      "reading": "そこ",
+      "meaning": "那里(指听话者所在的地方)",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "あそこ",
+      "reading": "あそこ",
+      "meaning": "那里(指离说话者和听话者双方都比较远的地方)",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "食堂",
+      "reading": "しょくどう",
+      "meaning": "食堂,餐厅",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "前台,传达室",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "~室",
+      "reading": "~しつ",
+      "meaning": "室",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "事務室",
+      "reading": "じむしつ",
+      "meaning": "办公室",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "会議室",
+      "reading": "かいぎしつ",
+      "meaning": "会议室",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "コンピューター室",
+      "reading": "コンピューターしつ",
+      "meaning": "机房",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "トイレ",
+      "reading": "トイレ",
+      "meaning": "洗手间,厕所",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "図書室",
+      "reading": "としょしつ",
+      "meaning": "图书阅览室",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "教室",
+      "reading": "きょうしつ",
+      "meaning": "教室",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "ロビー",
+      "reading": "ロビー",
+      "meaning": "大厅",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "コピー機",
+      "reading": "コピーき",
+      "meaning": "复印机",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "郵便局",
+      "reading": "ゆうびんきょく",
+      "meaning": "邮局",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "病院",
+      "reading": "びょういん",
+      "meaning": "医院",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "大使館",
+      "reading": "たいしかん",
+      "meaning": "大使馆",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "银行",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "コンビニ",
+      "reading": "コンビニ",
+      "meaning": "便利店",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "デパート",
+      "reading": "デパート",
+      "meaning": "百货公司",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "駅",
+      "reading": "えき",
+      "meaning": "火车或地铁的车站",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "辞書",
+      "reading": "じしょ",
+      "meaning": "词典",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "地図",
+      "reading": "ちず",
+      "meaning": "地图",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "meaning": "冰箱",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "エアコン",
+      "reading": "エアコン",
+      "meaning": "空调",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "钟表",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "電子レンジ",
+      "reading": "でんしレンジ",
+      "meaning": "微波炉",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "洗濯機",
+      "reading": "せんたくき",
+      "meaning": "洗衣机",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "掃除機",
+      "reading": "そうじき",
+      "meaning": "吸尘器",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "ポット",
+      "reading": "ポット",
+      "meaning": "壶,热水瓶,电暖瓶",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "お茶",
+      "reading": "おちゃ",
+      "meaning": "茶",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "ワイン",
+      "reading": "ワイン",
+      "meaning": "葡萄酒",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "ビール",
+      "reading": "ビール",
+      "meaning": "啤酒",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "チョコレート",
+      "reading": "チョコレート",
+      "meaning": "巧克力",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "靴",
+      "reading": "くつ",
+      "meaning": "鞋",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "ゼロ/零",
+      "reading": "ゼロ/れい",
+      "meaning": "零",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "一",
+      "reading": "いち",
+      "meaning": "一",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "二",
+      "reading": "に",
+      "meaning": "二",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "三",
+      "reading": "さん",
+      "meaning": "三",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "四",
+      "reading": "よん/し",
+      "meaning": "四",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "五",
+      "reading": "ご",
+      "meaning": "五",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "六",
+      "reading": "ろく",
+      "meaning": "六",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "七",
+      "reading": "なな/しち",
+      "meaning": "七",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "八",
+      "reading": "はち",
+      "meaning": "八",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "九",
+      "reading": "きゅう/く",
+      "meaning": "九",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "十",
+      "reading": "じゅう",
+      "meaning": "十",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "百",
+      "reading": "ひゃく(びゃく/ぴゃく)",
+      "meaning": "百",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "千",
+      "reading": "せん(ぜん)",
+      "meaning": "千",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "万",
+      "reading": "まん",
+      "meaning": "万",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "一階",
+      "reading": "いっかい",
+      "meaning": "层",
+      "partOfSpeech": "名詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "何~",
+      "reading": "なん~",
+      "meaning": "几",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "何階",
+      "reading": "なんがい",
+      "meaning": "几层",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "~円",
+      "reading": "~えん",
+      "meaning": "日元",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "どこ",
+      "reading": "どこ",
+      "meaning": "哪里",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "いくら",
+      "reading": "いくら",
+      "meaning": "多少钱",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "じゃ",
+      "reading": "じゃ",
+      "meaning": "那么",
+      "partOfSpeech": "副詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "違います",
+      "reading": "ちがいます",
+      "meaning": "不是。错了。",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第三課"
+    },
+    {
+      "word": "どうも",
+      "reading": "どうも",
+      "meaning": "谢谢。(比较随便的说法)",
+      "partOfSpeech": "副詞",
+      "lesson": "第三課"
+    },
+    {
+      "word": "~をください",
+      "reading": "~をください",
+      "meaning": "我要(买)",
+      "partOfSpeech": "句",
+      "lesson": "第三課"
+    },
+    {
+      "word": "おいしいですね",
+      "reading": "おいしいですね",
+      "meaning": "真好吃。真好喝",
+      "partOfSpeech": "句",
+      "lesson": "第三課"
+    },
+    {
+      "word": "パン",
+      "reading": "パン",
+      "meaning": "面包",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "魚",
+      "reading": "さかな",
+      "meaning": "鱼",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "果物",
+      "reading": "くだもの",
+      "meaning": "水果",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "野菜",
+      "reading": "やさい",
+      "meaning": "蔬菜",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "カレー",
+      "reading": "カレー",
+      "meaning": "咖喱(饭)",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "牛乳",
+      "reading": "ぎゅうにゅう",
+      "meaning": "牛奶",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "(お)酒",
+      "reading": "(お)さけ",
+      "meaning": "酒类,日本酒",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "卵",
+      "reading": "たまご",
+      "meaning": "鸡蛋",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "映画",
+      "reading": "えいが",
+      "meaning": "电影",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaning": "音乐",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "クラシック",
+      "reading": "クラシック",
+      "meaning": "古典音乐",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "ジャズ",
+      "reading": "ジャズ",
+      "meaning": "爵士乐",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "ロック",
+      "reading": "ロック",
+      "meaning": "摇滚乐",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "J-ポップ",
+      "reading": "J-ポップ",
+      "meaning": "日本流行歌曲",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "テニス",
+      "reading": "テニス",
+      "meaning": "网球",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "宿題",
+      "reading": "しゅくだい",
+      "meaning": "作业",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "ジョギング",
+      "reading": "ジョギング",
+      "meaning": "慢跑",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "サッカー",
+      "reading": "サッカー",
+      "meaning": "足球",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "ゲーム",
+      "reading": "ゲーム",
+      "meaning": "游戏",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "手紙",
+      "reading": "てがみ",
+      "meaning": "信",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "お金",
+      "reading": "おかね",
+      "meaning": "钱",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "切手",
+      "reading": "きって",
+      "meaning": "邮票",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "图书馆",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "公園",
+      "reading": "こうえん",
+      "meaning": "公园",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "うち",
+      "reading": "うち",
+      "meaning": "家,家里人",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "レストラン",
+      "reading": "レストラン",
+      "meaning": "餐厅",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "スーパー",
+      "reading": "スーパー",
+      "meaning": "超市",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "~屋",
+      "reading": "~や",
+      "meaning": "店",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "パン屋",
+      "reading": "パンや",
+      "meaning": "面包店",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "昼ご飯",
+      "reading": "ひるごはん",
+      "meaning": "午饭",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "朝ご飯",
+      "reading": "あさごはん",
+      "meaning": "早饭",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "晩ご飯",
+      "reading": "ばんごはん",
+      "meaning": "晚饭",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "ご飯",
+      "reading": "ごはん",
+      "meaning": "饭,米饭",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "(お)弁当",
+      "reading": "(お)べんとう",
+      "meaning": "盒饭",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaning": "烹饪,菜肴",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "今晩",
+      "reading": "こんばん",
+      "meaning": "今晚",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "明天",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "今天",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "明後日",
+      "reading": "あさって",
+      "meaning": "后天",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "毎朝",
+      "reading": "まいあさ",
+      "meaning": "每天早上",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "毎晩",
+      "reading": "まいばん",
+      "meaning": "每天晚上",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "每天",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "食べます",
+      "reading": "たべます",
+      "meaning": "吃",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第四課"
+    },
+    {
+      "word": "飲みます",
+      "reading": "のみます",
+      "meaning": "喝",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第四課"
+    },
+    {
+      "word": "買います",
+      "reading": "かいます",
+      "meaning": "买",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第四課"
+    },
+    {
+      "word": "書きます",
+      "reading": "かきます",
+      "meaning": "写",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第四課"
+    },
+    {
+      "word": "聞きます",
+      "reading": "ききます",
+      "meaning": "听",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第四課"
+    },
+    {
+      "word": "見ます",
+      "reading": "みます",
+      "meaning": "看",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第四課"
+    },
+    {
+      "word": "読みます",
+      "reading": "よみます",
+      "meaning": "读,看",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第四課"
+    },
+    {
+      "word": "します",
+      "reading": "します",
+      "meaning": "做",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第四課"
+    },
+    {
+      "word": "下ろします",
+      "reading": "おろします",
+      "meaning": "取(钱)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第四課"
+    },
+    {
+      "word": "何",
+      "reading": "なに",
+      "meaning": "什么",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "いつも",
+      "reading": "いつも",
+      "meaning": "平时",
+      "partOfSpeech": "副詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "经常",
+      "partOfSpeech": "副詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "それから",
+      "reading": "それから",
+      "meaning": "然后",
+      "partOfSpeech": "接続詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "質問",
+      "reading": "しつもん",
+      "meaning": "提问",
+      "partOfSpeech": "名詞",
+      "lesson": "第四課"
+    },
+    {
+      "word": "今",
+      "reading": "いま",
+      "meaning": "现在",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "午前",
+      "reading": "ごぜん",
+      "meaning": "上午",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "下午",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "~時",
+      "reading": "~じ",
+      "meaning": "点",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "~分",
+      "reading": "~ふん/ぷん",
+      "meaning": "分",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "~時半",
+      "reading": "~じはん",
+      "meaning": "点半",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "何時",
+      "reading": "なんじ",
+      "meaning": "几点",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "何分",
+      "reading": "なんぷん",
+      "meaning": "几分",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "インターネット",
+      "reading": "インターネット",
+      "meaning": "互联网",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "メール",
+      "reading": "メール",
+      "meaning": "电子邮件",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "コンサート",
+      "reading": "コンサート",
+      "meaning": "音乐会",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "说明",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "~会",
+      "reading": "~かい",
+      "meaning": "会",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "説明会",
+      "reading": "せつめいかい",
+      "meaning": "招聘宣讲会",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "パーティー",
+      "reading": "パーティー",
+      "meaning": "宴会",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "文法",
+      "reading": "ぶんぽう",
+      "meaning": "语法",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "会話",
+      "reading": "かいわ",
+      "meaning": "会话",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "漢字",
+      "reading": "かんじ",
+      "meaning": "汉字",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaning": "套餐",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "アルバイト",
+      "reading": "アルバイト",
+      "meaning": "打工,兼职",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "(お)風呂",
+      "reading": "(お)ふろ",
+      "meaning": "澡盆",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "お相撲さん",
+      "reading": "おすもうさん",
+      "meaning": "相扑力士",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "皆さん",
+      "reading": "みなさん",
+      "meaning": "大家,诸位",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "先週",
+      "reading": "せんしゅう",
+      "meaning": "上星期",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "今週",
+      "reading": "こんしゅう",
+      "meaning": "这星期",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "下星期",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "毎週",
+      "reading": "まいしゅう",
+      "meaning": "每星期",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meaning": "星期一",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "火曜日",
+      "reading": "かようび",
+      "meaning": "星期二",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "水曜日",
+      "reading": "すいようび",
+      "meaning": "星期三",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "木曜日",
+      "reading": "もくようび",
+      "meaning": "星期四",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "金曜日",
+      "reading": "きんようび",
+      "meaning": "星期五",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "土曜日",
+      "reading": "どようび",
+      "meaning": "星期六",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meaning": "星期日",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "何曜日",
+      "reading": "なんようび",
+      "meaning": "星期几",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "昨日",
+      "reading": "きのう",
+      "meaning": "昨天",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "一昨日",
+      "reading": "おととい",
+      "meaning": "前天",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "朝",
+      "reading": "あさ",
+      "meaning": "早上",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "今朝",
+      "reading": "けさ",
+      "meaning": "今天早上",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "昼",
+      "reading": "ひる",
+      "meaning": "中午,白天",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "晩",
+      "reading": "ばん",
+      "meaning": "晚上",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "夜",
+      "reading": "よる",
+      "meaning": "夜里",
+      "partOfSpeech": "名詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "起きます",
+      "reading": "おきます",
+      "meaning": "起床,醒",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第五課"
+    },
+    {
+      "word": "寝ます",
+      "reading": "ねます",
+      "meaning": "睡觉",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第五課"
+    },
+    {
+      "word": "勉強します",
+      "reading": "べんきょうします",
+      "meaning": "学习",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第五課"
+    },
+    {
+      "word": "研究します",
+      "reading": "けんきゅうします",
+      "meaning": "研究",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第五課"
+    },
+    {
+      "word": "働きます",
+      "reading": "はたらきます",
+      "meaning": "工作,劳动",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第五課"
+    },
+    {
+      "word": "泳ぎます",
+      "reading": "およぎます",
+      "meaning": "游泳",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第五課"
+    },
+    {
+      "word": "終わります",
+      "reading": "おわります",
+      "meaning": "结束,完",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第五課"
+    },
+    {
+      "word": "始まります",
+      "reading": "はじまります",
+      "meaning": "开始",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第五課"
+    },
+    {
+      "word": "練習します",
+      "reading": "れんしゅうします",
+      "meaning": "练习",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第五課"
+    },
+    {
+      "word": "入ります",
+      "reading": "はいります",
+      "meaning": "进(场所+に)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第五課"
+    },
+    {
+      "word": "休みます",
+      "reading": "やすみます",
+      "meaning": "休息,请假",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第五課"
+    },
+    {
+      "word": "作ります",
+      "reading": "つくります",
+      "meaning": "做,作",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第五課"
+    },
+    {
+      "word": "~歳",
+      "reading": "~さい",
+      "meaning": "岁",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "何歳",
+      "reading": "なんさい",
+      "meaning": "几岁,多大年纪",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "~から",
+      "reading": "~から",
+      "meaning": "从",
+      "partOfSpeech": "助詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "~まで",
+      "reading": "~まで",
+      "meaning": "到",
+      "partOfSpeech": "助詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "~ごろ",
+      "reading": "~ごろ",
+      "meaning": "左右",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第五課"
+    },
+    {
+      "word": "もしもし",
+      "reading": "もしもし",
+      "meaning": "喂,喂",
+      "partOfSpeech": "挨拶",
+      "lesson": "第五課"
+    },
+    {
+      "word": "おはようございます",
+      "reading": "おはようございます",
+      "meaning": "早上好。",
+      "partOfSpeech": "挨拶",
+      "lesson": "第五課"
+    },
+    {
+      "word": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "生日",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "バス",
+      "reading": "バス",
+      "meaning": "公共汽车",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "飞机",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "電車",
+      "reading": "でんしゃ",
+      "meaning": "火车",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "自行车",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "地铁",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "動物園",
+      "reading": "どうぶつえん",
+      "meaning": "动物园",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "パンダ",
+      "reading": "パンダ",
+      "meaning": "熊猫",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "サラダ",
+      "reading": "サラダ",
+      "meaning": "色拉",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "ケーキ",
+      "reading": "ケーキ",
+      "meaning": "蛋糕",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "プール",
+      "reading": "プール",
+      "meaning": "游泳池",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "ドライブ",
+      "reading": "ドライブ",
+      "meaning": "开车兜风",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "(お)祭り",
+      "reading": "(お)まつり",
+      "meaning": "庙会,传统祭典",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "バイク",
+      "reading": "バイク",
+      "meaning": "摩托车",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "花火",
+      "reading": "はなび",
+      "meaning": "焰火",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "(お)寺",
+      "reading": "(お)てら",
+      "meaning": "寺庙",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "新幹線",
+      "reading": "しんかんせん",
+      "meaning": "新干线",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "温泉",
+      "reading": "おんせん",
+      "meaning": "温泉",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "船",
+      "reading": "ふね",
+      "meaning": "船",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "高中生",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "週末",
+      "reading": "しゅうまつ",
+      "meaning": "周末",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "夏休み",
+      "reading": "なつやすみ",
+      "meaning": "暑假",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "冬休み",
+      "reading": "ふゆやすみ",
+      "meaning": "寒假",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "来月",
+      "reading": "らいげつ",
+      "meaning": "下个月",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "今月",
+      "reading": "こんげつ",
+      "meaning": "这个月",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "先月",
+      "reading": "せんげつ",
+      "meaning": "上个月",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "去年",
+      "reading": "きょねん",
+      "meaning": "去年",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "今年",
+      "reading": "ことし",
+      "meaning": "今年",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "明年",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "行きます",
+      "reading": "いきます",
+      "meaning": "去",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第六課"
+    },
+    {
+      "word": "帰ります",
+      "reading": "かえります",
+      "meaning": "回家",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第六課"
+    },
+    {
+      "word": "来ます",
+      "reading": "きます",
+      "meaning": "来",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第六課"
+    },
+    {
+      "word": "食事します",
+      "reading": "しょくじします",
+      "meaning": "吃饭,用餐",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第六課"
+    },
+    {
+      "word": "会います",
+      "reading": "あいます",
+      "meaning": "会面,见面(人+に)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第六課"
+    },
+    {
+      "word": "~月",
+      "reading": "~がつ",
+      "meaning": "月",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "何月",
+      "reading": "なんがつ",
+      "meaning": "几月",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "~日",
+      "reading": "~にち",
+      "meaning": "号",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "何日",
+      "reading": "なんにち",
+      "meaning": "几号",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "一日",
+      "reading": "ついたち",
+      "meaning": "一号",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "二日",
+      "reading": "ふつか",
+      "meaning": "二号,两天",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "三日",
+      "reading": "みっか",
+      "meaning": "三号,三天",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "四日",
+      "reading": "よっか",
+      "meaning": "四号,四天",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "五日",
+      "reading": "いつか",
+      "meaning": "五号,五天",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "六日",
+      "reading": "むいか",
+      "meaning": "六号,六天",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "七日",
+      "reading": "なのか",
+      "meaning": "七号,七天",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "八日",
+      "reading": "ようか",
+      "meaning": "八号,八天",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "九日",
+      "reading": "ここのか",
+      "meaning": "九号,九天",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "十日",
+      "reading": "とおか",
+      "meaning": "十号,十天",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "十四日",
+      "reading": "じゅうよっか",
+      "meaning": "十四号,十四天",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "二十日",
+      "reading": "はつか",
+      "meaning": "二十号,二十天",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "二十四日",
+      "reading": "にじゅうよっか",
+      "meaning": "二十四号,二十四天",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "いつ",
+      "reading": "いつ",
+      "meaning": "什么时候",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "歩いて",
+      "reading": "あるいて",
+      "meaning": "步行",
+      "partOfSpeech": "副詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "一緒に",
+      "reading": "いっしょに",
+      "meaning": "一起",
+      "partOfSpeech": "副詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "一人で",
+      "reading": "ひとりで",
+      "meaning": "独自,一个人",
+      "partOfSpeech": "副詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "今度",
+      "reading": "こんど",
+      "meaning": "下次",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "ええ",
+      "reading": "ええ",
+      "meaning": "好的(比较随便的说法)",
+      "partOfSpeech": "挨拶",
+      "lesson": "第六課"
+    },
+    {
+      "word": "~とき",
+      "reading": "~とき",
+      "meaning": "时",
+      "partOfSpeech": "名詞",
+      "lesson": "第六課"
+    },
+    {
+      "word": "いいですね",
+      "reading": "いいですね",
+      "meaning": "不错啊",
+      "partOfSpeech": "句",
+      "lesson": "第六課"
+    },
+    {
+      "word": "すみません",
+      "reading": "すみません",
+      "meaning": "不好意思(抱歉)",
+      "partOfSpeech": "挨拶",
+      "lesson": "第六課"
+    },
+    {
+      "word": "ちょっと......",
+      "reading": "ちょっと......",
+      "meaning": "有点儿。(回绝对方邀请时的委婉说法)",
+      "partOfSpeech": "句",
+      "lesson": "第六課"
+    },
+    {
+      "word": "花",
+      "reading": "はな",
+      "meaning": "花",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "部屋",
+      "reading": "へや",
+      "meaning": "房间",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "アパート",
+      "reading": "アパート",
+      "meaning": "公寓",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "アニメ",
+      "reading": "アニメ",
+      "meaning": "动画片",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "食べ物",
+      "reading": "たべもの",
+      "meaning": "食物",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "生活",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "山",
+      "reading": "やま",
+      "meaning": "山",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "海",
+      "reading": "うみ",
+      "meaning": "海",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "バドミントン",
+      "reading": "バドミントン",
+      "meaning": "羽毛球",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "スポーツ",
+      "reading": "スポーツ",
+      "meaning": "体育,运动",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "桜",
+      "reading": "さくら",
+      "meaning": "櫻花",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "バナナ",
+      "reading": "バナナ",
+      "meaning": "香蕉",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "町",
+      "reading": "まち",
+      "meaning": "城市,小镇",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "ゲームソフト",
+      "reading": "ゲームソフト",
+      "meaning": "游戏软件",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "コート",
+      "reading": "コート",
+      "meaning": "大衣,外套",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "所",
+      "reading": "ところ",
+      "meaning": "场所",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "物",
+      "reading": "もの",
+      "meaning": "东西,物品",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "写真",
+      "reading": "しゃしん",
+      "meaning": "照片",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "建物",
+      "reading": "たてもの",
+      "meaning": "建筑物",
+      "partOfSpeech": "名詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "大きい",
+      "reading": "おおきい",
+      "meaning": "大",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "小さい",
+      "reading": "ちいさい",
+      "meaning": "小",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meaning": "新",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "古い",
+      "reading": "ふるい",
+      "meaning": "旧",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "面白い",
+      "reading": "おもしろい",
+      "meaning": "有意思",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "高い",
+      "reading": "たかい",
+      "meaning": "高,贵",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "低い",
+      "reading": "ひくい",
+      "meaning": "低",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "安い",
+      "reading": "やすい",
+      "meaning": "便宜",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "楽しい",
+      "reading": "たのしい",
+      "meaning": "愉快",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "いい",
+      "reading": "いい",
+      "meaning": "好",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "おいしい",
+      "reading": "おいしい",
+      "meaning": "好吃,好喝",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "難しい",
+      "reading": "むずかしい",
+      "meaning": "难",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "青い",
+      "reading": "あおい",
+      "meaning": "蓝",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "広い",
+      "reading": "ひろい",
+      "meaning": "宽",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "狭い",
+      "reading": "せまい",
+      "meaning": "窄",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "黒い",
+      "reading": "くろい",
+      "meaning": "黑",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "白い",
+      "reading": "しろい",
+      "meaning": "白",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "赤い",
+      "reading": "あかい",
+      "meaning": "红",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "元気 [な]",
+      "reading": "げんき [な]",
+      "meaning": "健康,精力充沛",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "親切 [な]",
+      "reading": "しんせつ [な]",
+      "meaning": "亲切,热心",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "簡単 [な]",
+      "reading": "かんたん [な]",
+      "meaning": "简单",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "きれい [な]",
+      "reading": "きれい [な]",
+      "meaning": "美丽,干净",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "にぎやか [な]",
+      "reading": "にぎやか [な]",
+      "meaning": "热闹",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "静か [な]",
+      "reading": "しずか [な]",
+      "meaning": "安静",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "便利 [な]",
+      "reading": "べんり [な]",
+      "meaning": "方便",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "有名 [な]",
+      "reading": "ゆうめい [な]",
+      "meaning": "有名",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "大変 [な]",
+      "reading": "たいへん [な]",
+      "meaning": "辛苦",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "どう",
+      "reading": "どう",
+      "meaning": "怎么样",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "どんな",
+      "reading": "どんな",
+      "meaning": "什么样的",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "どれ",
+      "reading": "どれ",
+      "meaning": "哪一个 (三个以上中の哪个)",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "あまり",
+      "reading": "あまり",
+      "meaning": "(不)太,(不)怎么",
+      "partOfSpeech": "副詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "とても",
+      "reading": "とても",
+      "meaning": "非常",
+      "partOfSpeech": "副詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "最",
+      "partOfSpeech": "副詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "そして",
+      "reading": "そして",
+      "meaning": "而且",
+      "partOfSpeech": "接続詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "~が、~",
+      "reading": "~が、~",
+      "meaning": "但是",
+      "partOfSpeech": "助詞",
+      "lesson": "第七課"
+    },
+    {
+      "word": "男の子",
+      "reading": "おとこのこ",
+      "meaning": "男孩子",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "男の人",
+      "reading": "おとこのひと",
+      "meaning": "男人",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "男",
+      "reading": "おとこ",
+      "meaning": "男",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "女の子",
+      "reading": "おんなのこ",
+      "meaning": "女孩子",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "女の人",
+      "reading": "おんなのひと",
+      "meaning": "女人",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "女",
+      "reading": "おんな",
+      "meaning": "女",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "子供",
+      "reading": "こども",
+      "meaning": "孩子",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "犬",
+      "reading": "いぬ",
+      "meaning": "狗",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "木",
+      "reading": "き",
+      "meaning": "树",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "自動販売機",
+      "reading": "じどうはんばいき",
+      "meaning": "自动售货机",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "猫",
+      "reading": "ねこ",
+      "meaning": "猫",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "箱",
+      "reading": "はこ",
+      "meaning": "箱子,盒子",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "机",
+      "reading": "つくえ",
+      "meaning": "桌子,书桌",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "パジャマ",
+      "reading": "パジャマ",
+      "meaning": "睡衣",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "ピアノ",
+      "reading": "ピアノ",
+      "meaning": "钢琴",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "ベッド",
+      "reading": "ベッド",
+      "meaning": "床",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "テスト",
+      "reading": "テスト",
+      "meaning": "测验,考试",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "テーブル",
+      "reading": "テーブル",
+      "meaning": "桌子,餐桌",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "交番",
+      "reading": "こうばん",
+      "meaning": "派出所",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "バス停",
+      "reading": "バスてい",
+      "meaning": "公交车站",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "ポスト",
+      "reading": "ポスト",
+      "meaning": "邮筒,信箱",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "電話",
+      "reading": "でんわ",
+      "meaning": "电话",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "ロッカー",
+      "reading": "ロッカー",
+      "meaning": "存物柜",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "エレベーター",
+      "reading": "エレベーター",
+      "meaning": "电梯",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "椅子",
+      "reading": "いす",
+      "meaning": "椅子",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "西口",
+      "reading": "にしぐち",
+      "meaning": "西口",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "東口",
+      "reading": "ひがしぐち",
+      "meaning": "东口",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "南口",
+      "reading": "みなみぐち",
+      "meaning": "南口",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "北口",
+      "reading": "きたぐち",
+      "meaning": "北口",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "教会",
+      "reading": "きょうかい",
+      "meaning": "教堂",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "湖",
+      "reading": "みずうみ",
+      "meaning": "湖泊",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "釣り",
+      "reading": "つり",
+      "meaning": "钓鱼",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "動物",
+      "reading": "どうぶつ",
+      "meaning": "动物",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "(お)土産",
+      "reading": "(お)みやげ",
+      "meaning": "土特产,礼品",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "店",
+      "reading": "みせ",
+      "meaning": "店",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "上",
+      "reading": "うえ",
+      "meaning": "上,上边",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "下",
+      "reading": "した",
+      "meaning": "下,下边",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "前",
+      "reading": "まえ",
+      "meaning": "前,前边",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "後ろ",
+      "reading": "うしろ",
+      "meaning": "后,后边",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "中",
+      "reading": "なか",
+      "meaning": "里,里边",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "外",
+      "reading": "そと",
+      "meaning": "外,外边",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "横",
+      "reading": "よこ",
+      "meaning": "旁边,侧面",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "隣",
+      "reading": "となり",
+      "meaning": "旁边,隔壁",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "間",
+      "reading": "あいだ",
+      "meaning": "中间",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "近く",
+      "reading": "ちかく",
+      "meaning": "附近",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "あります",
+      "reading": "あります",
+      "meaning": "有,在(物品或植物)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第八課"
+    },
+    {
+      "word": "います",
+      "reading": "います",
+      "meaning": "有,在(人或动物)",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第八課"
+    },
+    {
+      "word": "歌います",
+      "reading": "うたいます",
+      "meaning": "唱(歌)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第八課"
+    },
+    {
+      "word": "踊ります",
+      "reading": "おどります",
+      "meaning": "跳(舞)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第八課"
+    },
+    {
+      "word": "遠い",
+      "reading": "とおい",
+      "meaning": "远",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "近い",
+      "reading": "ちかい",
+      "meaning": "近",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "忙しい",
+      "reading": "いそがしい",
+      "meaning": "忙",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "暇 [な]",
+      "reading": "ひま [な]",
+      "meaning": "空闲",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "一个人",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "二人",
+      "reading": "ふたり",
+      "meaning": "两个人",
+      "partOfSpeech": "名詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "~人",
+      "reading": "~にん",
+      "meaning": "个人",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "何人",
+      "reading": "なんにん",
+      "meaning": "几个人",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "たくさん",
+      "reading": "たくさん",
+      "meaning": "很多",
+      "partOfSpeech": "副詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "ええと",
+      "reading": "ええと",
+      "meaning": "うん(用于在考虑要怎样说时)",
+      "partOfSpeech": "副詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "へえ",
+      "reading": "へえ",
+      "meaning": "啊(用于表示惊讶、吃惊时)",
+      "partOfSpeech": "副詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "~や~",
+      "reading": "~や~",
+      "meaning": "等",
+      "partOfSpeech": "助詞",
+      "lesson": "第八課"
+    },
+    {
+      "word": "~ですか",
+      "reading": "~ですか",
+      "meaning": "是………………吗?(用于加以核实时)",
+      "partOfSpeech": "句",
+      "lesson": "第八課"
+    },
+    {
+      "word": "どうもありがとうございました",
+      "reading": "どうもありがとうございました",
+      "meaning": "谢谢。(强调自己感谢的心情,是比较客气的表达方式)",
+      "partOfSpeech": "句",
+      "lesson": "第八課"
+    },
+    {
+      "word": "分かりました",
+      "reading": "わかりました",
+      "meaning": "明白了。",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第八課"
+    },
+    {
+      "word": "また明日",
+      "reading": "またあした",
+      "meaning": "明天见。",
+      "partOfSpeech": "句",
+      "lesson": "第八課"
+    },
+    {
+      "word": "寿司",
+      "reading": "すし",
+      "meaning": "寿司",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "野球",
+      "reading": "やきゅう",
+      "meaning": "棒球",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "漫画",
+      "reading": "まんが",
+      "meaning": "漫画,连环画",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "掃除",
+      "reading": "そうじ",
+      "meaning": "打扫卫生",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "洗濯",
+      "reading": "せんたく",
+      "meaning": "洗衣服",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "絵",
+      "reading": "え",
+      "meaning": "图画",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "歌",
+      "reading": "うた",
+      "meaning": "歌曲",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "英語",
+      "reading": "えいご",
+      "meaning": "英语",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "片仮名",
+      "reading": "かたかな",
+      "meaning": "片假名",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "平仮名",
+      "reading": "ひらがな",
+      "meaning": "平假名",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "アナウンス",
+      "reading": "アナウンス",
+      "meaning": "广播",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "ルール",
+      "reading": "ルール",
+      "meaning": "规则",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "窓",
+      "reading": "まど",
+      "meaning": "窗户",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "買い物",
+      "reading": "かいもの",
+      "meaning": "买东西",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "天気",
+      "reading": "てんき",
+      "meaning": "天气",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "雨",
+      "reading": "あめ",
+      "meaning": "雨",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "注射",
+      "reading": "ちゅうしゃ",
+      "meaning": "注射,打针",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "时间",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "口译,口译人员",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "デート",
+      "reading": "デート",
+      "meaning": "约会",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "約束",
+      "reading": "やくそく",
+      "meaning": "约定",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "山登り",
+      "reading": "やまのぼり",
+      "meaning": "登山",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "ドラマ",
+      "reading": "ドラマ",
+      "meaning": "电视剧",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaning": "旅行",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "ゴルフ",
+      "reading": "ゴルフ",
+      "meaning": "高尔夫球",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "教師",
+      "reading": "きょうし",
+      "meaning": "教师",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "モデル",
+      "reading": "モデル",
+      "meaning": "模特",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "弁護士",
+      "reading": "べんごし",
+      "meaning": "律师",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaning": "运动员",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "サッカー選手",
+      "reading": "サッカーせんしゅ",
+      "meaning": "足球运动员",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "ミュージシャン",
+      "reading": "ミュージシャン",
+      "meaning": "音乐家",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "番組",
+      "reading": "ばんぐみ",
+      "meaning": "节目",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "テレビ番組",
+      "reading": "テレビばんぐみ",
+      "meaning": "电视节目",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "お父さん",
+      "reading": "おとうさん",
+      "meaning": "对别人父亲的敬称",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "お母さん",
+      "reading": "おかあさん",
+      "meaning": "对别人母亲的敬称",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "お兄さん",
+      "reading": "おにいさん",
+      "meaning": "对别人哥哥的敬称",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "お姉さん",
+      "reading": "おねえさん",
+      "meaning": "对别人姐姐的敬称",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "弟さん",
+      "reading": "おとうとさん",
+      "meaning": "对别人弟弟的敬称",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "妹さん",
+      "reading": "いもうとさん",
+      "meaning": "对别人妹妹的敬称",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "父",
+      "reading": "ちち",
+      "meaning": "父亲",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "母",
+      "reading": "はは",
+      "meaning": "母亲",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "兄",
+      "reading": "あに",
+      "meaning": "哥哥",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "姉",
+      "reading": "あね",
+      "meaning": "姐姐",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "弟",
+      "reading": "おとうと",
+      "meaning": "弟弟",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "妹",
+      "reading": "いもうと",
+      "meaning": "妹妹",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "(ご)家族",
+      "reading": "(ご)かぞく",
+      "meaning": "(您的)家人",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "(ご)両親",
+      "reading": "(ご)りょうしん",
+      "meaning": "(您的)父母",
+      "partOfSpeech": "名詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "描きます",
+      "reading": "かきます",
+      "meaning": "画 (画儿)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第九課"
+    },
+    {
+      "word": "分かります",
+      "reading": "わかります",
+      "meaning": "懂",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第九課"
+    },
+    {
+      "word": "開けます",
+      "reading": "あけます",
+      "meaning": "打开",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第九課"
+    },
+    {
+      "word": "散歩します",
+      "reading": "さんぽします",
+      "meaning": "散步",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第九課"
+    },
+    {
+      "word": "あります",
+      "reading": "あります",
+      "meaning": "有 (时间、约定)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第九課"
+    },
+    {
+      "word": "お見合いします",
+      "reading": "おみあいします",
+      "meaning": "相亲",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第九課"
+    },
+    {
+      "word": "甘い",
+      "reading": "あまい",
+      "meaning": "甜",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "辛い",
+      "reading": "からい",
+      "meaning": "辣",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "暑い",
+      "reading": "あつい",
+      "meaning": "(天)热",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "寒い",
+      "reading": "さむい",
+      "meaning": "(天)冷",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "眠い",
+      "reading": "ねむい",
+      "meaning": "困",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "好き [な]",
+      "reading": "すき [な]",
+      "meaning": "喜欢",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "嫌い [な]",
+      "reading": "きらい [な]",
+      "meaning": "不喜欢",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "上手 [な]",
+      "reading": "じょうず [な]",
+      "meaning": "好,擅长",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "下手 [な]",
+      "reading": "へた [な]",
+      "meaning": "不好,笨拙",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "残念 [な]",
+      "reading": "ざんねん [な]",
+      "meaning": "遗憾",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "どうして",
+      "reading": "どうして",
+      "meaning": "为什么",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "少し",
+      "reading": "すこし",
+      "meaning": "一点儿",
+      "partOfSpeech": "副詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "だいたい",
+      "reading": "だいたい",
+      "meaning": "大概",
+      "partOfSpeech": "副詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "よく",
+      "reading": "よく",
+      "meaning": "很",
+      "partOfSpeech": "副詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "全然",
+      "reading": "ぜんぜん",
+      "meaning": "完全 (不、没),一点儿也",
+      "partOfSpeech": "副詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "早く",
+      "reading": "はやく",
+      "meaning": "早",
+      "partOfSpeech": "副詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "うーん",
+      "reading": "うーん",
+      "meaning": "うん(用于考虑如何回答对方时)",
+      "partOfSpeech": "副詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "~から、~",
+      "reading": "~から、~",
+      "meaning": "因为",
+      "partOfSpeech": "接続詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "どうしてですか",
+      "reading": "どうしてですか",
+      "meaning": "为什么呢?",
+      "partOfSpeech": "句",
+      "lesson": "第九課"
+    },
+    {
+      "word": "そうですね",
+      "reading": "そうですね",
+      "meaning": "うん。(用于考虑如何回答对方时)",
+      "partOfSpeech": "副詞",
+      "lesson": "第九課"
+    },
+    {
+      "word": "よろしくお願いします",
+      "reading": "よろしくおねがいします",
+      "meaning": "拜托",
+      "partOfSpeech": "句",
+      "lesson": "第九課"
+    },
+    {
+      "word": "プレゼント",
+      "reading": "プレゼント",
+      "meaning": "礼物",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "カード",
+      "reading": "カード",
+      "meaning": "カ片",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "絵はがき",
+      "reading": "えはがき",
+      "meaning": "明信片",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "先輩",
+      "reading": "せんぱい",
+      "meaning": "学长",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "後輩",
+      "reading": "こうはい",
+      "meaning": "学弟,学妹",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "お茶",
+      "reading": "おちゃ",
+      "meaning": "茶道",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "ネックレス",
+      "reading": "ネックレス",
+      "meaning": "项链",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "ネクタイ",
+      "reading": "ネクタイ",
+      "meaning": "领带",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "シャツ",
+      "reading": "シャツ",
+      "meaning": "衬衫",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "夫",
+      "reading": "おっと",
+      "meaning": "丈夫",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "(ご)主人",
+      "reading": "(ご)しゅじん",
+      "meaning": "(对方或他人的)丈夫",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "妻",
+      "reading": "つま",
+      "meaning": "自己的妻子",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "奥さん",
+      "reading": "おくさん",
+      "meaning": "(对方或他人的)妻子",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "子供さん",
+      "reading": "こどもさん",
+      "meaning": "(对方或他人的)孩子",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "石けん",
+      "reading": "せっけん",
+      "meaning": "肥皂",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "みかん",
+      "reading": "みかん",
+      "meaning": "橘子",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "(ご)注文",
+      "reading": "(ご)ちゅうもん",
+      "meaning": "点菜",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "サンドイッチ",
+      "reading": "サンドイッチ",
+      "meaning": "三明治",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "スパゲティ",
+      "reading": "スパゲティ",
+      "meaning": "意大利面条",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "ステーキ",
+      "reading": "ステーキ",
+      "meaning": "牛排",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "はし",
+      "reading": "はし",
+      "meaning": "筷子",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "スプーン",
+      "reading": "スプーン",
+      "meaning": "汤匙",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "ナイフ",
+      "reading": "ナイフ",
+      "meaning": "刀",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "フォーク",
+      "reading": "フォーク",
+      "meaning": "叉子",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "手",
+      "reading": "て",
+      "meaning": "手",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "レポート",
+      "reading": "レポート",
+      "meaning": "报告",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "航空便",
+      "reading": "こうくうびん",
+      "meaning": "航空邮件",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "荷物",
+      "reading": "にもつ",
+      "meaning": "行李",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "書留",
+      "reading": "かきとめ",
+      "meaning": "挂号信",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "色",
+      "reading": "いろ",
+      "meaning": "颜色",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "セーター",
+      "reading": "セーター",
+      "meaning": "毛衣",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "クラス",
+      "reading": "クラス",
+      "meaning": "班级",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "貸します",
+      "reading": "かします",
+      "meaning": "借出",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十課"
+    },
+    {
+      "word": "あげます",
+      "reading": "あげます",
+      "meaning": "给",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十課"
+    },
+    {
+      "word": "教えます",
+      "reading": "おしえます",
+      "meaning": "教",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十課"
+    },
+    {
+      "word": "送ります",
+      "reading": "おくります",
+      "meaning": "送",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十課"
+    },
+    {
+      "word": "かけます",
+      "reading": "かけます",
+      "meaning": "打(电话)",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十課"
+    },
+    {
+      "word": "借ります",
+      "reading": "かります",
+      "meaning": "借来",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十課"
+    },
+    {
+      "word": "習います",
+      "reading": "ならいます",
+      "meaning": "学习",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十課"
+    },
+    {
+      "word": "もらいます",
+      "reading": "もらいます",
+      "meaning": "得到",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十課"
+    },
+    {
+      "word": "します",
+      "reading": "します",
+      "meaning": "决定(物+に)",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十課"
+    },
+    {
+      "word": "話します",
+      "reading": "はなします",
+      "meaning": "说话",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十課"
+    },
+    {
+      "word": "すてき [な]",
+      "reading": "すてき [な]",
+      "meaning": "极好",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "一つ",
+      "reading": "ひとつ",
+      "meaning": "一个",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "二つ",
+      "reading": "ふたつ",
+      "meaning": "两个",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "三つ",
+      "reading": "みっつ",
+      "meaning": "三个",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "四つ",
+      "reading": "よっつ",
+      "meaning": "四个",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "五つ",
+      "reading": "いつつ",
+      "meaning": "五个",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "六つ",
+      "reading": "むっつ",
+      "meaning": "六个",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "七つ",
+      "reading": "ななつ",
+      "meaning": "七个",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "八つ",
+      "reading": "やっつ",
+      "meaning": "八个",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "九つ",
+      "reading": "ここのつ",
+      "meaning": "九个",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "十",
+      "reading": "とお",
+      "meaning": "十个",
+      "partOfSpeech": "名詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "いくつ",
+      "reading": "いくつ",
+      "meaning": "几个",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "~台",
+      "reading": "~だい",
+      "meaning": "辆,台,架(机械、车辆等的量词)",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "何台",
+      "reading": "なんだい",
+      "meaning": "几辆、几台、几架",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "~枚",
+      "reading": "~まい",
+      "meaning": "张(纸张、邮票等薄片状物品的量词)",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "何枚",
+      "reading": "なんまい",
+      "meaning": "几张",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "また",
+      "reading": "また",
+      "meaning": "再,又",
+      "partOfSpeech": "副詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "初めて",
+      "reading": "はじめて",
+      "meaning": "第一次",
+      "partOfSpeech": "副詞",
+      "lesson": "第十課"
+    },
+    {
+      "word": "~をお願いします",
+      "reading": "~をおねがいします",
+      "meaning": "请",
+      "partOfSpeech": "句",
+      "lesson": "第十課"
+    },
+    {
+      "word": "いらっしゃいませ",
+      "reading": "いらっしゃいませ",
+      "meaning": "欢迎",
+      "partOfSpeech": "挨拶",
+      "lesson": "第十課"
+    },
+    {
+      "word": "~によろしく",
+      "reading": "~によろしく",
+      "meaning": "向~问好",
+      "partOfSpeech": "句",
+      "lesson": "第十課"
+    },
+    {
+      "word": "鼻",
+      "reading": "はな",
+      "meaning": "鼻子",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "目",
+      "reading": "め",
+      "meaning": "眼睛",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "首",
+      "reading": "くび",
+      "meaning": "脖子",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "足",
+      "reading": "あし",
+      "meaning": "脚,腿",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "耳",
+      "reading": "みみ",
+      "meaning": "耳朵",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "背",
+      "reading": "せ",
+      "meaning": "身高",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "頭",
+      "reading": "あたま",
+      "meaning": "头,头脑",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "顔",
+      "reading": "かお",
+      "meaning": "脸",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "口",
+      "reading": "くち",
+      "meaning": "嘴",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "体",
+      "reading": "からだ",
+      "meaning": "身体",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "留学生",
+      "reading": "りゅうがくせい",
+      "meaning": "留学生",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "経済",
+      "reading": "けいざい",
+      "meaning": "经济",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "~学部",
+      "reading": "~がくぶ",
+      "meaning": "系",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "経済学部",
+      "reading": "けいざいがくぶ",
+      "meaning": "经济学系",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaning": "环境",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "学費",
+      "reading": "がくひ",
+      "meaning": "学费",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "キャンパス",
+      "reading": "キャンパス",
+      "meaning": "校园",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "歴史",
+      "reading": "れきし",
+      "meaning": "历史",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "仕事",
+      "reading": "しごと",
+      "meaning": "工作,劳动",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "天ぷら",
+      "reading": "てんぷら",
+      "meaning": "天妇罗(把鱼类、贝类以及蔬菜裹上面糊以后油炸做成的菜肴)",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "豚カツ",
+      "reading": "とんカツ",
+      "meaning": "炸猪排",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "飲み物",
+      "reading": "のみもの",
+      "meaning": "饮料",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "いちご",
+      "reading": "いちご",
+      "meaning": "草莓",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "すいか",
+      "reading": "すいか",
+      "meaning": "西瓜",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "メロン",
+      "reading": "メロン",
+      "meaning": "甜瓜",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "柔道",
+      "reading": "じゅうどう",
+      "meaning": "柔道",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "スケート",
+      "reading": "スケート",
+      "meaning": "滑冰",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "一年",
+      "reading": "いちねん",
+      "meaning": "一年",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "春",
+      "reading": "はる",
+      "meaning": "春天",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "夏",
+      "reading": "なつ",
+      "meaning": "夏天",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "秋",
+      "reading": "あき",
+      "meaning": "秋天",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaning": "冬天",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "独身",
+      "reading": "どくしん",
+      "meaning": "单身",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "マンション",
+      "reading": "マンション",
+      "meaning": "高级公寓",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "駐車場",
+      "reading": "ちゅうしゃじょう",
+      "meaning": "停车场",
+      "partOfSpeech": "名詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "多い",
+      "reading": "おおい",
+      "meaning": "多",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "少ない",
+      "reading": "すくない",
+      "meaning": "少",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "長い",
+      "reading": "ながい",
+      "meaning": "长",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "短い",
+      "reading": "みじかい",
+      "meaning": "短",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "暖かい",
+      "reading": "あたたかい",
+      "meaning": "暖和",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "涼しい",
+      "reading": "すずしい",
+      "meaning": "凉快",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "明るい",
+      "reading": "あかるい",
+      "meaning": "明亮",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "暗い",
+      "reading": "くらい",
+      "meaning": "昏暗",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "優しい",
+      "reading": "やさしい",
+      "meaning": "温柔,亲切",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "速い",
+      "reading": "はやい",
+      "meaning": "快",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "遅い",
+      "reading": "おそい",
+      "meaning": "慢",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "うるさい",
+      "reading": "うるさい",
+      "meaning": "吵,喧闹",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "大切 [な]",
+      "reading": "たいせつ [な]",
+      "meaning": "重要",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "まじめ [な]",
+      "reading": "まじめ [な]",
+      "meaning": "认真",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "~年",
+      "reading": "~ねん",
+      "meaning": "年",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "何年",
+      "reading": "なんねん",
+      "meaning": "哪年",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "~平方メートル(㎡)",
+      "reading": "~へいほうメートル",
+      "meaning": "平方米",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "どちら",
+      "reading": "どちら",
+      "meaning": "哪个,哪一个(两者中的)",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "どちらも",
+      "reading": "どちらも",
+      "meaning": "哪个都",
+      "partOfSpeech": "副詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "ずっと",
+      "reading": "ずっと",
+      "meaning": "(比)得多",
+      "partOfSpeech": "副詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "でも",
+      "reading": "でも",
+      "meaning": "不过",
+      "partOfSpeech": "接続詞",
+      "lesson": "第十一課"
+    },
+    {
+      "word": "休み",
+      "reading": "やすみ",
+      "meaning": "休息,节假日,请假",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "昼休み",
+      "reading": "ひるやすみ",
+      "meaning": "午休",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "花見",
+      "reading": "はなみ",
+      "meaning": "赏花",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "おにぎり",
+      "reading": "おにぎり",
+      "meaning": "饭团",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaning": "准备",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "ホテル",
+      "reading": "ホテル",
+      "meaning": "旅馆",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "授業",
+      "reading": "じゅぎょう",
+      "meaning": "课",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "着物",
+      "reading": "きもの",
+      "meaning": "和服",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "フェリー",
+      "reading": "フェリー",
+      "meaning": "渡轮",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "空港",
+      "reading": "くうこう",
+      "meaning": "机场",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "~たち",
+      "reading": "~たち",
+      "meaning": "们",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "私たち",
+      "reading": "わたしたち",
+      "meaning": "我们",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "橋",
+      "reading": "はし",
+      "meaning": "桥",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "赤",
+      "reading": "あか",
+      "meaning": "红色",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "黄色",
+      "reading": "きいろ",
+      "meaning": "黄色",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaning": "景色",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "島",
+      "reading": "しま",
+      "meaning": "岛屿",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "発表します",
+      "reading": "はっぴょうします",
+      "meaning": "発表",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "登ります",
+      "reading": "のぼります",
+      "meaning": "攀登(山+に)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "泊まります",
+      "reading": "とまります",
+      "meaning": "住宿(旅馆+に)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "着ます",
+      "reading": "きます",
+      "meaning": "穿",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "脱ぎます",
+      "reading": "ぬぎます",
+      "meaning": "脱",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "かかります",
+      "reading": "かかります",
+      "meaning": "花(时间,费用)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "撮ります",
+      "reading": "とります",
+      "meaning": "拍(照片)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "厳しい",
+      "reading": "きびしい",
+      "meaning": "严格",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "怖い",
+      "reading": "こわい",
+      "meaning": "可怕",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "重い",
+      "reading": "おもい",
+      "meaning": "重",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "軽い",
+      "reading": "かるい",
+      "meaning": "轻",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "冷たい",
+      "reading": "つめたい",
+      "meaning": "冰冷",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "~時間",
+      "reading": "~じかん",
+      "meaning": "个小时",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "何時間",
+      "reading": "なんじかん",
+      "meaning": "几个小时",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "~日",
+      "reading": "~にち",
+      "meaning": "天",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "何日",
+      "reading": "なんにち",
+      "meaning": "几天",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "~週間",
+      "reading": "~しゅうかん",
+      "meaning": "个星期",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "何週間",
+      "reading": "なんしゅうかん",
+      "meaning": "几个星期",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "~か月",
+      "reading": "~かげつ",
+      "meaning": "个月",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "何か月",
+      "reading": "なんかげつ",
+      "meaning": "几个月",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "何年",
+      "reading": "なんねん",
+      "meaning": "几年",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "半年",
+      "reading": "はんとし",
+      "meaning": "半年",
+      "partOfSpeech": "名詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "どのぐらい",
+      "reading": "どのぐらい",
+      "meaning": "多少",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "あ",
+      "reading": "あ",
+      "meaning": "啊",
+      "partOfSpeech": "感動詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "ちょっと",
+      "reading": "ちょっと",
+      "meaning": "稍微",
+      "partOfSpeech": "副詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "~ぐらい",
+      "reading": "~ぐらい",
+      "meaning": "左右",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "どうぞ",
+      "reading": "どうぞ",
+      "meaning": "请",
+      "partOfSpeech": "挨拶",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "ありがとう",
+      "reading": "ありがとう",
+      "meaning": "谢谢 (在对朋友或比自己年轻的人表示感谢时使用,是一种比较随便的说法)",
+      "partOfSpeech": "挨拶",
+      "lesson": "第十二課"
+    },
+    {
+      "word": "布団",
+      "reading": "ふとん",
+      "meaning": "被褥",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "(お)皿",
+      "reading": "(お)さら",
+      "meaning": "碟子,盘子",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "コップ",
+      "reading": "コップ",
+      "meaning": "杯子",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "ハイキング",
+      "reading": "ハイキング",
+      "meaning": "郊游",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "市役所",
+      "reading": "しやくしょ",
+      "meaning": "市政府",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "市長",
+      "reading": "しちょう",
+      "meaning": "市长",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "工場",
+      "reading": "こうじょう",
+      "meaning": "工厂",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "見学",
+      "reading": "けんがく",
+      "meaning": "参观",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "スキー",
+      "reading": "スキー",
+      "meaning": "滑雪",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "~方",
+      "reading": "~かた",
+      "meaning": "~的方法",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "作り方",
+      "reading": "つくりかた",
+      "meaning": "制作方法",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "相撲",
+      "reading": "すもう",
+      "meaning": "相扑",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "チケット",
+      "reading": "チケット",
+      "meaning": "票",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "大学院",
+      "reading": "だいがくいん",
+      "meaning": "研究生院",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "ロボット",
+      "reading": "ロボット",
+      "meaning": "机器人",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "工学",
+      "reading": "こうがく",
+      "meaning": "工学",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "ロボット工学",
+      "reading": "ロボットこうがく",
+      "meaning": "机器人工学",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "将来",
+      "reading": "しょうらい",
+      "meaning": "将来",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "遊びます",
+      "reading": "あそびます",
+      "meaning": "玩耍",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "返します",
+      "reading": "かえします",
+      "meaning": "归还",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "迎えます",
+      "reading": "むかえます",
+      "meaning": "迎接",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "持ちます",
+      "reading": "もちます",
+      "meaning": "拿,有",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "手伝います",
+      "reading": "てつだいます",
+      "meaning": "帮忙",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "洗います",
+      "reading": "あらいます",
+      "meaning": "洗",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "使います",
+      "reading": "つかいます",
+      "meaning": "使用",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "欲しい",
+      "reading": "ほしい",
+      "meaning": "想要",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "痛い",
+      "reading": "いたい",
+      "meaning": "疼",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "大丈夫 [な]",
+      "reading": "だいじょうぶ [な]",
+      "meaning": "不要紧",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "~年生",
+      "reading": "~ねんせい",
+      "meaning": "年级学生",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "~(年)前に",
+      "reading": "~(ねん)まえに",
+      "meaning": "(年)前",
+      "partOfSpeech": "副詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "ありがとうございます",
+      "reading": "ありがとうございます",
+      "meaning": "谢谢",
+      "partOfSpeech": "挨拶",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "頑張ってください",
+      "reading": "がんばってください",
+      "meaning": "加油",
+      "partOfSpeech": "句",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "どうしますか",
+      "reading": "どうしますか",
+      "meaning": "怎么办?",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "疲れました",
+      "reading": "つかれました",
+      "meaning": "累了",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "喉が渇きました",
+      "reading": "のどがかわきました",
+      "meaning": "口渴了",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "お腹が空きました",
+      "reading": "おなかがすきました",
+      "meaning": "肚子饿了",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "ただいま",
+      "reading": "ただいま",
+      "meaning": "我回来了。(回家时打招呼语)",
+      "partOfSpeech": "挨拶",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "ホール",
+      "reading": "ホール",
+      "meaning": "大厅",
+      "partOfSpeech": "名詞",
+      "lesson": "第十三課"
+    },
+    {
+      "word": "ギター",
+      "reading": "ギター",
+      "meaning": "吉他",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "畳",
+      "reading": "たたみ",
+      "meaning": "榻榻米",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "彼",
+      "reading": "かれ",
+      "meaning": "男朋友,他",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "彼女",
+      "reading": "かのじょ",
+      "meaning": "女朋友,她",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "使用费",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "電話料金",
+      "reading": "でんわりょうきん",
+      "meaning": "电话费",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "生け花",
+      "reading": "いけばな",
+      "meaning": "插花",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "忍者",
+      "reading": "にんじゃ",
+      "meaning": "(日本过去使用忍术的)密探",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "カラオケ",
+      "reading": "カラオケ",
+      "meaning": "卡拉OK",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaning": "(夏季穿的简单的)和服",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "ペット",
+      "reading": "ペット",
+      "meaning": "宠物",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "バーベキュー",
+      "reading": "バーベキュー",
+      "meaning": "烧烤",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "テント",
+      "reading": "テント",
+      "meaning": "帐篷",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "目覚まし時計",
+      "reading": "めざましどけい",
+      "meaning": "闹钟",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "シャワー",
+      "reading": "シャワー",
+      "meaning": "淋浴",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "歯",
+      "reading": "は",
+      "meaning": "牙",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "スピーチ",
+      "reading": "スピーチ",
+      "meaning": "致辞",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "ブログ",
+      "reading": "ブログ",
+      "meaning": "博客",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "バスケットボール",
+      "reading": "バスケットボール",
+      "meaning": "篮球",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "ボウリング",
+      "reading": "ボウリング",
+      "meaning": "保龄球",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "スノーボード",
+      "reading": "スノーボード",
+      "meaning": "滑雪板",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "ダンス",
+      "reading": "ダンス",
+      "meaning": "跳舞",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "空手",
+      "reading": "からて",
+      "meaning": "空手道",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "曲",
+      "reading": "きょく",
+      "meaning": "曲子",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "待ちます",
+      "reading": "まちます",
+      "meaning": "等待",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "死にます",
+      "reading": "しにます",
+      "meaning": "死",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "弾きます",
+      "reading": "ひきます",
+      "meaning": "弹",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "できます",
+      "reading": "できます",
+      "meaning": "能",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "座ります",
+      "reading": "すわります",
+      "meaning": "坐(场所+に)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "立ちます",
+      "reading": "たちます",
+      "meaning": "站",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "払います",
+      "reading": "はらいます",
+      "meaning": "交,付",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "セットします",
+      "reading": "セットします",
+      "meaning": "上(闹钟)",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "浴びます",
+      "reading": "あびます",
+      "meaning": "(淋浴)冲",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "磨きます",
+      "reading": "みがきます",
+      "meaning": "刷",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "出かけます",
+      "reading": "でかけます",
+      "meaning": "出门",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "消します",
+      "reading": "けします",
+      "meaning": "关",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "乗ります",
+      "reading": "のります",
+      "meaning": "乘(交通工具+に)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "降ります",
+      "reading": "おります",
+      "meaning": "下(交通工具+を)",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "始めます",
+      "reading": "はじめます",
+      "meaning": "开始",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "見せます",
+      "reading": "みせます",
+      "meaning": "给~看,向~展示",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "載せます",
+      "reading": "のせます",
+      "meaning": "刊登",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "~メートル(m)",
+      "reading": "~メートル",
+      "meaning": "米",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "何メートル(m)",
+      "reading": "なんメートル",
+      "meaning": "几米",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "この前",
+      "reading": "このまえ",
+      "meaning": "最近,前段时间",
+      "partOfSpeech": "名詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "自分で",
+      "reading": "じぶんで",
+      "meaning": "自己",
+      "partOfSpeech": "副詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "うん",
+      "reading": "うん",
+      "meaning": "うん(比较随便的肯定回答。只用于关系亲近的人之间。)",
+      "partOfSpeech": "感動詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "~とか",
+      "reading": "~とか",
+      "meaning": "啦(并列)",
+      "partOfSpeech": "助詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "~前に",
+      "reading": "~まえに",
+      "meaning": "之前",
+      "partOfSpeech": "副詞",
+      "lesson": "第十四課"
+    },
+    {
+      "word": "プリント",
+      "reading": "プリント",
+      "meaning": "印刷品(印有练习题、作业等的)",
+      "partOfSpeech": "名詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "鍋",
+      "reading": "なべ",
+      "meaning": "锅",
+      "partOfSpeech": "名詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "ボール",
+      "reading": "ボール",
+      "meaning": "球",
+      "partOfSpeech": "名詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "スリッパ",
+      "reading": "スリッパ",
+      "meaning": "拖鞋",
+      "partOfSpeech": "名詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "参考書",
+      "reading": "さんこうしょ",
+      "meaning": "参考书,工具书",
+      "partOfSpeech": "名詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "資料",
+      "reading": "しりょう",
+      "meaning": "资料",
+      "partOfSpeech": "名詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "推薦状",
+      "reading": "すいせんじょう",
+      "meaning": "推荐信",
+      "partOfSpeech": "名詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "ごみ",
+      "reading": "ごみ",
+      "meaning": "垃圾",
+      "partOfSpeech": "名詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "台所",
+      "reading": "だいどころ",
+      "meaning": "厨房",
+      "partOfSpeech": "名詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "コート",
+      "reading": "コート",
+      "meaning": "球场",
+      "partOfSpeech": "名詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "住所",
+      "reading": "じゅうしょ",
+      "meaning": "住址",
+      "partOfSpeech": "名詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "急ぐ",
+      "reading": "いそぐ",
+      "meaning": "急",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "集める",
+      "reading": "あつめる",
+      "meaning": "收集",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "コピーする",
+      "reading": "コピーする",
+      "meaning": "复印",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "切る",
+      "reading": "きる",
+      "meaning": "切,断",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "入れる",
+      "reading": "いれる",
+      "meaning": "放(场所等+に)(物+を)",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "煮る",
+      "reading": "にる",
+      "meaning": "煮,熬,炖",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "並べる",
+      "reading": "ならべる",
+      "meaning": "摆,排",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "取る",
+      "reading": "とる",
+      "meaning": "取",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "言う",
+      "reading": "いう",
+      "meaning": "说",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "修理する",
+      "reading": "しゅうりする",
+      "meaning": "修理",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "上がる",
+      "reading": "あがる",
+      "meaning": "进(别人的家),上(台阶)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "履く",
+      "reading": "はく",
+      "meaning": "穿(鞋等)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "捨てる",
+      "reading": "すてる",
+      "meaning": "扔",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "運ぶ",
+      "reading": "はこぶ",
+      "meaning": "搬(场所+へ)(物+を)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "拭く",
+      "reading": "ふく",
+      "meaning": "擦",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "危ない",
+      "reading": "あぶない",
+      "meaning": "危险",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "他の",
+      "reading": "ほかの",
+      "meaning": "别的",
+      "partOfSpeech": "連体詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "もう一度",
+      "reading": "もういちど",
+      "meaning": "再一次",
+      "partOfSpeech": "副詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "すぐ",
+      "reading": "すぐ",
+      "meaning": "马上",
+      "partOfSpeech": "副詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "どうも",
+      "reading": "どうも",
+      "meaning": "谢谢(用于强调感谢或者抱歉的心情)",
+      "partOfSpeech": "副詞",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "失礼します",
+      "reading": "しつれいします",
+      "meaning": "打搅了。告辞了。(进屋或离去时的客套话)",
+      "partOfSpeech": "挨拶",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "いただきます",
+      "reading": "いただきます",
+      "meaning": "我开始吃啦。(用餐前的客套话)",
+      "partOfSpeech": "挨拶",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "すみませんが、~",
+      "reading": "すみませんが、~",
+      "meaning": "不好意思",
+      "partOfSpeech": "句",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "いいですよ",
+      "reading": "いいですよ",
+      "meaning": "好啊",
+      "partOfSpeech": "句",
+      "lesson": "第十五課"
+    },
+    {
+      "word": "(お)菓子",
+      "reading": "(お)かし",
+      "meaning": "(日式)点心",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "たばこ",
+      "reading": "たばこ",
+      "meaning": "香烟",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "中学生",
+      "reading": "ちゅうがくせい",
+      "meaning": "初中生",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "美術館",
+      "reading": "びじゅつかん",
+      "meaning": "美术馆",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "服",
+      "reading": "ふく",
+      "meaning": "服装",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "デザイン",
+      "reading": "デザイン",
+      "meaning": "设计",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "公司",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaning": "场所",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "番号",
+      "reading": "ばんごう",
+      "meaning": "号码",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "電話番号",
+      "reading": "でんわばんごう",
+      "meaning": "电话号码",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "メールアドレス",
+      "reading": "メールアドレス",
+      "meaning": "电邮地址",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "亀",
+      "reading": "かめ",
+      "meaning": "乌龟",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "(お)城",
+      "reading": "(お)しろ",
+      "meaning": "城堡",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "お姫様",
+      "reading": "おひめさま",
+      "meaning": "小姐,公主",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "踊り",
+      "reading": "おどり",
+      "meaning": "跳舞",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "祖母",
+      "reading": "そぼ",
+      "meaning": "祖母,外祖母",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "祖父",
+      "reading": "そふ",
+      "meaning": "祖父,外祖父",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "おばあさん",
+      "reading": "おばあさん",
+      "meaning": "对别人的祖母或外祖母的称呼",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "おじいさん",
+      "reading": "おじいさん",
+      "meaning": "对别人的祖父或外祖父的称呼",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "翻訳",
+      "reading": "ほんやく",
+      "meaning": "笔译",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "機械",
+      "reading": "きかい",
+      "meaning": "机械",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "機械工学",
+      "reading": "きかいこうがく",
+      "meaning": "机械工学",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "仲",
+      "reading": "なか",
+      "meaning": "关系",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "(お)手伝い",
+      "reading": "(お)てつだい",
+      "meaning": "帮忙",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "本当",
+      "reading": "ほんとう",
+      "meaning": "真的",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "毎年",
+      "reading": "まいとし",
+      "meaning": "每年",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "毎月",
+      "reading": "まいつき",
+      "meaning": "每月",
+      "partOfSpeech": "名詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "チェックする",
+      "reading": "チェックする",
+      "meaning": "核对,检查",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "置く",
+      "reading": "おく",
+      "meaning": "放置(场所+に)(物+を)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "止める",
+      "reading": "とめる",
+      "meaning": "停(场所+に)(交通工具+を)",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "吸う",
+      "reading": "すう",
+      "meaning": "吸,抽(烟)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "結婚する",
+      "reading": "けっこんする",
+      "meaning": "结婚",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "住む",
+      "reading": "すむ",
+      "meaning": "住(场所+に)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "経営する",
+      "reading": "けいえいする",
+      "meaning": "经营",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "知る",
+      "reading": "しる",
+      "meaning": "知道",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "聞く",
+      "reading": "きく",
+      "meaning": "问",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "助ける",
+      "reading": "たすける",
+      "meaning": "救助",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "乗り換える",
+      "reading": "のりかえる",
+      "meaning": "换车(交通工具+に)",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "退職する",
+      "reading": "たいしょくする",
+      "meaning": "退职,退休",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "触る",
+      "reading": "さわる",
+      "meaning": "触,摸",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "入れる",
+      "reading": "いれる",
+      "meaning": "沏",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "焼く",
+      "reading": "やく",
+      "meaning": "烤",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "持って来る",
+      "reading": "もってくる",
+      "meaning": "拿来",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "持って行く",
+      "reading": "もっていく",
+      "meaning": "拿去",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "役に立つ",
+      "reading": "やくにたつ",
+      "meaning": "有用",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "すごい",
+      "reading": "すごい",
+      "meaning": "了不起",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "どうやって",
+      "reading": "どうやって",
+      "meaning": "怎么(做)",
+      "partOfSpeech": "副詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "すぐ",
+      "reading": "すぐ",
+      "meaning": "很近",
+      "partOfSpeech": "副詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "もう",
+      "reading": "もう",
+      "meaning": "已经",
+      "partOfSpeech": "副詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "あのう",
+      "reading": "あのう",
+      "meaning": "那个………………(用于在考虑要怎样说时)",
+      "partOfSpeech": "副詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "わあ",
+      "reading": "わあ",
+      "meaning": "哇",
+      "partOfSpeech": "副詞",
+      "lesson": "第十六課"
+    },
+    {
+      "word": "鳩",
+      "reading": "はと",
+      "meaning": "鸽子",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "餌",
+      "reading": "えさ",
+      "meaning": "饵食",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "池",
+      "reading": "いけ",
+      "meaning": "池塘",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "枝",
+      "reading": "えだ",
+      "meaning": "树枝",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "老师,律师,大夫(打招呼时用的敬称)",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "税金",
+      "reading": "ぜいきん",
+      "meaning": "税金",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "試験",
+      "reading": "しけん",
+      "meaning": "考试",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "作文",
+      "reading": "さくぶん",
+      "meaning": "作文",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "王様",
+      "reading": "おうさま",
+      "meaning": "国王",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "中学",
+      "reading": "ちゅうがく",
+      "meaning": "初中",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "高校",
+      "reading": "こうこう",
+      "meaning": "高中",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "電源",
+      "reading": "でんげん",
+      "meaning": "电源",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "ファイル",
+      "reading": "ファイル",
+      "meaning": "文件夹",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "アドレス",
+      "reading": "アドレス",
+      "meaning": "电邮地址",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "試合",
+      "reading": "しあい",
+      "meaning": "比赛",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "栓",
+      "reading": "せん",
+      "meaning": "塞子",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "(お)湯",
+      "reading": "(お)ゆ",
+      "meaning": "洗澡水,热水",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "タオル",
+      "reading": "タオル",
+      "meaning": "毛巾",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "二、三日",
+      "reading": "にさんにち",
+      "meaning": "两三天",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "泣く",
+      "reading": "なく",
+      "meaning": "哭",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "笑う",
+      "reading": "わらう",
+      "meaning": "笑",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "押す",
+      "reading": "おす",
+      "meaning": "推",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "怒る",
+      "reading": "おこる",
+      "meaning": "生气",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "やる",
+      "reading": "やる",
+      "meaning": "给(对象为动物,植物或下级时)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "折る",
+      "reading": "おる",
+      "meaning": "折",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "運転する",
+      "reading": "うんてんする",
+      "meaning": "开车",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "受ける",
+      "reading": "うける",
+      "meaning": "参加(考试)",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "並ぶ",
+      "reading": "ならぶ",
+      "meaning": "排队",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "謝る",
+      "reading": "あやまる",
+      "meaning": "道歉",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "やる",
+      "reading": "やる",
+      "meaning": "做,干,搞(比\"する\"更随便的说法)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "卒業する",
+      "reading": "そつぎょうする",
+      "meaning": "毕业",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "切る",
+      "reading": "きる",
+      "meaning": "关",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "保存する",
+      "reading": "ほぞんする",
+      "meaning": "保存",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "送信する",
+      "reading": "そうしんする",
+      "meaning": "发信",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "削除する",
+      "reading": "さくじょする",
+      "meaning": "删除",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "登録する",
+      "reading": "とうろくする",
+      "meaning": "登录",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "掛ける",
+      "reading": "かける",
+      "meaning": "浇(物+に)(液体或粉状物品+を)",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "抜く",
+      "reading": "ぬく",
+      "meaning": "拔",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "出る",
+      "reading": "でる",
+      "meaning": "出来",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "ある",
+      "reading": "ある",
+      "meaning": "有",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "頑張る",
+      "reading": "がんばる",
+      "meaning": "加油",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "無理をする",
+      "reading": "むりをする",
+      "meaning": "勉强",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "ない",
+      "reading": "ない",
+      "meaning": "没有(\"ある\"的否定形)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "まだ",
+      "reading": "まだ",
+      "meaning": "还",
+      "partOfSpeech": "副詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "全部",
+      "reading": "ぜんぶ",
+      "meaning": "全部",
+      "partOfSpeech": "名詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "先に",
+      "reading": "さきに",
+      "meaning": "先",
+      "partOfSpeech": "副詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "もう少し",
+      "reading": "もうすこし",
+      "meaning": "再稍微",
+      "partOfSpeech": "副詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "ううん",
+      "reading": "ううん",
+      "meaning": "不(比较随便的否定回答方式。只用于关系亲近的人之间。)",
+      "partOfSpeech": "感動詞",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "おめでとうございます",
+      "reading": "おめでとうございます",
+      "meaning": "恭喜",
+      "partOfSpeech": "挨拶",
+      "lesson": "第十七課"
+    },
+    {
+      "word": "歌舞伎",
+      "reading": "かぶき",
+      "meaning": "歌舞伎(日本传统音乐戏剧)",
+      "partOfSpeech": "名詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "盆踊り",
+      "reading": "ぼんおどり",
+      "meaning": "盂兰盆会舞(夏季跳的日本民间舞蹈)",
+      "partOfSpeech": "名詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "パンフレット",
+      "reading": "パンフレット",
+      "meaning": "小册子",
+      "partOfSpeech": "名詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "引っ越し",
+      "reading": "ひっこし",
+      "meaning": "搬家",
+      "partOfSpeech": "名詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "ガス",
+      "reading": "ガス",
+      "meaning": "煤气",
+      "partOfSpeech": "名詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "ガス会社",
+      "reading": "ガスがいしゃ",
+      "meaning": "煤气公司",
+      "partOfSpeech": "名詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "水道",
+      "reading": "すいどう",
+      "meaning": "自来水",
+      "partOfSpeech": "名詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "論文",
+      "reading": "ろんぶん",
+      "meaning": "论文",
+      "partOfSpeech": "名詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "忘れ物",
+      "reading": "わすれもの",
+      "meaning": "遗失物品",
+      "partOfSpeech": "名詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "恋人",
+      "reading": "こいびと",
+      "meaning": "恋人",
+      "partOfSpeech": "名詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "納豆",
+      "reading": "なっとう",
+      "meaning": "纳豆",
+      "partOfSpeech": "名詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "象",
+      "reading": "ぞう",
+      "meaning": "大象",
+      "partOfSpeech": "名詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "握手",
+      "reading": "あくしゅ",
+      "meaning": "握手",
+      "partOfSpeech": "名詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "ホームステイする",
+      "reading": "ホームステイする",
+      "meaning": "寄宿于外国人的家中体验当地文化",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "探す",
+      "reading": "さがす",
+      "meaning": "寻找",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "荷造りする",
+      "reading": "にづくりする",
+      "meaning": "准备行李",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "連絡する",
+      "reading": "れんらくする",
+      "meaning": "联系",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "気がつく",
+      "reading": "きがつく",
+      "meaning": "注意到(事物+に)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "出す",
+      "reading": "だす",
+      "meaning": "提出,拿出",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "失敗する",
+      "reading": "しっぱいする",
+      "meaning": "失败",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "別れる",
+      "reading": "わかれる",
+      "meaning": "分别,分手(人+と)",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "完成する",
+      "reading": "かんせいする",
+      "meaning": "完成",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "思い出す",
+      "reading": "おもいだす",
+      "meaning": "想起",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "楽しみにする",
+      "reading": "たのしみにする",
+      "meaning": "期盼着",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "大好き [な]",
+      "reading": "だいすき [な]",
+      "meaning": "非常喜欢",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "~回",
+      "reading": "~かい",
+      "meaning": "次",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "何回",
+      "reading": "なんかい",
+      "meaning": "几次",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "どの",
+      "reading": "どの",
+      "meaning": "哪个(三个或超过三个事物中的哪个,后接名词)",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "ぜひ",
+      "reading": "ぜひ",
+      "meaning": "一定",
+      "partOfSpeech": "副詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "やっと",
+      "reading": "やっと",
+      "meaning": "好不容易",
+      "partOfSpeech": "副詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "えっ",
+      "reading": "えっ",
+      "meaning": "啊(用于表示惊讶)",
+      "partOfSpeech": "感動詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "~あとで",
+      "reading": "~あとで",
+      "meaning": "之后",
+      "partOfSpeech": "副詞",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "いつがいいですか",
+      "reading": "いつがいいですか",
+      "meaning": "什么时候合适?",
+      "partOfSpeech": "句",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "いつでもいいです",
+      "reading": "いつでもいいです",
+      "meaning": "什么时候都可以",
+      "partOfSpeech": "句",
+      "lesson": "第十八課"
+    },
+    {
+      "word": "地球",
+      "reading": "ちきゅう",
+      "meaning": "地球",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "人口",
+      "reading": "じんこう",
+      "meaning": "人口",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "月",
+      "reading": "つき",
+      "meaning": "月亮",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaning": "种类",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "(お)医者(さん)",
+      "reading": "(お)いしゃ(さん)",
+      "meaning": "医生",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "風邪",
+      "reading": "かぜ",
+      "meaning": "感冒",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "インフルエンザ",
+      "reading": "インフルエンザ",
+      "meaning": "流感",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "薬",
+      "reading": "くすり",
+      "meaning": "药",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "用事",
+      "reading": "ようじ",
+      "meaning": "事情",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "忘年会",
+      "reading": "ぼうねんかい",
+      "meaning": "年终宴会",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "ミーティング",
+      "reading": "ミーティング",
+      "meaning": "会议",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "送別会",
+      "reading": "そうべつかい",
+      "meaning": "欢送会",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "国際結婚",
+      "reading": "こくさいけっこん",
+      "meaning": "跨国婚姻",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "習慣",
+      "reading": "しゅうかん",
+      "meaning": "习惯",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "留学",
+      "reading": "りゅうがく",
+      "meaning": "留学",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "晴れ",
+      "reading": "はれ",
+      "meaning": "晴",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "曇り",
+      "reading": "くもり",
+      "meaning": "阴",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "森",
+      "reading": "もり",
+      "meaning": "森林",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "川",
+      "reading": "かわ",
+      "meaning": "河流",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "港",
+      "reading": "みなと",
+      "meaning": "港口",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "気持ち",
+      "reading": "きもち",
+      "meaning": "心情",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "ラッシュアワー",
+      "reading": "ラッシュアワー",
+      "meaning": "交通高峰时间",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "ベル",
+      "reading": "ベル",
+      "meaning": "铃",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "昔",
+      "reading": "むかし",
+      "meaning": "以前",
+      "partOfSpeech": "名詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "そう",
+      "reading": "そう",
+      "meaning": "那样",
+      "partOfSpeech": "副詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "思う",
+      "reading": "おもう",
+      "meaning": "想",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "meaning": "增加",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "減る",
+      "reading": "へる",
+      "meaning": "减少",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "なくなる",
+      "reading": "なくなる",
+      "meaning": "消失,丢失",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "治る",
+      "reading": "なおる",
+      "meaning": "痊愈",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "飲む",
+      "reading": "のむ",
+      "meaning": "吃(药)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "出る",
+      "reading": "でる",
+      "meaning": "出席(聚会+に)",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "違う",
+      "reading": "ちがう",
+      "meaning": "不同",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "歩く",
+      "reading": "あるく",
+      "meaning": "步行",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "見える",
+      "reading": "みえる",
+      "meaning": "看见",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "疲れる",
+      "reading": "つかれる",
+      "meaning": "累",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "必要 [な]",
+      "reading": "ひつよう [な]",
+      "meaning": "必需",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "これから",
+      "reading": "これから",
+      "meaning": "今后",
+      "partOfSpeech": "副詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "ちょっと",
+      "reading": "ちょっと",
+      "meaning": "一点儿",
+      "partOfSpeech": "副詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "それに",
+      "reading": "それに",
+      "meaning": "而且",
+      "partOfSpeech": "接続詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "さあ",
+      "reading": "さあ",
+      "meaning": "呀",
+      "partOfSpeech": "感動詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "~について",
+      "reading": "~について",
+      "meaning": "关于",
+      "partOfSpeech": "助詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "そうですね",
+      "reading": "そうですね",
+      "meaning": "是啊。嗯。(表示思考时的语气词)",
+      "partOfSpeech": "句",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "お大事に",
+      "reading": "おだいじに",
+      "meaning": "请保重。(对病人讲的客套话)",
+      "partOfSpeech": "挨拶",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "込んでいます",
+      "reading": "こんでいます",
+      "meaning": "拥挤",
+      "partOfSpeech": "形容詞",
+      "lesson": "第十九課"
+    },
+    {
+      "word": "火",
+      "reading": "ひ",
+      "meaning": "火",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "ビル",
+      "reading": "ビル",
+      "meaning": "高楼",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "危険",
+      "reading": "きけん",
+      "meaning": "危险",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "宇宙",
+      "reading": "うちゅう",
+      "meaning": "宇宙",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "宇宙ステーション",
+      "reading": "うちゅうステーション",
+      "meaning": "空间站",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "夢",
+      "reading": "ゆめ",
+      "meaning": "梦想,理想",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "科学者",
+      "reading": "かがくしゃ",
+      "meaning": "科学工作者",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaning": "实验",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "バイオ技術",
+      "reading": "バイオぎじゅつ",
+      "meaning": "生物技术",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "サンダル",
+      "reading": "サンダル",
+      "meaning": "凉鞋,草鞋",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "帽子",
+      "reading": "ぼうし",
+      "meaning": "帽子",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "スカート",
+      "reading": "スカート",
+      "meaning": "裙子",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "眼鏡",
+      "reading": "めがね",
+      "meaning": "眼镜",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "紙",
+      "reading": "かみ",
+      "meaning": "纸",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "はさみ",
+      "reading": "はさみ",
+      "meaning": "剪刀",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "Tシャツ",
+      "reading": "Tシャツ",
+      "meaning": "T恤衫",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "アンケート",
+      "reading": "アンケート",
+      "meaning": "问卷调查",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "テーマ",
+      "reading": "テーマ",
+      "meaning": "题目",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "運動",
+      "reading": "うんどう",
+      "meaning": "运动",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "シート",
+      "reading": "シート",
+      "meaning": "问卷",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "その他",
+      "reading": "そのた",
+      "meaning": "其他",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "壊す",
+      "reading": "こわす",
+      "meaning": "弄坏",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "知らせる",
+      "reading": "しらせる",
+      "meaning": "通知",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "設計する",
+      "reading": "せっけいする",
+      "meaning": "设计",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "生まれる",
+      "reading": "うまれる",
+      "meaning": "出生",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "育てる",
+      "reading": "そだてる",
+      "meaning": "培育",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "かぶる",
+      "reading": "かぶる",
+      "meaning": "戴(帽子)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "かける",
+      "reading": "かける",
+      "meaning": "戴(眼鏡)",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "する",
+      "reading": "する",
+      "meaning": "系(领带)",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "決める",
+      "reading": "きめる",
+      "meaning": "决定",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "まとめる",
+      "reading": "まとめる",
+      "meaning": "汇总",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "~本",
+      "reading": "~ほん/ぼん/ぽん",
+      "meaning": "根,条,支,棵(棍状的细长物品的量词)",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "何本",
+      "reading": "なんぼん",
+      "meaning": "几根",
+      "partOfSpeech": "疑問詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "ゆうべ",
+      "reading": "ゆうべ",
+      "meaning": "昨晚",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "よく",
+      "reading": "よく",
+      "meaning": "经常",
+      "partOfSpeech": "副詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "~だけ",
+      "reading": "~だけ",
+      "meaning": "只有,仅仅",
+      "partOfSpeech": "副詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "以上です",
+      "reading": "いじょうです",
+      "meaning": "如上。(用于演讲等结束时)",
+      "partOfSpeech": "句",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "まあ",
+      "reading": "まあ",
+      "meaning": "是啊(表示稍有谦虚或犹豫的语气)。",
+      "partOfSpeech": "感動詞",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "いいなあ",
+      "reading": "いいなあ",
+      "meaning": "真好啊",
+      "partOfSpeech": "句",
+      "lesson": "第二十課"
+    },
+    {
+      "word": "雪",
+      "reading": "ゆき",
+      "meaning": "雪",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "残業",
+      "reading": "ざんぎょう",
+      "meaning": "加班",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "病気",
+      "reading": "びょうき",
+      "meaning": "病",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "道",
+      "reading": "みち",
+      "meaning": "道路",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "キャッシュカード",
+      "reading": "キャッシュカード",
+      "meaning": "借记卡",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "交通",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "事故",
+      "reading": "じこ",
+      "meaning": "事故",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "交通事故",
+      "reading": "こうつうじこ",
+      "meaning": "交通事故",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "地震",
+      "reading": "じしん",
+      "meaning": "地震",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "台風",
+      "reading": "たいふう",
+      "meaning": "台风",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "警察",
+      "reading": "けいさつ",
+      "meaning": "警察",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "エンジン",
+      "reading": "エンジン",
+      "meaning": "发动机,引擎",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaning": "状况",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "受験票",
+      "reading": "じゅけんひょう",
+      "meaning": "准考证",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "朝寝坊",
+      "reading": "あさねぼう",
+      "meaning": "睡懒觉",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "ラブレター",
+      "reading": "ラブレター",
+      "meaning": "情书",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "成績",
+      "reading": "せいせき",
+      "meaning": "成绩",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "おしゃべり",
+      "reading": "おしゃべり",
+      "meaning": "聊天儿,闲聊",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "図",
+      "reading": "ず",
+      "meaning": "图画",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "家",
+      "reading": "いえ",
+      "meaning": "家",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "力",
+      "reading": "ちから",
+      "meaning": "力量",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "年",
+      "reading": "とし",
+      "meaning": "年龄",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "蛇",
+      "reading": "へび",
+      "meaning": "蛇",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "親",
+      "reading": "おや",
+      "meaning": "父母",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaning": "普通,一般",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "ツアー",
+      "reading": "ツアー",
+      "meaning": "旅游团",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "申し込み",
+      "reading": "もうしこみ",
+      "meaning": "报名,预约",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "~書",
+      "reading": "~しょ",
+      "meaning": "书",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "申込書",
+      "reading": "もうしこみしょ",
+      "meaning": "报名表,预约单",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "中止",
+      "reading": "ちゅうし",
+      "meaning": "中止",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "降る",
+      "reading": "ふる",
+      "meaning": "下(雨)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "迷う",
+      "reading": "まよう",
+      "meaning": "迷(路+に)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "無くす",
+      "reading": "なくす",
+      "meaning": "丢",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "遭う",
+      "reading": "あう",
+      "meaning": "遇(事故+に)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "起きる",
+      "reading": "おきる",
+      "meaning": "发生",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "忘れる",
+      "reading": "わすれる",
+      "meaning": "忘",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "拾う",
+      "reading": "ひろう",
+      "meaning": "拾",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "足りる",
+      "reading": "たりる",
+      "meaning": "足够",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "着く",
+      "reading": "つく",
+      "meaning": "到达(场所+に)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "届く",
+      "reading": "とどく",
+      "meaning": "送到",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "咲く",
+      "reading": "さく",
+      "meaning": "开(花)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "紹介する",
+      "reading": "しょうかいする",
+      "meaning": "介绍",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "辞める",
+      "reading": "やめる",
+      "meaning": "停止",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "組み立てる",
+      "reading": "くみたてる",
+      "meaning": "构成,组装",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "太る",
+      "reading": "ふとる",
+      "meaning": "胖",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "痩せる",
+      "reading": "やせる",
+      "meaning": "瘦",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "落とす",
+      "reading": "おとす",
+      "meaning": "掉",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "割れる",
+      "reading": "われる",
+      "meaning": "碎,裂开",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "酔う",
+      "reading": "よう",
+      "meaning": "醉",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "壊れる",
+      "reading": "こわれる",
+      "meaning": "坏,倒塌",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "注意する",
+      "reading": "ちゅういする",
+      "meaning": "提醒,警告",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "けんかする",
+      "reading": "けんかする",
+      "meaning": "打架",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "好き嫌いする",
+      "reading": "すききらいする",
+      "meaning": "挑拣",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "サボる",
+      "reading": "サボる",
+      "meaning": "怠工,逃学",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "悪い",
+      "reading": "わるい",
+      "meaning": "坏,不好",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "弱い",
+      "reading": "よわい",
+      "meaning": "弱",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "強い",
+      "reading": "つよい",
+      "meaning": "强",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "甘い",
+      "reading": "あまい",
+      "meaning": "娇惯",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "幸せ [な]",
+      "reading": "しあわせ [な]",
+      "meaning": "幸福",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "心配 [な]",
+      "reading": "しんぱい [な]",
+      "meaning": "担心",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "~人乗り",
+      "reading": "~にんのり",
+      "meaning": "人乘坐",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "~以下",
+      "reading": "~いか",
+      "meaning": "不足",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "~以上",
+      "reading": "~いじょう",
+      "meaning": "超过",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "~までに",
+      "reading": "~までに",
+      "meaning": "在...之前,截止...为止",
+      "partOfSpeech": "副詞",
+      "lesson": "第二十一課"
+    },
+    {
+      "word": "人形",
+      "reading": "にんぎょう",
+      "meaning": "娃娃,偶人",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "ハンカチ",
+      "reading": "ハンカチ",
+      "meaning": "手绢",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "蛍光灯",
+      "reading": "けいこうとう",
+      "meaning": "日光灯",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "けが",
+      "reading": "けが",
+      "meaning": "受伤",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "プロジェクター",
+      "reading": "プロジェクター",
+      "meaning": "投影仪",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "日",
+      "reading": "ひ",
+      "meaning": "日子",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "遠く",
+      "reading": "とおく",
+      "meaning": "远处",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "インターンシップ",
+      "reading": "インターンシップ",
+      "meaning": "实习",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "楽しみ",
+      "reading": "たのしみ",
+      "meaning": "期待",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "皆様",
+      "reading": "みなさま",
+      "meaning": "各位(“みなさん”的礼貌语)",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "事",
+      "reading": "こと",
+      "meaning": "事",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaning": "机会",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "こちら",
+      "reading": "こちら",
+      "meaning": "这里(\"ここ\"の礼貌语)",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "そちら",
+      "reading": "そちら",
+      "meaning": "那里(\"そこ\"の礼貌语)",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "あちら",
+      "reading": "あちら",
+      "meaning": "那里(\"あそこ\"の礼貌语)",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "くれる",
+      "reading": "くれる",
+      "meaning": "给(我)",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "連れて行く",
+      "reading": "つれていく",
+      "meaning": "带...去(指人)",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "連れて来る",
+      "reading": "つれてくる",
+      "meaning": "带...来(指人)",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "見る",
+      "reading": "みる",
+      "meaning": "看",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "直す",
+      "reading": "なおす",
+      "meaning": "修理,修改",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "取り替える",
+      "reading": "とりかえる",
+      "meaning": "交换,更换",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "合格する",
+      "reading": "ごうかくする",
+      "meaning": "及格,考过(考试+に)",
+      "partOfSpeech": "動詞（３グループ）",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "渡す",
+      "reading": "わたす",
+      "meaning": "交,递",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "つける",
+      "reading": "つける",
+      "meaning": "开(电视等)",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "配る",
+      "reading": "くばる",
+      "meaning": "分发",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "嬉しい",
+      "reading": "うれしい",
+      "meaning": "高興",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "この間",
+      "reading": "このあいだ",
+      "meaning": "前些时候",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "~県",
+      "reading": "~けん",
+      "meaning": "县",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "~都",
+      "reading": "~と",
+      "meaning": "都",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "~市",
+      "reading": "~し",
+      "meaning": "市",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "~区",
+      "reading": "~く",
+      "meaning": "区",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "~様",
+      "reading": "~さま",
+      "meaning": "先生或女士(比\"~さん\"礼貌的说法)",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "ごめん",
+      "reading": "ごめん",
+      "meaning": "对不起。(比\"すみません\"更为随便的说法)",
+      "partOfSpeech": "挨拶",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "お世話になりました",
+      "reading": "おせわになりました",
+      "meaning": "承蒙关照了",
+      "partOfSpeech": "挨拶",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "いいえ、こちらこそ",
+      "reading": "いいえ、こちらこそ",
+      "meaning": "我才是承蒙您关照了呢",
+      "partOfSpeech": "挨拶",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "お元気で",
+      "reading": "おげんきで",
+      "meaning": "请多保重",
+      "partOfSpeech": "挨拶",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "お元気ですか",
+      "reading": "おげんきですか",
+      "meaning": "您好吗?",
+      "partOfSpeech": "挨拶",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "そうでしたね",
+      "reading": "そうでしたね",
+      "meaning": "是啊",
+      "partOfSpeech": "句",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "りんご",
+      "reading": "りんご",
+      "meaning": "苹果",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "まとめ",
+      "reading": "まとめ",
+      "meaning": "归纳,总结",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "おやすみなさい",
+      "reading": "おやすみなさい",
+      "meaning": "晚安",
+      "partOfSpeech": "挨拶",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "鳥",
+      "reading": "とり",
+      "meaning": "鸟",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "髪",
+      "reading": "かみ",
+      "meaning": "头发",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "言葉",
+      "reading": "ことば",
+      "meaning": "语言,言辞",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "ライオン",
+      "reading": "ライオン",
+      "meaning": "狮子",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "くじゃく",
+      "reading": "くじゃく",
+      "meaning": "孔雀",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "ペンギン",
+      "reading": "ペンギン",
+      "meaning": "企鹅",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "人間",
+      "reading": "にんげん",
+      "meaning": "人",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "捕る",
+      "reading": "とる",
+      "meaning": "捕捉",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "珍しい",
+      "reading": "めずらしい",
+      "meaning": "珍稀",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "いろいろ [な]",
+      "reading": "いろいろ [な]",
+      "meaning": "各种各样",
+      "partOfSpeech": "ナ形容詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "~の中で",
+      "reading": "~のなかで",
+      "meaning": "在...中",
+      "partOfSpeech": "副詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "答え",
+      "reading": "こたえ",
+      "meaning": "答案",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "問題",
+      "reading": "もんだい",
+      "meaning": "问题",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "ピザ",
+      "reading": "ピザ",
+      "meaning": "比萨饼",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "専門学校",
+      "reading": "せんもんがっこう",
+      "meaning": "专科学校",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "カップ",
+      "reading": "カップ",
+      "meaning": "茶杯",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "コーヒーカップ",
+      "reading": "コーヒーカップ",
+      "meaning": "咖啡杯",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "フリーマーケット",
+      "reading": "フリーマーケット",
+      "meaning": "跳蚤市场",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "あなた",
+      "reading": "あなた",
+      "meaning": "你",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "見つける",
+      "reading": "みつける",
+      "meaning": "发现",
+      "partOfSpeech": "動詞（２グループ）",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "本当に",
+      "reading": "ほんとうに",
+      "meaning": "真的",
+      "partOfSpeech": "副詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "僕",
+      "reading": "ぼく",
+      "meaning": "我 (比 \"わたし\" 更随便的说法, 男性用语)",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "消しゴム",
+      "reading": "けしゴム",
+      "meaning": "橡皮",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "ドア",
+      "reading": "ドア",
+      "meaning": "门",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "小学校",
+      "reading": "しょうがっこう",
+      "meaning": "小学",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "みんな",
+      "reading": "みんな",
+      "meaning": "大家",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "声",
+      "reading": "こえ",
+      "meaning": "声音",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "文",
+      "reading": "ぶん",
+      "meaning": "句子",
+      "partOfSpeech": "名詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "驚く",
+      "reading": "おどろく",
+      "meaning": "吃惊",
+      "partOfSpeech": "動詞（１グループ）",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "寂しい",
+      "reading": "さびしい",
+      "meaning": "寂寞",
+      "partOfSpeech": "イ形容詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "ある~",
+      "reading": "ある~",
+      "meaning": "某",
+      "partOfSpeech": "連体詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "同じ~",
+      "reading": "おなじ~",
+      "meaning": "同样",
+      "partOfSpeech": "連体詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "~君",
+      "reading": "~くん",
+      "meaning": "~君 (比 \"~さん\" 更随便的称呼, 主要用于男性)",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "おめでとう",
+      "reading": "おめでとう",
+      "meaning": "祝贺。恭喜。",
+      "partOfSpeech": "挨拶",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "数量詞",
+      "reading": "すうりょうし",
+      "meaning": "-",
+      "partOfSpeech": "-",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "~時間",
+      "reading": "~じかん",
+      "meaning": "小时",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "~分",
+      "reading": "~ふん/ぷん",
+      "meaning": "分钟",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "~階",
+      "reading": "~かい",
+      "meaning": "层",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "~枚",
+      "reading": "~まい",
+      "meaning": "张 (纸张、邮票等薄片状物品的量词)",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "~台",
+      "reading": "~だい",
+      "meaning": "辆, 台, 架 (机械、车辆等的量词)",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "~本",
+      "reading": "~ほん/ぼん/ぽん",
+      "meaning": "根, 条, 支, 棵 (棍状的细长物品的量词)",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十二課"
+    },
+    {
+      "word": "~つ",
+      "reading": "~つ",
+      "meaning": "个 (表示数量)",
+      "partOfSpeech": "接尾詞",
+      "lesson": "第二十二課"
+    }
+  ]
+}

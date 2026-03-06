@@ -1,0 +1,4861 @@
+{
+  "meta": {
+    "sentenceSource": "ManyThings jpn-eng (Tatoeba based)",
+    "nhkSource": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+    "description": "Open web-fetched Japanese listening content: sentences + NHK news."
+  },
+  "sentenceLevels": {
+    "N5": [
+      {
+        "jp": "行け。",
+        "translation": "Go."
+      },
+      {
+        "jp": "行きなさい。",
+        "translation": "Go."
+      },
+      {
+        "jp": "こんにちは。",
+        "translation": "Hi."
+      },
+      {
+        "jp": "もしもし。",
+        "translation": "Hi."
+      },
+      {
+        "jp": "やっほー。",
+        "translation": "Hi."
+      },
+      {
+        "jp": "こんにちは！",
+        "translation": "Hi."
+      },
+      {
+        "jp": "走れ。",
+        "translation": "Run."
+      },
+      {
+        "jp": "走って！",
+        "translation": "Run."
+      },
+      {
+        "jp": "すごい！",
+        "translation": "Wow!"
+      },
+      {
+        "jp": "ワォ！",
+        "translation": "Wow!"
+      },
+      {
+        "jp": "わぉ！",
+        "translation": "Wow!"
+      },
+      {
+        "jp": "おー！",
+        "translation": "Wow!"
+      },
+      {
+        "jp": "頭を下げろ！",
+        "translation": "Duck!"
+      },
+      {
+        "jp": "伏せて！",
+        "translation": "Duck!"
+      },
+      {
+        "jp": "火事だ！",
+        "translation": "Fire!"
+      },
+      {
+        "jp": "火事！",
+        "translation": "Fire!"
+      },
+      {
+        "jp": "撃て！",
+        "translation": "Fire!"
+      },
+      {
+        "jp": "助けて！",
+        "translation": "Help!"
+      },
+      {
+        "jp": "助けてくれ！",
+        "translation": "Help!"
+      },
+      {
+        "jp": "隠れろ。",
+        "translation": "Hide."
+      },
+      {
+        "jp": "飛び越えろ！",
+        "translation": "Jump!"
+      },
+      {
+        "jp": "跳べ！",
+        "translation": "Jump!"
+      },
+      {
+        "jp": "飛び降りろ！",
+        "translation": "Jump!"
+      },
+      {
+        "jp": "飛び跳ねて！",
+        "translation": "Jump!"
+      },
+      {
+        "jp": "ジャンプして！",
+        "translation": "Jump!"
+      },
+      {
+        "jp": "跳んで。",
+        "translation": "Jump."
+      },
+      {
+        "jp": "やめろ！",
+        "translation": "Stop!"
+      },
+      {
+        "jp": "止まれ！",
+        "translation": "Stop!"
+      },
+      {
+        "jp": "待って！",
+        "translation": "Wait!"
+      },
+      {
+        "jp": "待ってろよ。",
+        "translation": "Wait!"
+      },
+      {
+        "jp": "待ってくれ。",
+        "translation": "Wait!"
+      },
+      {
+        "jp": "続けて。",
+        "translation": "Go on."
+      },
+      {
+        "jp": "進んで。",
+        "translation": "Go on."
+      },
+      {
+        "jp": "進め。",
+        "translation": "Go on."
+      },
+      {
+        "jp": "続けろ。",
+        "translation": "Go on."
+      },
+      {
+        "jp": "やあ！",
+        "translation": "Hello."
+      },
+      {
+        "jp": "急げ！",
+        "translation": "Hurry!"
+      },
+      {
+        "jp": "かじった。",
+        "translation": "I bit."
+      },
+      {
+        "jp": "噛みついた。",
+        "translation": "I bit."
+      },
+      {
+        "jp": "噛んだ。",
+        "translation": "I bit."
+      },
+      {
+        "jp": "なるほど。",
+        "translation": "I see."
+      },
+      {
+        "jp": "分かりました。",
+        "translation": "I see."
+      },
+      {
+        "jp": "なるほどね。",
+        "translation": "I see."
+      },
+      {
+        "jp": "わかった。",
+        "translation": "I see."
+      },
+      {
+        "jp": "わかりました。",
+        "translation": "I see."
+      },
+      {
+        "jp": "そうですか。",
+        "translation": "I see."
+      },
+      {
+        "jp": "そうなんだ。",
+        "translation": "I see."
+      },
+      {
+        "jp": "そっか。",
+        "translation": "I see."
+      },
+      {
+        "jp": "頑張ってみる。",
+        "translation": "I try."
+      },
+      {
+        "jp": "やってみる。",
+        "translation": "I try."
+      },
+      {
+        "jp": "試してみる。",
+        "translation": "I try."
+      },
+      {
+        "jp": "やってみよう！",
+        "translation": "I try."
+      },
+      {
+        "jp": "トライしてみる。",
+        "translation": "I try."
+      },
+      {
+        "jp": "俺の勝ちー！",
+        "translation": "I won!"
+      },
+      {
+        "jp": "勝ったぁ！",
+        "translation": "I won!"
+      },
+      {
+        "jp": "勝ったぞ！",
+        "translation": "I won!"
+      },
+      {
+        "jp": "私の勝ち！",
+        "translation": "I won!"
+      },
+      {
+        "jp": "私が勝ち！",
+        "translation": "I won!"
+      },
+      {
+        "jp": "なんてこった！",
+        "translation": "Oh no!"
+      },
+      {
+        "jp": "なんてことだ！",
+        "translation": "Oh no!"
+      },
+      {
+        "jp": "しまった！",
+        "translation": "Oh no!"
+      },
+      {
+        "jp": "あー、しまった！",
+        "translation": "Oh no!"
+      },
+      {
+        "jp": "うわ、しまった！",
+        "translation": "Oh no!"
+      },
+      {
+        "jp": "何てことだ！",
+        "translation": "Oh no!"
+      },
+      {
+        "jp": "落ち着いて。",
+        "translation": "Relax."
+      },
+      {
+        "jp": "くつろいで。",
+        "translation": "Relax."
+      },
+      {
+        "jp": "リラックスして。",
+        "translation": "Relax."
+      },
+      {
+        "jp": "楽にしてください。",
+        "translation": "Relax."
+      },
+      {
+        "jp": "はい、チーズ。",
+        "translation": "Smile."
+      },
+      {
+        "jp": "にっこり笑って。",
+        "translation": "Smile."
+      },
+      {
+        "jp": "買って。",
+        "translation": "Buy it."
+      },
+      {
+        "jp": "乾杯！",
+        "translation": "Cheers!"
+      },
+      {
+        "jp": "直して。",
+        "translation": "Fix it."
+      },
+      {
+        "jp": "動くな！",
+        "translation": "Freeze!"
+      },
+      {
+        "jp": "起きなさい！",
+        "translation": "Get up."
+      },
+      {
+        "jp": "起きなさい。",
+        "translation": "Get up."
+      },
+      {
+        "jp": "起きろ！",
+        "translation": "Get up."
+      },
+      {
+        "jp": "さあ、行っといで。",
+        "translation": "Go now."
+      },
+      {
+        "jp": "捕まえた。",
+        "translation": "Got it!"
+      },
+      {
+        "jp": "分かった！",
+        "translation": "Got it!"
+      },
+      {
+        "jp": "彼は走った。",
+        "translation": "He ran."
+      },
+      {
+        "jp": "彼が走った。",
+        "translation": "He ran."
+      },
+      {
+        "jp": "乗れよ。",
+        "translation": "Hop in."
+      },
+      {
+        "jp": "さあ乗って。",
+        "translation": "Hop in."
+      },
+      {
+        "jp": "抱きしめて。",
+        "translation": "Hug me."
+      },
+      {
+        "jp": "ぎゅーして。",
+        "translation": "Hug me."
+      },
+      {
+        "jp": "分かってる。",
+        "translation": "I know."
+      },
+      {
+        "jp": "分かってます。",
+        "translation": "I know."
+      },
+      {
+        "jp": "出発した。",
+        "translation": "I left."
+      },
+      {
+        "jp": "負けた・・・。",
+        "translation": "I lost."
+      },
+      {
+        "jp": "払いました。",
+        "translation": "I paid."
+      },
+      {
+        "jp": "辞職します。",
+        "translation": "I quit."
+      },
+      {
+        "jp": "私、辞めます。",
+        "translation": "I quit."
+      },
+      {
+        "jp": "やめた。",
+        "translation": "I quit."
+      },
+      {
+        "jp": "１９歳です。",
+        "translation": "I'm 19."
+      },
+      {
+        "jp": "私は30才です。",
+        "translation": "I'm 30."
+      },
+      {
+        "jp": "大丈夫ですよ。",
+        "translation": "I'm OK."
+      },
+      {
+        "jp": "私は大丈夫です。",
+        "translation": "I'm OK."
+      },
+      {
+        "jp": "元気です。",
+        "translation": "I'm OK."
+      },
+      {
+        "jp": "目は覚めています。",
+        "translation": "I'm up."
+      },
+      {
+        "jp": "起きてるよ。",
+        "translation": "I'm up."
+      },
+      {
+        "jp": "聞きなさい。",
+        "translation": "Listen."
+      },
+      {
+        "jp": "聞いて！",
+        "translation": "Listen."
+      },
+      {
+        "jp": "馬鹿な！",
+        "translation": "No way!"
+      },
+      {
+        "jp": "まさか！",
+        "translation": "No way!"
+      },
+      {
+        "jp": "あり得ねぇー。",
+        "translation": "No way!"
+      },
+      {
+        "jp": "とんでもない！",
+        "translation": "No way!"
+      },
+      {
+        "jp": "とんでもありません！",
+        "translation": "No way!"
+      },
+      {
+        "jp": "そんなバカな！",
+        "translation": "No way!"
+      },
+      {
+        "jp": "本当？",
+        "translation": "Really?"
+      },
+      {
+        "jp": "本当に？",
+        "translation": "Really?"
+      },
+      {
+        "jp": "本気？",
+        "translation": "Really?"
+      },
+      {
+        "jp": "マジか。",
+        "translation": "Really?"
+      },
+      {
+        "jp": "ありがとう。",
+        "translation": "Thanks!"
+      },
+      {
+        "jp": "どうも！",
+        "translation": "Thanks!"
+      },
+      {
+        "jp": "あざっす！",
+        "translation": "Thanks!"
+      },
+      {
+        "jp": "お疲れさまでした。",
+        "translation": "Thanks."
+      },
+      {
+        "jp": "おおきに！",
+        "translation": "Thanks."
+      },
+      {
+        "jp": "ありがとよ。",
+        "translation": "Thanks."
+      },
+      {
+        "jp": "感謝する。",
+        "translation": "Thanks."
+      },
+      {
+        "jp": "食べた。",
+        "translation": "We ate."
+      },
+      {
+        "jp": "俺らの勝ちー！",
+        "translation": "We won."
+      },
+      {
+        "jp": "何でわたしなの？",
+        "translation": "Why me?"
+      },
+      {
+        "jp": "どうして私なの？",
+        "translation": "Why me?"
+      },
+      {
+        "jp": "僕、大丈夫かな？",
+        "translation": "Am I OK?"
+      },
+      {
+        "jp": "トムに聞きなさい。",
+        "translation": "Ask Tom."
+      },
+      {
+        "jp": "トムに聞いて。",
+        "translation": "Ask Tom."
+      },
+      {
+        "jp": "トムに聞いてごらん。",
+        "translation": "Ask Tom."
+      },
+      {
+        "jp": "すごいぞ！",
+        "translation": "Awesome!"
+      },
+      {
+        "jp": "素晴らしい！",
+        "translation": "Awesome!"
+      },
+      {
+        "jp": "すっげー！",
+        "translation": "Awesome!"
+      },
+      {
+        "jp": "すげー。",
+        "translation": "Awesome."
+      },
+      {
+        "jp": "冷静に。",
+        "translation": "Be cool."
+      },
+      {
+        "jp": "いい子にしなさい。",
+        "translation": "Be good."
+      },
+      {
+        "jp": "おとなしくしなさい。",
+        "translation": "Be good."
+      },
+      {
+        "jp": "お行儀よくしなさい。",
+        "translation": "Be nice."
+      },
+      {
+        "jp": "どっか行け。",
+        "translation": "Beat it."
+      },
+      {
+        "jp": "連絡をちょうだい。",
+        "translation": "Call me."
+      },
+      {
+        "jp": "電話してね。",
+        "translation": "Call me."
+      },
+      {
+        "jp": "お電話ください。",
+        "translation": "Call us."
+      },
+      {
+        "jp": "入っておいでよ。",
+        "translation": "Come in."
+      },
+      {
+        "jp": "お入りください。",
+        "translation": "Come in."
+      },
+      {
+        "jp": "入ってきなさい！",
+        "translation": "Come in."
+      },
+      {
+        "jp": "入って。",
+        "translation": "Come in."
+      },
+      {
+        "jp": "入れ！",
+        "translation": "Come in."
+      },
+      {
+        "jp": "入ってください！",
+        "translation": "Come in."
+      },
+      {
+        "jp": "おいで。",
+        "translation": "Come on."
+      },
+      {
+        "jp": "おいおい。",
+        "translation": "Come on."
+      },
+      {
+        "jp": "トムを連れてきて。",
+        "translation": "Get Tom."
+      },
+      {
+        "jp": "出て行け！",
+        "translation": "Get out!"
+      },
+      {
+        "jp": "出ていけ。",
+        "translation": "Get out!"
+      },
+      {
+        "jp": "出ろ！",
+        "translation": "Get out!"
+      },
+      {
+        "jp": "出てけ！",
+        "translation": "Get out!"
+      },
+      {
+        "jp": "外に出ろ。",
+        "translation": "Get out."
+      },
+      {
+        "jp": "消え失せろ。",
+        "translation": "Get out."
+      },
+      {
+        "jp": "向こうへ行け！",
+        "translation": "Go away!"
+      },
+      {
+        "jp": "あっちへ行け！",
+        "translation": "Go away!"
+      },
+      {
+        "jp": "離れろ。",
+        "translation": "Go away!"
+      },
+      {
+        "jp": "帰りなさい。",
+        "translation": "Go home."
+      },
+      {
+        "jp": "ゆっくり、ゆっくり。",
+        "translation": "Go slow."
+      },
+      {
+        "jp": "慌てない、慌てない。",
+        "translation": "Go slow."
+      },
+      {
+        "jp": "さようなら！",
+        "translation": "Goodbye!"
+      },
+      {
+        "jp": "さようなら。",
+        "translation": "Goodbye!"
+      },
+      {
+        "jp": "バイバイ。",
+        "translation": "Goodbye."
+      },
+      {
+        "jp": "あばよ。",
+        "translation": "Goodbye."
+      },
+      {
+        "jp": "頑張れ！",
+        "translation": "Hang on!"
+      },
+      {
+        "jp": "切らないで。",
+        "translation": "Hang on."
+      },
+      {
+        "jp": "彼は来ました。",
+        "translation": "He came."
+      },
+      {
+        "jp": "彼は走る。",
+        "translation": "He runs."
+      },
+      {
+        "jp": "助けてくれ。",
+        "translation": "Help me!"
+      },
+      {
+        "jp": "手伝ってよ。",
+        "translation": "Help me."
+      },
+      {
+        "jp": "助けてください。",
+        "translation": "Help me."
+      },
+      {
+        "jp": "手伝って。",
+        "translation": "Help me."
+      },
+      {
+        "jp": "ハーイ、トム。",
+        "translation": "Hi, Tom."
+      },
+      {
+        "jp": "やぁ、トム。",
+        "translation": "Hi, Tom."
+      },
+      {
+        "jp": "トムを殴れ。",
+        "translation": "Hit Tom."
+      },
+      {
+        "jp": "動かないで！",
+        "translation": "Hold it!"
+      },
+      {
+        "jp": "じっとして！",
+        "translation": "Hold it!"
+      },
+      {
+        "jp": "動かないで。",
+        "translation": "Hold it."
+      },
+      {
+        "jp": "お待ちください。",
+        "translation": "Hold on."
+      },
+      {
+        "jp": "悲しい。",
+        "translation": "How sad!"
+      },
+      {
+        "jp": "悲しいわね。",
+        "translation": "How sad!"
+      },
+      {
+        "jp": "トムを抱きしめて。",
+        "translation": "Hug Tom."
+      },
+      {
+        "jp": "トムにハグして。",
+        "translation": "Hug Tom."
+      },
+      {
+        "jp": "トムをハグして。",
+        "translation": "Hug Tom."
+      },
+      {
+        "jp": "賛成です。",
+        "translation": "I agree."
+      },
+      {
+        "jp": "同感です。",
+        "translation": "I agree."
+      },
+      {
+        "jp": "そう思います。",
+        "translation": "I agree."
+      },
+      {
+        "jp": "まったくです。",
+        "translation": "I agree."
+      },
+      {
+        "jp": "同意する。",
+        "translation": "I agree."
+      },
+      {
+        "jp": "やってはみた。",
+        "translation": "I tried."
+      },
+      {
+        "jp": "やってみた。",
+        "translation": "I tried."
+      },
+      {
+        "jp": "行くよ。",
+        "translation": "I'll go."
+      },
+      {
+        "jp": "私が行きます。",
+        "translation": "I'll go."
+      },
+      {
+        "jp": "トムと申します。",
+        "translation": "I'm Tom."
+      },
+      {
+        "jp": "トムといいます。",
+        "translation": "I'm Tom."
+      },
+      {
+        "jp": "私はトムです。",
+        "translation": "I'm Tom."
+      },
+      {
+        "jp": "私は太っている。",
+        "translation": "I'm fat."
+      },
+      {
+        "jp": "俺はデブだ。",
+        "translation": "I'm fat."
+      },
+      {
+        "jp": "私ももう年だ。",
+        "translation": "I'm old."
+      },
+      {
+        "jp": "悲しいです。",
+        "translation": "I'm sad."
+      },
+      {
+        "jp": "大丈夫、大丈夫。",
+        "translation": "It's OK."
+      },
+      {
+        "jp": "僕だよ！",
+        "translation": "It's me!"
+      },
+      {
+        "jp": "私よ！",
+        "translation": "It's me!"
+      },
+      {
+        "jp": "私ですが。",
+        "translation": "It's me."
+      },
+      {
+        "jp": "仲間になって。",
+        "translation": "Join us."
+      },
+      {
+        "jp": "取っておいて。",
+        "translation": "Keep it."
+      },
+      {
+        "jp": "僕もだよ。",
+        "translation": "Me, too."
+      },
+      {
+        "jp": "私もそうです。",
+        "translation": "Me, too."
+      },
+      {
+        "jp": "私も。",
+        "translation": "Me, too."
+      },
+      {
+        "jp": "開けてくれ。",
+        "translation": "Open up."
+      },
+      {
+        "jp": "開けろ。",
+        "translation": "Open up."
+      },
+      {
+        "jp": "バッチリ！",
+        "translation": "Perfect!"
+      },
+      {
+        "jp": "完璧！",
+        "translation": "Perfect!"
+      },
+      {
+        "jp": "パーフェクト！",
+        "translation": "Perfect!"
+      },
+      {
+        "jp": "あーんして。",
+        "translation": "Say aah."
+      },
+      {
+        "jp": "また会おう！",
+        "translation": "See you!"
+      },
+      {
+        "jp": "じゃ、またねっ！",
+        "translation": "See you."
+      },
+      {
+        "jp": "じゃあ、またね。",
+        "translation": "See you."
+      },
+      {
+        "jp": "じゃあな。",
+        "translation": "See you."
+      },
+      {
+        "jp": "見せて。",
+        "translation": "Show me."
+      },
+      {
+        "jp": "ちょっと見せて。",
+        "translation": "Show me."
+      },
+      {
+        "jp": "黙ってて。",
+        "translation": "Shut up!"
+      },
+      {
+        "jp": "やめておけ。",
+        "translation": "Skip it."
+      },
+      {
+        "jp": "やめなさい。",
+        "translation": "Stop it."
+      },
+      {
+        "jp": "いいかげんにして。",
+        "translation": "Stop it."
+      },
+      {
+        "jp": "やめろよ。",
+        "translation": "Stop it."
+      },
+      {
+        "jp": "これ取っておいて。",
+        "translation": "Take it."
+      },
+      {
+        "jp": "教えてよ！",
+        "translation": "Tell me."
+      },
+      {
+        "jp": "教えて。",
+        "translation": "Tell me."
+      },
+      {
+        "jp": "片付けなさいよ。",
+        "translation": "Tidy up."
+      },
+      {
+        "jp": "トムは食べた。",
+        "translation": "Tom ate."
+      },
+      {
+        "jp": "トムは走った。",
+        "translation": "Tom ran."
+      },
+      {
+        "jp": "トムは勝った。",
+        "translation": "Tom won."
+      },
+      {
+        "jp": "トムの勝ち。",
+        "translation": "Tom won."
+      },
+      {
+        "jp": "目を覚ませよ！",
+        "translation": "Wake up!"
+      },
+      {
+        "jp": "起きて！",
+        "translation": "Wake up!"
+      },
+      {
+        "jp": "手を洗いなさい。",
+        "translation": "Wash up."
+      },
+      {
+        "jp": "顔と手を洗いなさい。",
+        "translation": "Wash up."
+      },
+      {
+        "jp": "私たちは知ってる。",
+        "translation": "We know."
+      },
+      {
+        "jp": "僕たちは知ってる。",
+        "translation": "We know."
+      },
+      {
+        "jp": "俺たちは知ってる。",
+        "translation": "We know."
+      },
+      {
+        "jp": "いらっしゃい。",
+        "translation": "Welcome."
+      },
+      {
+        "jp": "ようこそ。",
+        "translation": "Welcome."
+      },
+      {
+        "jp": "誰が走ったの？",
+        "translation": "Who ran?"
+      },
+      {
+        "jp": "誰が勝ったの？",
+        "translation": "Who won?"
+      },
+      {
+        "jp": "なぜいけないの？",
+        "translation": "Why not?"
+      },
+      {
+        "jp": "どうしてダメなの？",
+        "translation": "Why not?"
+      },
+      {
+        "jp": "ぜひそうしよう。",
+        "translation": "Why not?"
+      },
+      {
+        "jp": "君が走れ。",
+        "translation": "You run."
+      },
+      {
+        "jp": "あんたの勝ちだ。",
+        "translation": "You won."
+      },
+      {
+        "jp": "おまえの勝ちだ。",
+        "translation": "You won."
+      },
+      {
+        "jp": "俺、太ってるかな？",
+        "translation": "Am I fat?"
+      },
+      {
+        "jp": "彼らに聞きなさい。",
+        "translation": "Ask them."
+      },
+      {
+        "jp": "下がっていろ！",
+        "translation": "Back off!"
+      },
+      {
+        "jp": "引っ込んでて！",
+        "translation": "Back off!"
+      },
+      {
+        "jp": "男になれよ。",
+        "translation": "Be a man."
+      },
+      {
+        "jp": "勇気を出して。",
+        "translation": "Be brave."
+      },
+      {
+        "jp": "黙っていなさい。",
+        "translation": "Be quiet."
+      },
+      {
+        "jp": "静かにしてくれ。",
+        "translation": "Be quiet."
+      },
+      {
+        "jp": "静かに！",
+        "translation": "Be quiet."
+      },
+      {
+        "jp": "静かにしなさい。",
+        "translation": "Be quiet."
+      },
+      {
+        "jp": "静かにしてなさい。",
+        "translation": "Be quiet."
+      },
+      {
+        "jp": "お静かに。",
+        "translation": "Be quiet."
+      },
+      {
+        "jp": "じっとしてて。",
+        "translation": "Be still."
+      },
+      {
+        "jp": "トムに電話して。",
+        "translation": "Call Tom."
+      },
+      {
+        "jp": "トムを呼んで。",
+        "translation": "Call Tom."
+      },
+      {
+        "jp": "行けるかな？",
+        "translation": "Can I go?"
+      },
+      {
+        "jp": "元気出して。",
+        "translation": "Cheer up!"
+      },
+      {
+        "jp": "元気を出せよ。",
+        "translation": "Cheer up!"
+      },
+      {
+        "jp": "元気出せよ。",
+        "translation": "Cheer up!"
+      },
+      {
+        "jp": "元気出しなよ。",
+        "translation": "Cheer up!"
+      },
+      {
+        "jp": "頭を冷やせ。",
+        "translation": "Cool off!"
+      },
+      {
+        "jp": "行くんじゃない。",
+        "translation": "Don't go."
+      },
+      {
+        "jp": "行かないで。",
+        "translation": "Don't go."
+      },
+      {
+        "jp": "トムを探してきて。",
+        "translation": "Find Tom."
+      },
+      {
+        "jp": "トムを見つけて。",
+        "translation": "Find Tom."
+      },
+      {
+        "jp": "これ直して。",
+        "translation": "Fix this."
+      },
+      {
+        "jp": "床に伏せろ！",
+        "translation": "Get down!"
+      },
+      {
+        "jp": "冷静に考えて見ろよ！",
+        "translation": "Get real!"
+      },
+      {
+        "jp": "どうぞ、お先に！",
+        "translation": "Go ahead!"
+      },
+      {
+        "jp": "どうぞお話し下さい。",
+        "translation": "Go ahead."
+      },
+      {
+        "jp": "お見事！",
+        "translation": "Good job!"
+      },
+      {
+        "jp": "お疲れ様でした。",
+        "translation": "Good job!"
+      },
+      {
+        "jp": "よくやった！",
+        "translation": "Good job!"
+      },
+      {
+        "jp": "トムを捕まえろ。",
+        "translation": "Grab Tom."
+      },
+      {
+        "jp": "楽しんでね。",
+        "translation": "Have fun."
+      },
+      {
+        "jp": "楽しんできてね。",
+        "translation": "Have fun."
+      },
+      {
+        "jp": "楽しんできなさい。",
+        "translation": "Have fun."
+      },
+      {
+        "jp": "彼がやってみるんだ。",
+        "translation": "He tries."
+      },
+      {
+        "jp": "トムを助けてやって。",
+        "translation": "Help Tom."
+      },
+      {
+        "jp": "やあ、みんな！",
+        "translation": "Hi, guys."
+      },
+      {
+        "jp": "かわいい！",
+        "translation": "How cute!"
+      },
+      {
+        "jp": "どのくらい深い？",
+        "translation": "How deep?"
+      },
+      {
+        "jp": "失敬な！",
+        "translation": "How rude!"
+      },
+      {
+        "jp": "急ぎなさい。",
+        "translation": "Hurry up."
+      },
+      {
+        "jp": "さあ、急いで。",
+        "translation": "Hurry up."
+      },
+      {
+        "jp": "やった。",
+        "translation": "I did it."
+      },
+      {
+        "jp": "やってやった。",
+        "translation": "I did it."
+      },
+      {
+        "jp": "失敗した。",
+        "translation": "I failed."
+      }
+    ],
+    "N4": [
+      {
+        "jp": "とんでもございません！",
+        "translation": "No way!"
+      },
+      {
+        "jp": "ありがとうございます！",
+        "translation": "Thanks."
+      },
+      {
+        "jp": "私たちは努力しております。",
+        "translation": "We try."
+      },
+      {
+        "jp": "いい子にしときなさい。",
+        "translation": "Be good."
+      },
+      {
+        "jp": "優しくしてあげなさい。",
+        "translation": "Be nice."
+      },
+      {
+        "jp": "私はたばこを吸います。",
+        "translation": "I smoke."
+      },
+      {
+        "jp": "私は引っ込み思案です。",
+        "translation": "I'm shy."
+      },
+      {
+        "jp": "少し静かにしていなさい。",
+        "translation": "Be quiet."
+      },
+      {
+        "jp": "楽しんでいってください。",
+        "translation": "Have fun."
+      },
+      {
+        "jp": "なんて可愛いんでしょう。",
+        "translation": "How cute!"
+      },
+      {
+        "jp": "道に迷ってしまいました。",
+        "translation": "I'm lost."
+      },
+      {
+        "jp": "ストップって言ってね。",
+        "translation": "Say when."
+      },
+      {
+        "jp": "精一杯やってみなさい。",
+        "translation": "Try hard."
+      },
+      {
+        "jp": "トムに警告してください。",
+        "translation": "Warn Tom."
+      },
+      {
+        "jp": "私の質問に答えなさい。",
+        "translation": "Answer me."
+      },
+      {
+        "jp": "今すぐそれをやりなさい。",
+        "translation": "Do it now."
+      },
+      {
+        "jp": "もう一度お願いします。",
+        "translation": "Excuse me?"
+      },
+      {
+        "jp": "そのことを確信している。",
+        "translation": "I am sure."
+      },
+      {
+        "jp": "私は走ることができる。",
+        "translation": "I can run."
+      },
+      {
+        "jp": "残念ながらどうもそうらしい。",
+        "translation": "I fear so."
+      },
+      {
+        "jp": "本気で言ってるんです。",
+        "translation": "I mean it."
+      },
+      {
+        "jp": "ダメだって言ったでしょ。",
+        "translation": "I said no."
+      },
+      {
+        "jp": "そう言っておいたはずだ。",
+        "translation": "I said so."
+      },
+      {
+        "jp": "私は怒り狂っていたんだ。",
+        "translation": "I was mad."
+      },
+      {
+        "jp": "あったかくしてなさい。",
+        "translation": "Keep warm."
+      },
+      {
+        "jp": "私に行かせてください。",
+        "translation": "Let me go!"
+      },
+      {
+        "jp": "私も参加させてください。",
+        "translation": "Let me in."
+      },
+      {
+        "jp": "「アー」といってください。",
+        "translation": "Say \"aah.\""
+      },
+      {
+        "jp": "大人しく待ってなさい。",
+        "translation": "Sit tight."
+      },
+      {
+        "jp": "ありがとうございます。",
+        "translation": "Thank you."
+      },
+      {
+        "jp": "どうもありがとうございます。",
+        "translation": "Thank you."
+      },
+      {
+        "jp": "トムは恥ずかしがり屋だ。",
+        "translation": "Tom's shy."
+      },
+      {
+        "jp": "もう１度やってみなさい。",
+        "translation": "Try again."
+      },
+      {
+        "jp": "僕らは恥ずかしがり屋です。",
+        "translation": "We're shy."
+      },
+      {
+        "jp": "どうでもいいでしょう？",
+        "translation": "Who cares?"
+      },
+      {
+        "jp": "どなたさまでしょうか。",
+        "translation": "Who is it?"
+      },
+      {
+        "jp": "トムに手紙を書きなよ。",
+        "translation": "Write Tom."
+      },
+      {
+        "jp": "皆さんお乗りください。",
+        "translation": "All aboard!"
+      },
+      {
+        "jp": "何言っているか分かる？",
+        "translation": "Am I clear?"
+      },
+      {
+        "jp": "私の言ってること、わかります？",
+        "translation": "Am I clear?"
+      },
+      {
+        "jp": "俺は間違っているのか。",
+        "translation": "Am I wrong?"
+      },
+      {
+        "jp": "周りの人に聞いてみて。",
+        "translation": "Ask around."
+      },
+      {
+        "jp": "私達と一緒に来なさい。",
+        "translation": "Come along."
+      },
+      {
+        "jp": "さあどうぞお入りください。",
+        "translation": "Do come in."
+      },
+      {
+        "jp": "満タンにしてください。",
+        "translation": "Fill it up."
+      },
+      {
+        "jp": "彼はうそをついている。",
+        "translation": "He's lying."
+      },
+      {
+        "jp": "起き上がるの手伝って。",
+        "translation": "Help me up."
+      },
+      {
+        "jp": "立ち上がるの手伝って。",
+        "translation": "Help me up."
+      },
+      {
+        "jp": "早く家に帰って来なさい。",
+        "translation": "Hurry home."
+      },
+      {
+        "jp": "私は覚悟ができている。",
+        "translation": "I am ready."
+      },
+      {
+        "jp": "僕、ジャンプできるよ。",
+        "translation": "I can jump."
+      },
+      {
+        "jp": "私は読むことができます。",
+        "translation": "I can read."
+      },
+      {
+        "jp": "私は泳ぐことが出来ます。",
+        "translation": "I can swim."
+      },
+      {
+        "jp": "私はそうは思いません。",
+        "translation": "I disagree."
+      },
+      {
+        "jp": "そうでなきゃいいけど。",
+        "translation": "I hope not."
+      },
+      {
+        "jp": "彼のことは知ってますよ。",
+        "translation": "I know him."
+      },
+      {
+        "jp": "トムの事は気に入っている。",
+        "translation": "I like Tom."
+      },
+      {
+        "jp": "俺、パイが好きなんだよ。",
+        "translation": "I like pie."
+      },
+      {
+        "jp": "君のことが好きなんだ。",
+        "translation": "I like you."
+      },
+      {
+        "jp": "私は彼女に恋をしている。",
+        "translation": "I love her."
+      },
+      {
+        "jp": "彼女のことが大好きです。",
+        "translation": "I love her."
+      },
+      {
+        "jp": "私はあなたを愛しています。",
+        "translation": "I love you."
+      },
+      {
+        "jp": "君がいなくて寂しいよ。",
+        "translation": "I miss you."
+      },
+      {
+        "jp": "走ったほうがよさそうだ。",
+        "translation": "I must run."
+      },
+      {
+        "jp": "私にはトムが必要です。",
+        "translation": "I need Tom."
+      },
+      {
+        "jp": "あなたが必要なんです。",
+        "translation": "I need you."
+      },
+      {
+        "jp": "私がちゃんとやりますから。",
+        "translation": "I'll do it."
+      },
+      {
+        "jp": "私は先入観に縛られている。",
+        "translation": "I'm biased."
+      },
+      {
+        "jp": "私は単刀直入なんです。",
+        "translation": "I'm direct."
+      },
+      {
+        "jp": "お腹が減ってるんです。",
+        "translation": "I'm hungry."
+      },
+      {
+        "jp": "トムのことなど気にするな。",
+        "translation": "Ignore Tom."
+      },
+      {
+        "jp": "その調子でがんばって。",
+        "translation": "Keep it up!"
+      },
+      {
+        "jp": "たいしたことではない。心配するな。",
+        "translation": "Never mind!"
+      },
+      {
+        "jp": "どうぞお召し上がりください。",
+        "translation": "Please eat."
+      },
+      {
+        "jp": "どうぞ召し上がってください。",
+        "translation": "Please eat."
+      },
+      {
+        "jp": "「お願い」って言えよ。",
+        "translation": "Say please."
+      },
+      {
+        "jp": "やって欲しいなら、頼めよ。",
+        "translation": "Say please."
+      },
+      {
+        "jp": "彼女はにっこり笑った。",
+        "translation": "She smiled."
+      },
+      {
+        "jp": "さあ、みんなで歌いましょう。",
+        "translation": "Sing along."
+      },
+      {
+        "jp": "もう二度と嘘つかないでよ。",
+        "translation": "Stop lying."
+      },
+      {
+        "jp": "しっかり勉強しなさい。",
+        "translation": "Study hard."
+      },
+      {
+        "jp": "しっかり勉強して下さい。",
+        "translation": "Study hard."
+      },
+      {
+        "jp": "勉強を頑張りましょう。",
+        "translation": "Study hard."
+      },
+      {
+        "jp": "それで間に合うでしょう。",
+        "translation": "That'll do."
+      },
+      {
+        "jp": "時のたつのは早いものだ。",
+        "translation": "Time flies."
+      },
+      {
+        "jp": "トムは車を運転します。",
+        "translation": "Tom drives."
+      },
+      {
+        "jp": "トムはため息をついた。",
+        "translation": "Tom sighed."
+      },
+      {
+        "jp": "トムは耳が聞こえない。",
+        "translation": "Tom's deaf."
+      },
+      {
+        "jp": "何か変わったことある？",
+        "translation": "What's new?"
+      },
+      {
+        "jp": "何か変わったことない？",
+        "translation": "What's new?"
+      },
+      {
+        "jp": "万事上手くいってます。",
+        "translation": "All is well."
+      },
+      {
+        "jp": "新しく入った人ですか？",
+        "translation": "Are you new?"
+      },
+      {
+        "jp": "誰にでもいいから訊いてみてください。",
+        "translation": "Ask anybody."
+      },
+      {
+        "jp": "お話ししたいことがあります。",
+        "translation": "Can we talk?"
+      },
+      {
+        "jp": "トムと連絡を取りなさい。",
+        "translation": "Contact Tom."
+      },
+      {
+        "jp": "俺が言うとおりにやれよ。",
+        "translation": "Do as I say."
+      },
+      {
+        "jp": "慌てる必要はありません！",
+        "translation": "Don't panic!"
+      },
+      {
+        "jp": "心配しないでください。",
+        "translation": "Don't worry."
+      },
+      {
+        "jp": "満タンでお願いします。",
+        "translation": "Fill her up."
+      },
+      {
+        "jp": "トムを許してあげたら？",
+        "translation": "Forgive Tom."
+      },
+      {
+        "jp": "彼は腹が据わっている。",
+        "translation": "He has guts."
+      },
+      {
+        "jp": "彼は一人っきりである。",
+        "translation": "He is alone."
+      },
+      {
+        "jp": "彼はひどく嫌われている。",
+        "translation": "He is hated."
+      },
+      {
+        "jp": "彼は立ち上がりました。",
+        "translation": "He stood up."
+      },
+      {
+        "jp": "たくさん食べちゃった。",
+        "translation": "I ate a lot."
+      },
+      {
+        "jp": "私は運転することができます。",
+        "translation": "I can drive."
+      },
+      {
+        "jp": "私は、運転ができます。",
+        "translation": "I can drive."
+      },
+      {
+        "jp": "私って、運が良かったのよ。",
+        "translation": "I got lucky."
+      },
+      {
+        "jp": "私ね、運に恵まれてたわ。",
+        "translation": "I got lucky."
+      },
+      {
+        "jp": "お米を栽培しています。",
+        "translation": "I grow rice."
+      },
+      {
+        "jp": "米の栽培をしています。",
+        "translation": "I grow rice."
+      },
+      {
+        "jp": "私自身、ADHDなんです。",
+        "translation": "I have ADHD."
+      },
+      {
+        "jp": "私はどちらも好きです。",
+        "translation": "I like both."
+      },
+      {
+        "jp": "私はジャズが好きです。",
+        "translation": "I like jazz."
+      },
+      {
+        "jp": "私はロックが好きです。",
+        "translation": "I like rock."
+      },
+      {
+        "jp": "私はここに住んでいます。",
+        "translation": "I live here."
+      },
+      {
+        "jp": "イチジクが大好きなの。",
+        "translation": "I love figs."
+      },
+      {
+        "jp": "私は数学が大好きです。",
+        "translation": "I love math."
+      },
+      {
+        "jp": "私はあなたが大好きだったの。",
+        "translation": "I loved you."
+      },
+      {
+        "jp": "私には助けが必要です。",
+        "translation": "I need help."
+      },
+      {
+        "jp": "私はＵＦＯを見ました。",
+        "translation": "I saw a UFO."
+      },
+      {
+        "jp": "私は彼を信頼している。",
+        "translation": "I trust him."
+      },
+      {
+        "jp": "私は彼を信用しています。",
+        "translation": "I trust him."
+      },
+      {
+        "jp": "私はメアリーが欲しいです。",
+        "translation": "I want Mary."
+      },
+      {
+        "jp": "私が間違っていました。",
+        "translation": "I was wrong."
+      },
+      {
+        "jp": "私は後からついていきます。",
+        "translation": "I'll follow."
+      },
+      {
+        "jp": "私は好奇心旺盛なのです。",
+        "translation": "I'm curious."
+      },
+      {
+        "jp": "目が回るほど忙しいよ。",
+        "translation": "I'm frantic!"
+      },
+      {
+        "jp": "それじゃお先に失礼します。",
+        "translation": "I'm leaving."
+      },
+      {
+        "jp": "僕は馬鹿なんかじゃないぞ。",
+        "translation": "I'm no fool."
+      },
+      {
+        "jp": "私は英雄などではない。",
+        "translation": "I'm no hero."
+      },
+      {
+        "jp": "私はヒーローなんかじゃないよ。",
+        "translation": "I'm no hero."
+      },
+      {
+        "jp": "私、嘘つきじゃないもん。",
+        "translation": "I'm no liar."
+      },
+      {
+        "jp": "おなかがすいて死にそうだ。",
+        "translation": "I'm starved."
+      },
+      {
+        "jp": "ものすごくお腹がすいている。",
+        "translation": "I'm starved."
+      },
+      {
+        "jp": "私がここの最高責任者です。",
+        "translation": "I'm the CEO."
+      },
+      {
+        "jp": "閉じ込められてしまった。",
+        "translation": "I'm trapped."
+      },
+      {
+        "jp": "トムは戻っていますか？",
+        "translation": "Is Tom back?"
+      },
+      {
+        "jp": "トムは忙しいでしょうか？",
+        "translation": "Is Tom busy?"
+      },
+      {
+        "jp": "トムって、かっこいい？",
+        "translation": "Is Tom cool?"
+      },
+      {
+        "jp": "トムはここにいますか？",
+        "translation": "Is Tom here?"
+      },
+      {
+        "jp": "トムが迷子になったの？",
+        "translation": "Is Tom lost?"
+      },
+      {
+        "jp": "トムは正気なんだろうか。",
+        "translation": "Is Tom sane?"
+      },
+      {
+        "jp": "それって合法的なんだろうか？",
+        "translation": "Is it legal?"
+      },
+      {
+        "jp": "そんなのありえないよ。",
+        "translation": "It can't be!"
+      },
+      {
+        "jp": "雨になるかもしれないな。",
+        "translation": "It may rain."
+      },
+      {
+        "jp": "雨が降るかもしれない。",
+        "translation": "It may rain."
+      },
+      {
+        "jp": "雪が降るかもしれません。",
+        "translation": "It may snow."
+      },
+      {
+        "jp": "そうなる運命だったんだよ。",
+        "translation": "It was fate."
+      },
+      {
+        "jp": "よし、それで手を打とう。",
+        "translation": "It's a deal."
+      },
+      {
+        "jp": "トムにやらせてあげて。",
+        "translation": "Let Tom try."
+      },
+      {
+        "jp": "さあ飲もうじゃないか。",
+        "translation": "Let's drink."
+      },
+      {
+        "jp": "さあ、みんなで盛り上がろう！",
+        "translation": "Let's party!"
+      },
+      {
+        "jp": "入ってもよろしいですか。",
+        "translation": "May I enter?"
+      },
+      {
+        "jp": "煙草を吸ってもいいですか？",
+        "translation": "May I smoke?"
+      },
+      {
+        "jp": "タバコ、吸ってもいい？",
+        "translation": "May I smoke?"
+      },
+      {
+        "jp": "さあ、進んで、進んで。",
+        "translation": "Now move on."
+      },
+      {
+        "jp": "じゃあ今度はあなたがやってみて。",
+        "translation": "Now you try."
+      },
+      {
+        "jp": "わかった。お前の勝ちね。",
+        "translation": "OK, you win."
+      },
+      {
+        "jp": "またそんなこと言って。",
+        "translation": "Oh, come on."
+      },
+      {
+        "jp": "彼女は彼に噛みついた。",
+        "translation": "She bit him."
+      },
+      {
+        "jp": "あの女は実にセクシーだ。",
+        "translation": "She's a fox."
+      },
+      {
+        "jp": "私は行くべきでしょうか。",
+        "translation": "Should I go?"
+      },
+      {
+        "jp": "どうやってやるのか教えて。",
+        "translation": "Show me how."
+      },
+      {
+        "jp": "もっとゆっくり話してください。",
+        "translation": "Talk slower."
+      },
+      {
+        "jp": "トムに「ダメ」と伝えて。",
+        "translation": "Tell Tom no."
+      },
+      {
+        "jp": "そういうことだったのか！",
+        "translation": "That was it."
+      },
+      {
+        "jp": "人生とはそんなものさ。",
+        "translation": "That's life."
+      },
+      {
+        "jp": "トムに振られちゃった。",
+        "translation": "Tom left me."
+      },
+      {
+        "jp": "トムはリラックスした。",
+        "translation": "Tom relaxed."
+      },
+      {
+        "jp": "トムはくしゃみをした。",
+        "translation": "Tom sneezed."
+      },
+      {
+        "jp": "トムは死にかけている。",
+        "translation": "Tom's dying."
+      },
+      {
+        "jp": "トムは嘘をついている。",
+        "translation": "Tom's lying."
+      },
+      {
+        "jp": "トムのほうが年上です。",
+        "translation": "Tom's older."
+      },
+      {
+        "jp": "あれを試着してごらん。",
+        "translation": "Try that on."
+      },
+      {
+        "jp": "これを試着してごらん。",
+        "translation": "Try this on."
+      },
+      {
+        "jp": "お前ってひでえ野郎だ。",
+        "translation": "You're sick!"
+      },
+      {
+        "jp": "あの人たちは、新人さんなの？",
+        "translation": "Are they new?"
+      },
+      {
+        "jp": "耳が聞こえないんですか？",
+        "translation": "Are you deaf?"
+      },
+      {
+        "jp": "お腹いっぱいになった？",
+        "translation": "Are you full?"
+      },
+      {
+        "jp": "道に迷っているんですか。",
+        "translation": "Are you lost?"
+      },
+      {
+        "jp": "ビーフをお願いします。",
+        "translation": "Beef, please."
+      },
+      {
+        "jp": "お会計をお願いします。",
+        "translation": "Bill, please."
+      },
+      {
+        "jp": "トムは料理ができるの？",
+        "translation": "Can Tom cook?"
+      },
+      {
+        "jp": "あなたは泳ぐ事が出来ますか。",
+        "translation": "Can you swim?"
+      },
+      {
+        "jp": "私といっしょに来なさい。",
+        "translation": "Come with me."
+      },
+      {
+        "jp": "トムから電話があった？",
+        "translation": "Did Tom call?"
+      },
+      {
+        "jp": "あなたは酒を飲みますか？",
+        "translation": "Do you drink?"
+      },
+      {
+        "jp": "気をつけて運転してください。",
+        "translation": "Drive safely."
+      },
+      {
+        "jp": "安全運転してください。",
+        "translation": "Drive safely."
+      },
+      {
+        "jp": "安全運転してくださいね。",
+        "translation": "Drive safely."
+      },
+      {
+        "jp": "安全運転でお願いします。",
+        "translation": "Drive safely."
+      },
+      {
+        "jp": "ゆっくり運転しなさい。",
+        "translation": "Drive slowly."
+      },
+      {
+        "jp": "ボストンに行ってこい。",
+        "translation": "Go to Boston."
+      },
+      {
+        "jp": "彼は彼女のことが大嫌いだ。",
+        "translation": "He hates her."
+      },
+      {
+        "jp": "彼は彼女を手伝います。",
+        "translation": "He helps her."
+      },
+      {
+        "jp": "あいつ、機嫌が悪いんだ。",
+        "translation": "He is cranky."
+      },
+      {
+        "jp": "彼はそれを蹴飛ばした。",
+        "translation": "He kicked it."
+      },
+      {
+        "jp": "彼は彼女に恋している。",
+        "translation": "He loves her."
+      },
+      {
+        "jp": "彼は一人ぼっちだった。",
+        "translation": "He was alone."
+      },
+      {
+        "jp": "私はキャビアを食べた。",
+        "translation": "I ate caviar."
+      },
+      {
+        "jp": "私は話すことができない。",
+        "translation": "I can't talk."
+      },
+      {
+        "jp": "トムを追いかけました。",
+        "translation": "I chased Tom."
+      },
+      {
+        "jp": "私は牛乳を飲みました。",
+        "translation": "I drank milk."
+      },
+      {
+        "jp": "生きていることを実感する。",
+        "translation": "I feel alive."
+      },
+      {
+        "jp": "頭がフラフラするんだ。",
+        "translation": "I feel dizzy."
+      },
+      {
+        "jp": "気分が良くないんですよ。",
+        "translation": "I feel lousy."
+      },
+      {
+        "jp": "とても楽しかったです。",
+        "translation": "I had a ball."
+      },
+      {
+        "jp": "コーヒーを頂きました。",
+        "translation": "I had coffee."
+      },
+      {
+        "jp": "私はいぶかしく思った。",
+        "translation": "I had doubts."
+      },
+      {
+        "jp": "カエルなんて、大っ嫌い。",
+        "translation": "I hate frogs."
+      },
+      {
+        "jp": "テストなんか、大嫌い。",
+        "translation": "I hate tests."
+      },
+      {
+        "jp": "犬を1匹飼っています。",
+        "translation": "I have a dog."
+      },
+      {
+        "jp": "私は銃を持っています。",
+        "translation": "I have a gun."
+      },
+      {
+        "jp": "じんましんが出ました。",
+        "translation": "I have hives."
+      },
+      {
+        "jp": "私には双子の子供がいる。",
+        "translation": "I have twins."
+      },
+      {
+        "jp": "彼女のお手伝いをしました。",
+        "translation": "I helped her."
+      },
+      {
+        "jp": "私は引っ越してきたばかりです。",
+        "translation": "I just moved."
+      },
+      {
+        "jp": "私は犬を一匹飼ってます。",
+        "translation": "I keep a dog."
+      },
+      {
+        "jp": "トムにキスしちゃった。",
+        "translation": "I kissed Tom."
+      },
+      {
+        "jp": "私はチェスが好きです。",
+        "translation": "I like chess."
+      },
+      {
+        "jp": "僕は女の子が好きです。",
+        "translation": "I like girls."
+      },
+      {
+        "jp": "私はオペラが大好きだ。",
+        "translation": "I love opera."
+      },
+      {
+        "jp": "タクシーをつかまえないと。",
+        "translation": "I need a cab."
+      },
+      {
+        "jp": "睡眠をとったほうがよさそうだ。",
+        "translation": "I need sleep."
+      },
+      {
+        "jp": "私はピアノを弾きます。",
+        "translation": "I play piano."
+      },
+      {
+        "jp": "敢えて危ない橋を渡ることにした。",
+        "translation": "I took risks."
+      },
+      {
+        "jp": "ぎゅってして欲しいな。",
+        "translation": "I want a hug."
+      },
+      {
+        "jp": "意気地がなかったんだ。",
+        "translation": "I wimped out."
+      },
+      {
+        "jp": "トムに訊いてみようっと。",
+        "translation": "I'll ask Tom."
+      },
+      {
+        "jp": "トムにお願いしようかな。",
+        "translation": "I'll ask Tom."
+      },
+      {
+        "jp": "トムに頼むことにします。",
+        "translation": "I'll ask Tom."
+      },
+      {
+        "jp": "私からトムにお願いしておきます。",
+        "translation": "I'll ask Tom."
+      },
+      {
+        "jp": "私はカナダ人なんです。",
+        "translation": "I'm Canadian."
+      },
+      {
+        "jp": "ぜひ聞かせてください。",
+        "translation": "I'm all ears."
+      },
+      {
+        "jp": "今手が塞がっているんです。",
+        "translation": "I'm busy now."
+      },
+      {
+        "jp": "今、手がはなせません。",
+        "translation": "I'm busy now."
+      },
+      {
+        "jp": "私、怖いもの知らずなの。",
+        "translation": "I'm fearless."
+      },
+      {
+        "jp": "ビールを飲むのはやめている。",
+        "translation": "I'm off beer."
+      },
+      {
+        "jp": "とてもお腹がすいたよ。",
+        "translation": "I'm starving."
+      },
+      {
+        "jp": "僕はくすぐったがり屋なんだ。",
+        "translation": "I'm ticklish."
+      },
+      {
+        "jp": "私はＮＴＴで働いています。",
+        "translation": "I'm with NTT."
+      },
+      {
+        "jp": "見たことはありますよ。",
+        "translation": "I've seen it."
+      },
+      {
+        "jp": "トムは独りぼっちなの？",
+        "translation": "Is Tom alone?"
+      },
+      {
+        "jp": "トムは酔っているのか？",
+        "translation": "Is Tom drunk?"
+      },
+      {
+        "jp": "それはガンなんですか？",
+        "translation": "Is it cancer?"
+      },
+      {
+        "jp": "それって、ここの近く？",
+        "translation": "Is it nearby?"
+      },
+      {
+        "jp": "ひょっとして、これって恋かしら？",
+        "translation": "Is this love?"
+      },
+      {
+        "jp": "これってミンクの毛皮なの？",
+        "translation": "Is this mink?"
+      },
+      {
+        "jp": "それ、新品じゃないよ。",
+        "translation": "It isn't new."
+      },
+      {
+        "jp": "見るからに明らかだよ。",
+        "translation": "It's obvious."
+      },
+      {
+        "jp": "ずいぶんと珍しいですね。",
+        "translation": "It's so rare."
+      },
+      {
+        "jp": "とにかく家に帰りなさい。",
+        "translation": "Just go home."
+      },
+      {
+        "jp": "トム、遅れないでついてきて。",
+        "translation": "Keep up, Tom."
+      },
+      {
+        "jp": "トムを休ませてやりなさい。",
+        "translation": "Let Tom rest."
+      },
+      {
+        "jp": "私のことはほっといて。",
+        "translation": "Let me alone."
+      },
+      {
+        "jp": "私にやらせてください。",
+        "translation": "Let me do it."
+      },
+      {
+        "jp": "そろそろ行きましょうか。",
+        "translation": "Let's go now."
+      },
+      {
+        "jp": "見直しをしようじゃないか。",
+        "translation": "Let's review."
+      },
+      {
+        "jp": "私の言うことを聞きなさい。",
+        "translation": "Listen to me."
+      },
+      {
+        "jp": "いうことを聞きなさい。",
+        "translation": "Listen to me."
+      },
+      {
+        "jp": "メアリーが入ってきた。",
+        "translation": "Mary came in."
+      },
+      {
+        "jp": "メアリーはクックッと笑った。",
+        "translation": "Mary giggled."
+      },
+      {
+        "jp": "やってみてもいいですか？",
+        "translation": "May I try it?"
+      },
+      {
+        "jp": "男だって泣くことくらいあるさ。",
+        "translation": "Men cry, too."
+      },
+      {
+        "jp": "誰も気にしやしないよ。",
+        "translation": "No one cares."
+      },
+      {
+        "jp": "誰も口を開かなかった。",
+        "translation": "No one spoke."
+      },
+      {
+        "jp": "いやいや、私が払いますよ。",
+        "translation": "No, I'll pay."
+      },
+      {
+        "jp": "それは誰にも分からない。",
+        "translation": "Nobody knows."
+      },
+      {
+        "jp": "手前にひいて開けてください。",
+        "translation": "Pull it open."
+      },
+      {
+        "jp": "口の動きを読んでみて。",
+        "translation": "Read my lips."
+      },
+      {
+        "jp": "彼女のいうことは間違っている。",
+        "translation": "She is wrong."
+      },
+      {
+        "jp": "彼女は私を知っている。",
+        "translation": "She knows me."
+      },
+      {
+        "jp": "彼女はそれが好きでした。",
+        "translation": "She liked it."
+      },
+      {
+        "jp": "彼女は来るかもしれない。",
+        "translation": "She may come."
+      },
+      {
+        "jp": "小さい声で話してください。",
+        "translation": "Speak softly."
+      },
+      {
+        "jp": "鼻歌を歌うのはやめろ。",
+        "translation": "Stop humming."
+      },
+      {
+        "jp": "たばこを吸うのをやめなさい。",
+        "translation": "Stop smoking."
+      },
+      {
+        "jp": "おしゃべりをやめなさい。",
+        "translation": "Stop talking."
+      },
+      {
+        "jp": "フランス語を勉強しろよ。",
+        "translation": "Study French."
+      },
+      {
+        "jp": "もっと気楽に生きなよ。",
+        "translation": "Take it easy."
+      },
+      {
+        "jp": "大変ありがとうございました。",
+        "translation": "Thanks a lot."
+      },
+      {
+        "jp": "彼らはリラックスした。",
+        "translation": "They relaxed."
+      },
+      {
+        "jp": "その人たちが私を撃ったんです。",
+        "translation": "They shot me."
+      },
+      {
+        "jp": "彼らなら、ここにいるよ。",
+        "translation": "They're here."
+      },
+      {
+        "jp": "トムはキャンセルした。",
+        "translation": "Tom canceled."
+      },
+      {
+        "jp": "トムは金持ちになったんだ。",
+        "translation": "Tom got rich."
+      },
+      {
+        "jp": "トムは私のことが大嫌いなんです。",
+        "translation": "Tom hates me."
+      },
+      {
+        "jp": "トムはすばしっこいよ。",
+        "translation": "Tom is agile."
+      },
+      {
+        "jp": "トムは頭のネジが飛んでいる。",
+        "translation": "Tom is crazy."
+      },
+      {
+        "jp": "トムは私を必要としています。",
+        "translation": "Tom needs me."
+      },
+      {
+        "jp": "トムは家に走りました。",
+        "translation": "Tom ran home."
+      },
+      {
+        "jp": "トムはメアリーを見かけた。",
+        "translation": "Tom saw Mary."
+      },
+      {
+        "jp": "トムは彼らを見かけた。",
+        "translation": "Tom saw them."
+      },
+      {
+        "jp": "トムは吃音しちゃうんだ。",
+        "translation": "Tom stutters."
+      },
+      {
+        "jp": "トムは行方不明になった。",
+        "translation": "Tom vanished."
+      },
+      {
+        "jp": "トムは怪我を負わされた。",
+        "translation": "Tom was hurt."
+      },
+      {
+        "jp": "トムは口笛を吹きました。",
+        "translation": "Tom whistled."
+      },
+      {
+        "jp": "トムって、嘘つきなのよ。",
+        "translation": "Tom's a liar."
+      },
+      {
+        "jp": "さあ、泳いでみなさい。",
+        "translation": "Try and swim!"
+      }
+    ],
+    "N3": [
+      {
+        "jp": "俺たちみんな、お前のことが大好きなんだ。",
+        "translation": "We love you."
+      },
+      {
+        "jp": "そろそろおいとましなければなりません。",
+        "translation": "I have to go."
+      },
+      {
+        "jp": "こちらで召し上がりますか、それともお持ち帰りですか。",
+        "translation": "Here or to go?"
+      },
+      {
+        "jp": "私はファイアフォックスを使っています。",
+        "translation": "I use Firefox."
+      },
+      {
+        "jp": "誰一人としてそれを知るものはいなかった。",
+        "translation": "No one knew it."
+      },
+      {
+        "jp": "トムさんて、フォードに乗ってらっしゃるのよ。",
+        "translation": "Tom has a Ford."
+      },
+      {
+        "jp": "あの男の人は仕事は何をなさってるんですか？",
+        "translation": "What's his job?"
+      },
+      {
+        "jp": "トムは私たちを手伝うことができますか。",
+        "translation": "Can Tom help us?"
+      },
+      {
+        "jp": "タクシーを呼び止めるために手をあげた。",
+        "translation": "I hailed a taxi."
+      },
+      {
+        "jp": "まぁ、そんなに格好つけるのはやめとけよ。",
+        "translation": "Oh, come off it."
+      },
+      {
+        "jp": "トムね、インフルエンザにかかってるの。",
+        "translation": "Tom has the flu."
+      },
+      {
+        "jp": "トムは僕が知ってるって分かってたんだ。",
+        "translation": "Tom knew I knew."
+      },
+      {
+        "jp": "ご自分のやりたいことをやってください。",
+        "translation": "Do what you want."
+      },
+      {
+        "jp": "２人が知り合ったきっかけは何だったの？",
+        "translation": "How did you meet?"
+      },
+      {
+        "jp": "それについてはあんたには言えやしないよ。",
+        "translation": "I can't tell you."
+      },
+      {
+        "jp": "あなたのことをさして言っているのではない。",
+        "translation": "I don't mean you."
+      },
+      {
+        "jp": "電話番号、２２３—１３７４、ですよね？",
+        "translation": "Is this 223-1374?"
+      },
+      {
+        "jp": "あの人たちを中に入れてあげてちょうだい。",
+        "translation": "Let them come in."
+      },
+      {
+        "jp": "トムはメアリーに読み聞かせをしてあげた。",
+        "translation": "Tom read to Mary."
+      },
+      {
+        "jp": "私はトムと一緒に行くことができますか。",
+        "translation": "Can I go with Tom?"
+      },
+      {
+        "jp": "偏見だってことは分かってるんだけどね。",
+        "translation": "I know I'm biased."
+      },
+      {
+        "jp": "私はあなたのお手伝いさんじゃありません。",
+        "translation": "I'm not your maid."
+      },
+      {
+        "jp": "誰だってあの人たちのことは好きじゃないよ。",
+        "translation": "Nobody likes them."
+      },
+      {
+        "jp": "トムは自分の仕事が嫌でたまらないんだ。",
+        "translation": "Tom hates his job."
+      },
+      {
+        "jp": "トムは自分の仕事が嫌で嫌で仕方がないんだ。",
+        "translation": "Tom hates his job."
+      },
+      {
+        "jp": "僕たちが知ってるってトムは分かってるよ。",
+        "translation": "Tom knows we know."
+      },
+      {
+        "jp": "トムはカントリーミュージックが好きだ。",
+        "translation": "Tom likes country."
+      },
+      {
+        "jp": "このサイトをお気に入りに登録しておいて。",
+        "translation": "Bookmark this site."
+      },
+      {
+        "jp": "あいつのこと、トムって呼ぶのはよせよ。",
+        "translation": "Don't call him Tom."
+      },
+      {
+        "jp": "そんな大きな声で話さないでちょうだい。",
+        "translation": "Don't talk so loud."
+      },
+      {
+        "jp": "こちらで召し上がりますか、それともお持ち帰りにしますか。",
+        "translation": "For here, or to go?"
+      },
+      {
+        "jp": "彼は自動車を購入することができません。",
+        "translation": "He can't buy a car."
+      },
+      {
+        "jp": "私は歩いて家に帰らなければならなかった。",
+        "translation": "I had to walk home."
+      },
+      {
+        "jp": "私は歩いて家に帰らなくてはいけなかった。",
+        "translation": "I had to walk home."
+      },
+      {
+        "jp": "私達に時間が有ればよかったのにと思うよ。",
+        "translation": "I wish we had time."
+      },
+      {
+        "jp": "あとで懐かしく思ったりはしないだろう。",
+        "translation": "I wouldn't miss it."
+      },
+      {
+        "jp": "ちょっとした冗談のつもりで言っただけです。",
+        "translation": "It was just a joke."
+      },
+      {
+        "jp": "私を助けることなんて誰もできないのよ。",
+        "translation": "Nobody can help me."
+      },
+      {
+        "jp": "トムにちょっかいを出すのは止めなさい。",
+        "translation": "Stop bothering Tom."
+      },
+      {
+        "jp": "トムはもう少しで溺れ死にするところだった。",
+        "translation": "Tom almost drowned."
+      },
+      {
+        "jp": "トムはもう少しで溺れて死ぬところだった。",
+        "translation": "Tom almost drowned."
+      },
+      {
+        "jp": "トムがあなたのキャンディを食べました。",
+        "translation": "Tom ate your candy."
+      },
+      {
+        "jp": "トムはあなたを傷つけることはできない。",
+        "translation": "Tom can't hurt you."
+      },
+      {
+        "jp": "トムはメアリーにクラクションを鳴らした。",
+        "translation": "Tom honked at Mary."
+      },
+      {
+        "jp": "トムは掃いて捨てるほど金持ってるからな。",
+        "translation": "Tom is filthy rich."
+      },
+      {
+        "jp": "ちょうどトムからメッセージが届いたよ。",
+        "translation": "Tom just texted me."
+      },
+      {
+        "jp": "私がここにいることはトムは知ってます。",
+        "translation": "Tom knows I'm here."
+      },
+      {
+        "jp": "私達は単にトムを無視することにしてるの。",
+        "translation": "We just ignore Tom."
+      },
+      {
+        "jp": "このバッグの中には何が入っていますか。",
+        "translation": "What's in this bag?"
+      },
+      {
+        "jp": "私は次にどこへ行けばよいのでしょうか？",
+        "translation": "Where do I go next?"
+      },
+      {
+        "jp": "みんな君がいてくれたら、って思ってるよ。",
+        "translation": "You've been missed."
+      },
+      {
+        "jp": "私が持っているものと言えば本だけです。",
+        "translation": "All I have is books."
+      },
+      {
+        "jp": "私に関しては、すべてうまく行っている。",
+        "translation": "All is well with me."
+      },
+      {
+        "jp": "悪い癖ってのは、なかなか治らないんだよ。",
+        "translation": "Bad habits die hard."
+      },
+      {
+        "jp": "ボストンは気に入っていただけましたか？",
+        "translation": "Did you like Boston?"
+      },
+      {
+        "jp": "何でもいいから自分ができることをしなさい。",
+        "translation": "Do whatever you can."
+      },
+      {
+        "jp": "トムを救うにはどうすればいいのですか。",
+        "translation": "How can we save Tom?"
+      },
+      {
+        "jp": "これが困難であることはわかっています。",
+        "translation": "I know this is hard."
+      },
+      {
+        "jp": "私は決してお前に言うことはないだろう。",
+        "translation": "I'll never tell you."
+      },
+      {
+        "jp": "俺はメアリーの好みのタイプじゃないしな。",
+        "translation": "I'm not Mary's type."
+      },
+      {
+        "jp": "メアリーね、携帯電話をなくしちゃったの。",
+        "translation": "Mary lost her phone."
+      },
+      {
+        "jp": "お名前をお伺いしてもよろしいでしょうか。",
+        "translation": "May I ask your name?"
+      },
+      {
+        "jp": "お名前をお伺いしてもよろしいでしょうか？",
+        "translation": "May I ask your name?"
+      },
+      {
+        "jp": "電話をお借りしてもよろしいでしょうか？",
+        "translation": "May I use the phone?"
+      },
+      {
+        "jp": "二つのうち、いずれかを選んでください。",
+        "translation": "Pick one of the two."
+      },
+      {
+        "jp": "はじめまして、どうぞよろしくお願い致します。",
+        "translation": "Pleased to meet you."
+      },
+      {
+        "jp": "そのボールを僕の方に転がしてください。",
+        "translation": "Roll the ball to me."
+      },
+      {
+        "jp": "ご迷惑をおかけして申し訳ございません。",
+        "translation": "Sorry to bother you."
+      },
+      {
+        "jp": "私がトムのことを愛してると彼に伝えて。",
+        "translation": "Tell Tom I love him."
+      },
+      {
+        "jp": "そのことで私は恥ずかしいことになってしまいました。",
+        "translation": "That embarrassed me."
+      },
+      {
+        "jp": "このテーブルは汚れがなくてきれいです。",
+        "translation": "This table is clean."
+      },
+      {
+        "jp": "トムってね、読むことすらできないのよ。",
+        "translation": "Tom can't even read."
+      },
+      {
+        "jp": "トムは、規則ってものが気に食わねえんだよ。",
+        "translation": "Tom hates the rules."
+      },
+      {
+        "jp": "トムはメアリーのことをよく知っている。",
+        "translation": "Tom knows Mary well."
+      },
+      {
+        "jp": "トムはとても年老いているように見えた。",
+        "translation": "Tom looked very old."
+      },
+      {
+        "jp": "トムは決してメアリーを傷つけなかった。",
+        "translation": "Tom never hurt Mary."
+      },
+      {
+        "jp": "私たちみんな自転車に乗るのが好きです。",
+        "translation": "We all like cycling."
+      },
+      {
+        "jp": "ただちに行動を起こさなければならない。",
+        "translation": "We must act at once."
+      },
+      {
+        "jp": "私たちは早めに出発しなければなりません。",
+        "translation": "We must leave early."
+      },
+      {
+        "jp": "おまえの目はいったいどこについているんだ。",
+        "translation": "What are you eyeing?"
+      },
+      {
+        "jp": "あなたのお父様はどこにいらっしゃいますか？",
+        "translation": "Where's your father?"
+      },
+      {
+        "jp": "トムはなぜそれをしてしまったのだろう？",
+        "translation": "Why did Tom do that?"
+      },
+      {
+        "jp": "私の滞在期間を延長することはできますか。",
+        "translation": "Can I extend my stay?"
+      },
+      {
+        "jp": "子供は、人に愛されることが必要なのです。",
+        "translation": "Children need loving."
+      },
+      {
+        "jp": "私にあれこれ指図するのは、やめてください。",
+        "translation": "Don't push me around."
+      },
+      {
+        "jp": "フランスはイタリアと国境を接している。",
+        "translation": "France borders Italy."
+      },
+      {
+        "jp": "彼は私たちにステーキを注文してくれた。",
+        "translation": "He ordered us steaks."
+      },
+      {
+        "jp": "おい、俺の言ってること、聞こえたのか？",
+        "translation": "Hey, did you hear me?"
+      },
+      {
+        "jp": "こんにちは！ここで働かれているんですか。",
+        "translation": "Hi! Do you work here?"
+      },
+      {
+        "jp": "どこまで読んでたかわかんなくなっちゃった。",
+        "translation": "I have lost my place."
+      },
+      {
+        "jp": "私にはとてもたくさんのアイデアがある。",
+        "translation": "I have so many ideas."
+      },
+      {
+        "jp": "私はトムが怖がっているのを知っている。",
+        "translation": "I know Tom is afraid."
+      },
+      {
+        "jp": "それが、私の失敗だってことは自分でもよくわかってる。",
+        "translation": "I know it's my fault."
+      },
+      {
+        "jp": "あいつがそれをやった理由は分かってるんだ。",
+        "translation": "I know why he did it."
+      },
+      {
+        "jp": "私はこのバイクを使わなければならない。",
+        "translation": "I must use this bike."
+      },
+      {
+        "jp": "私は、あなたは彼女のことを好きだと思う。",
+        "translation": "I think you like her."
+      },
+      {
+        "jp": "あなたの言っていることは正しいと思う。",
+        "translation": "I think you're right."
+      },
+      {
+        "jp": "トムの手伝いをするためにここにいるんだよ。",
+        "translation": "I'm here to help Tom."
+      },
+      {
+        "jp": "もう今となってはそういう問題じゃないんだよ。",
+        "translation": "It no longer matters."
+      },
+      {
+        "jp": "いいからトムを一人にしておいてあげなさい。",
+        "translation": "Just leave Tom alone."
+      },
+      {
+        "jp": "メアリーがほっぺにちゅってしてくれた。",
+        "translation": "Mary kissed my cheek."
+      },
+      {
+        "jp": "お話させていただいてもよろしいでしょうか。",
+        "translation": "May I speak with you?"
+      },
+      {
+        "jp": "牛乳は私たちの体を丈夫にしてくれます。",
+        "translation": "Milk makes us strong."
+      },
+      {
+        "jp": "うちの犬がかみつくことはめったに無い。",
+        "translation": "Our dog seldom bites."
+      },
+      {
+        "jp": "どうぞ、そのままお座りになっていてください。",
+        "translation": "Please remain seated."
+      },
+      {
+        "jp": "彼女、ハンドバッグをなくしちゃったんだ。",
+        "translation": "She lost her handbag."
+      },
+      {
+        "jp": "助けてくださり、ありがとうございました。",
+        "translation": "Thanks for saving me."
+      },
+      {
+        "jp": "お時間をいただきありがとうございます。",
+        "translation": "Thanks for your time."
+      },
+      {
+        "jp": "トムったらビールを一気に飲み干したのよ。",
+        "translation": "Tom chugged his beer."
+      },
+      {
+        "jp": "トムは、私たちに料理を振る舞ってくれた。",
+        "translation": "Tom cooked us dinner."
+      },
+      {
+        "jp": "トムはメアリーが好きじゃなかったのよ。",
+        "translation": "Tom didn't like Mary."
+      },
+      {
+        "jp": "トムは私がどこにいたか知ってたんだよ。",
+        "translation": "Tom knew where I was."
+      },
+      {
+        "jp": "トムはメアリーがとても気に入ってるんだ。",
+        "translation": "Tom likes Mary a lot."
+      },
+      {
+        "jp": "トムはとても緊張しているように見える。",
+        "translation": "Tom looks very tense."
+      },
+      {
+        "jp": "トムはメアリーのことをとても愛してたのよ。",
+        "translation": "Tom loved Mary a lot."
+      },
+      {
+        "jp": "トムは、しょっちゅうメアリーに電話してるよ。",
+        "translation": "Tom often calls Mary."
+      },
+      {
+        "jp": "トムは今でもメアリーのことが好きなんだ。",
+        "translation": "Tom still likes Mary."
+      },
+      {
+        "jp": "トムは、自分がかっこいいと思っている。",
+        "translation": "Tom thinks he's cool."
+      },
+      {
+        "jp": "私たちは学校へ行かなければなりません。",
+        "translation": "We must go to school."
+      },
+      {
+        "jp": "そのチームは誰がコーチをしているのですか。",
+        "translation": "Who coaches the team?"
+      },
+      {
+        "jp": "トムって、どうしてあんなことしてるの？",
+        "translation": "Why's Tom doing that?"
+      },
+      {
+        "jp": "あなたには、それを証明することはできない。",
+        "translation": "You can't prove that."
+      },
+      {
+        "jp": "おまえは私が言うことをしなくてはならない。",
+        "translation": "You must do as I say."
+      },
+      {
+        "jp": "おかしすぎる！あなたって、面白い人ね。",
+        "translation": "You really are funny."
+      },
+      {
+        "jp": "私たちにできるのは希望を持つことだけだ。",
+        "translation": "All we can do is hope."
+      },
+      {
+        "jp": "あなたにお願い事をしてもよいでしょうか。",
+        "translation": "Can I ask you a favor?"
+      },
+      {
+        "jp": "彼はあなたに結婚を申し込んだのですか。",
+        "translation": "Did he propose to you?"
+      },
+      {
+        "jp": "あなたはお金をいくらか持っていませんか。",
+        "translation": "Do you have any money?"
+      },
+      {
+        "jp": "あんなことをするなんて、馬鹿げていたよ。",
+        "translation": "Doing that was stupid."
+      },
+      {
+        "jp": "まさかこんなところでお会いするとは、奇遇ですね。",
+        "translation": "Fancy seeing you here."
+      },
+      {
+        "jp": "「よくある質問」はお読みになりましたか？",
+        "translation": "Have you read the FAQ?"
+      },
+      {
+        "jp": "彼は以前はたくさんの文章を読んだものだ。",
+        "translation": "He used to read a lot."
+      },
+      {
+        "jp": "トムはどうやってメアリーと知り合ったの？",
+        "translation": "How did Tom meet Mary?"
+      },
+      {
+        "jp": "私はあの人のことを覚えていませんでした。",
+        "translation": "I didn't remember her."
+      },
+      {
+        "jp": "うちの犬には、肉を餌としてあげてるんだ。",
+        "translation": "I feed meat to my dog."
+      },
+      {
+        "jp": "ちょっとお願いしたいことがあるんだけど。",
+        "translation": "I have a favor to ask."
+      },
+      {
+        "jp": "トムはメアリーが好きだって知ってるよ。",
+        "translation": "I know Tom likes Mary."
+      },
+      {
+        "jp": "トムはメアリーが好きだって、分かってるわ。",
+        "translation": "I know Tom likes Mary."
+      },
+      {
+        "jp": "あなたがどこに住んでいるのか知っています。",
+        "translation": "I know where you live."
+      },
+      {
+        "jp": "君がショックを受けてるのは知ってるよ。",
+        "translation": "I know you're shocked."
+      },
+      {
+        "jp": "犬にクッキーっていう名前を付けたんだ。",
+        "translation": "I named my dog Cookie."
+      },
+      {
+        "jp": "私は生物学は決して好きではありませんでした。",
+        "translation": "I never liked biology."
+      },
+      {
+        "jp": "コーヒーを飲むことは滅多に無いですね。",
+        "translation": "I rarely drink coffee."
+      },
+      {
+        "jp": "ボストンには、ほとんど行かないんだよ。",
+        "translation": "I seldom go to Boston."
+      },
+      {
+        "jp": "トムって、あなたのことが好きなんだと思う。",
+        "translation": "I think Tom likes you."
+      },
+      {
+        "jp": "私、人に影響されやすいタイプなんです。",
+        "translation": "I'm easily influenced."
+      },
+      {
+        "jp": "私は争うためにここにいるのではありません。",
+        "translation": "I'm not here to fight."
+      },
+      {
+        "jp": "トムって、私のことカンカンに怒ってる？",
+        "translation": "Is Tom very mad at me?"
+      },
+      {
+        "jp": "もうすぐラッシュアワーの時間帯に入る。",
+        "translation": "It's almost rush hour."
+      },
+      {
+        "jp": "ちょいとここらで河岸をかえましょうや。",
+        "translation": "Let's get out of here."
+      },
+      {
+        "jp": "メアリーがね、ビールを一気飲みしたのよ。",
+        "translation": "Mary chugged her beer."
+      },
+      {
+        "jp": "ちょっとトイレをお借りしてもよろしいですか。",
+        "translation": "May I use your toilet?"
+      },
+      {
+        "jp": "僕のリュックサック、めっちゃ重たいんだ。",
+        "translation": "My pack is very heavy."
+      },
+      {
+        "jp": "もしかしたら、トムが間違ってたのかも。",
+        "translation": "Perhaps Tom was wrong."
+      },
+      {
+        "jp": "彼女が愛しているのはトムであって、私でない。",
+        "translation": "She loves Tom, not me."
+      },
+      {
+        "jp": "お招きいただき、ありがとうございました。",
+        "translation": "Thanks for the invite."
+      },
+      {
+        "jp": "赤ちゃんが僕に、ニコッとしてくれたんだ。",
+        "translation": "The baby smiled at me."
+      },
+      {
+        "jp": "その知らせを聞くと彼女は悲しくなった。",
+        "translation": "The news made her sad."
+      },
+      {
+        "jp": "私の言うことは信じてもらえないんです。",
+        "translation": "They don't believe me."
+      },
+      {
+        "jp": "このミンクのコートは3,000ドルした。",
+        "translation": "This mink cost $3,000."
+      },
+      {
+        "jp": "トムがメアリーをここに連れてきたんだよ。",
+        "translation": "Tom brought Mary here."
+      },
+      {
+        "jp": "トムはメアリーのことが忘れられないんだよ。",
+        "translation": "Tom can't forget Mary."
+      },
+      {
+        "jp": "トムさんはね、オーストラリアから来られたのよ。",
+        "translation": "Tom is from Australia."
+      },
+      {
+        "jp": "トムはね、オーストラリアから来たんだよ。",
+        "translation": "Tom is from Australia."
+      },
+      {
+        "jp": "トムはキャンピングカーで寝泊まりしている。",
+        "translation": "Tom lives in a camper."
+      },
+      {
+        "jp": "トムはトラブルに巻き込まれているかもしれない。",
+        "translation": "Tom may be in trouble."
+      },
+      {
+        "jp": "トムはお腹すいてないのかもしれないね。",
+        "translation": "Tom may not be hungry."
+      },
+      {
+        "jp": "トムはそれ気に入らないかもしれないよ。",
+        "translation": "Tom might not like it."
+      },
+      {
+        "jp": "トムはメアリーが勝つかもしれないと言った。",
+        "translation": "Tom said Mary may win."
+      },
+      {
+        "jp": "トムは僕のことを嫌っているようだった。",
+        "translation": "Tom seemed to hate me."
+      },
+      {
+        "jp": "トムは私たちにフランス語を教えてくれる。",
+        "translation": "Tom teaches us French."
+      },
+      {
+        "jp": "トムはぐでんぐでんに酔っぱらっていた。",
+        "translation": "Tom was totally drunk."
+      },
+      {
+        "jp": "トムの家族は私をかわいがってくれました。",
+        "translation": "Tom's family loved me."
+      },
+      {
+        "jp": "トムの家族は、私のことをとても気に入ってくれました。",
+        "translation": "Tom's family loved me."
+      },
+      {
+        "jp": "トムのご両親は、私のことをとても気に入ってくれています。",
+        "translation": "Tom's parents love me."
+      },
+      {
+        "jp": "トムの両親は、私を可愛がってくれます。",
+        "translation": "Tom's parents love me."
+      },
+      {
+        "jp": "私たちみんな、あなたのこと信じてるわよ。",
+        "translation": "We all believe in you."
+      },
+      {
+        "jp": "私たちみんな、あなたのことがとても好きなのよ。",
+        "translation": "We all like you a lot."
+      },
+      {
+        "jp": "私たちはもっと勉強する必要があります。",
+        "translation": "We need to study more."
+      },
+      {
+        "jp": "アナウンサーはどんな事をするのですか。",
+        "translation": "What do announcers do?"
+      },
+      {
+        "jp": "この猫、何をしようとしているんだろう？",
+        "translation": "What is the cat up to?"
+      },
+      {
+        "jp": "あなたのお父さんはどんな仕事をしてるの？",
+        "translation": "What's your father do?"
+      },
+      {
+        "jp": "君のお父さんは何の仕事をしていますか？",
+        "translation": "What's your father do?"
+      },
+      {
+        "jp": "あの人たちって、どうして喧嘩してるの？",
+        "translation": "Why are they fighting?"
+      },
+      {
+        "jp": "どうしてフランス語ってこんなにムズいんだ。",
+        "translation": "Why is French so hard?"
+      },
+      {
+        "jp": "どうしてトムの手伝いをしないといけないの？",
+        "translation": "Why should I help Tom?"
+      },
+      {
+        "jp": "君の言っていることは、つじつまが合わない。",
+        "translation": "You aren't consistent."
+      },
+      {
+        "jp": "カーテンを開けてもよろしいでしょうか？",
+        "translation": "Can I open the curtain?"
+      },
+      {
+        "jp": "迷惑メールボックスをチェックしてみて。",
+        "translation": "Check your spam folder."
+      },
+      {
+        "jp": "登録するには、ここをクリックしてください。",
+        "translation": "Click here to register."
+      },
+      {
+        "jp": "トムって何かペットを飼っているのかな？",
+        "translation": "Does Tom have any pets?"
+      },
+      {
+        "jp": "トムってアメリカンフットボールはやるの？",
+        "translation": "Does Tom play football?"
+      },
+      {
+        "jp": "こんなところで会うなんて思いもしなかった。",
+        "translation": "Fancy meeting you here."
+      },
+      {
+        "jp": "彼は私のプレゼントを受け取ってくれた。",
+        "translation": "He accepted my present."
+      },
+      {
+        "jp": "彼は私が困っていても知らんぷりしている。",
+        "translation": "He ignores my problems."
+      },
+      {
+        "jp": "あいつ、車の修理は自分でやってるんだよ。",
+        "translation": "He repairs his own car."
+      },
+      {
+        "jp": "彼は私たちの言うことを信じようとはしなかった。",
+        "translation": "He wouldn't believe us."
+      },
+      {
+        "jp": "これ、どうやって説明したらいいかしら？",
+        "translation": "How can I explain this?"
+      },
+      {
+        "jp": "どうしてそんなに落ち着いていられるの？",
+        "translation": "How can you be so calm?"
+      },
+      {
+        "jp": "あの人たちはどうやってここに来たのだろう。",
+        "translation": "How did they come here?"
+      },
+      {
+        "jp": "５番ゲートへはどう行けばいいのですか。",
+        "translation": "How do I get to Gate 5?"
+      },
+      {
+        "jp": "どうやってボンネットを開けるのですか。",
+        "translation": "How do I open the hood?"
+      },
+      {
+        "jp": "この寺院はどのくらい古いのでしょうか？",
+        "translation": "How old is this temple?"
+      },
+      {
+        "jp": "このお寺はどのくらい古いのでしょうか？",
+        "translation": "How old is this temple?"
+      },
+      {
+        "jp": "私は彼に素敵なネクタイを選んであげた。",
+        "translation": "I chose him a nice tie."
+      },
+      {
+        "jp": "あなたのためにやったわけではありません。",
+        "translation": "I didn't do it for you."
+      },
+      {
+        "jp": "あなたの言ってることがよくわかりません。",
+        "translation": "I don't see your point."
+      },
+      {
+        "jp": "その件については、トムにメールしました。",
+        "translation": "I emailed Tom about it."
+      },
+      {
+        "jp": "私は学校をやめなければならないんです。",
+        "translation": "I have to leave school."
+      },
+      {
+        "jp": "近々お会いできるのを楽しみにしています。",
+        "translation": "I hope to see you soon."
+      },
+      {
+        "jp": "どうしてお前がここにいるか、俺知ってるんだ。",
+        "translation": "I know why you're here."
+      },
+      {
+        "jp": "あなたがコーヒーを好きだってことぐらい、知ってますよ。",
+        "translation": "I know you like coffee."
+      },
+      {
+        "jp": "タピオカ・プディングが大好きなんです。",
+        "translation": "I love tapioca pudding."
+      },
+      {
+        "jp": "このレストランは、大のお気に入りです。",
+        "translation": "I love this restaurant."
+      },
+      {
+        "jp": "お父様には一度お会いしたことがあるんです。",
+        "translation": "I met your father once."
+      },
+      {
+        "jp": "私はボランティアを何人か必要としている。",
+        "translation": "I need some volunteers."
+      },
+      {
+        "jp": "新しいスキー板を買わなくてはいけない。",
+        "translation": "I need to buy new skis."
+      },
+      {
+        "jp": "私はコーヒーより紅茶のほうが好きです。",
+        "translation": "I prefer tea to coffee."
+      },
+      {
+        "jp": "僕はコーヒーよりも紅茶が好きなんだよ。",
+        "translation": "I prefer tea to coffee."
+      },
+      {
+        "jp": "お腹はぺこぺこだし、のどはからからだ。",
+        "translation": "I'm hungry and thirsty."
+      },
+      {
+        "jp": "誰かを撃ったことなんて、一度もないよ。",
+        "translation": "I've never shot anyone."
+      },
+      {
+        "jp": "彼が忙しいようなら、手伝ってあげてね。",
+        "translation": "If he's busy, help him."
+      },
+      {
+        "jp": "それはあらかじめ練っていた計画ではなかった。",
+        "translation": "It wasn't premeditated."
+      },
+      {
+        "jp": "私の言うことを注意して聞いてください。",
+        "translation": "Listen to me carefully."
+      },
+      {
+        "jp": "うちの犬は、本当にお利口さんなんですよ。",
+        "translation": "My dog is really smart."
+      },
+      {
+        "jp": "ママはいつも私のこと愛してくれてたよ。",
+        "translation": "My mom always loved me."
+      },
+      {
+        "jp": "誰も私のこと助けに来てくれなかったんだ。",
+        "translation": "No one came to help me."
+      },
+      {
+        "jp": "ひょっとしたら僕が君を助けられるかもしれないよ。",
+        "translation": "Perhaps I can help you."
+      },
+      {
+        "jp": "彼女は彼じゃなくて僕にキスをしたんだ。",
+        "translation": "She kissed me, not him."
+      },
+      {
+        "jp": "彼女はインフルエンザで休んでるんです。",
+        "translation": "She's off with the flu."
+      },
+      {
+        "jp": "あの男の子、めちゃめちゃ頭いいんだよ。",
+        "translation": "That boy is very smart."
+      },
+      {
+        "jp": "ありゃあ馬鹿馬鹿しいアイデアだったな。",
+        "translation": "That was a stupid idea."
+      },
+      {
+        "jp": "ワンちゃん、きっとお腹がすいてるんだよ。",
+        "translation": "The dog must be hungry."
+      },
+      {
+        "jp": "そのニュースは私をうれしい気分にしてくれました。",
+        "translation": "The news made me happy."
+      },
+      {
+        "jp": "このラジオ、うんともすんとも言わないんだ。",
+        "translation": "The radio doesn't work."
+      },
+      {
+        "jp": "彼らはスペイン語を話すことができます。",
+        "translation": "They can speak Spanish."
+      },
+      {
+        "jp": "このライオンはよく飼い馴らされている。",
+        "translation": "This lion is very tame."
+      },
+      {
+        "jp": "このライオンはよく飼い慣らされている。",
+        "translation": "This lion is very tame."
+      },
+      {
+        "jp": "トムはもう少しで片目を失うところだった。",
+        "translation": "Tom almost lost an eye."
+      },
+      {
+        "jp": "２時半ぐらいに、トムから電話があったよ。",
+        "translation": "Tom called around 2:30."
+      },
+      {
+        "jp": "トムはメアリーと一緒に行くことができない。",
+        "translation": "Tom can't go with Mary."
+      },
+      {
+        "jp": "トムは嫁さんを欲しがってはいなかった。",
+        "translation": "Tom didn't want a wife."
+      },
+      {
+        "jp": "トムは食べるものを何も持っていなかった。",
+        "translation": "Tom had nothing to eat."
+      },
+      {
+        "jp": "トムはちょっと神経質になってるんだよ。",
+        "translation": "Tom is kind of nervous."
+      },
+      {
+        "jp": "トムって、私の新しいルームメイトなの。",
+        "translation": "Tom is my new roommate."
+      },
+      {
+        "jp": "トムにはメアリーが忙しいのが分かっていた。",
+        "translation": "Tom knew Mary was busy."
+      },
+      {
+        "jp": "トムったら、ドアを開けっ放しにしてたのよ。",
+        "translation": "Tom left his door open."
+      },
+      {
+        "jp": "トムはガーリックトーストが好きなのよ。",
+        "translation": "Tom likes garlic bread."
+      },
+      {
+        "jp": "トムがメアリーの電話番号をなくしたんだ。",
+        "translation": "Tom lost Mary's number."
+      },
+      {
+        "jp": "トムがピザを注文するってことはないよ。",
+        "translation": "Tom never orders pizza."
+      },
+      {
+        "jp": "トムって見るからに私のこと嫌ってるんだ。",
+        "translation": "Tom obviously hates me."
+      },
+      {
+        "jp": "トムはゴルフ場を所有しているんですよ。",
+        "translation": "Tom owns a golf course."
+      },
+      {
+        "jp": "トムはあなたがここにいたと言っていた。",
+        "translation": "Tom said you were here."
+      },
+      {
+        "jp": "トムが、自分はぐうたらしてないってさ。",
+        "translation": "Tom says he isn't lazy."
+      },
+      {
+        "jp": "トムね、トムの部屋を見せてくれたんだ。",
+        "translation": "Tom showed me his room."
+      },
+      {
+        "jp": "トムって、ロボットみたいな話し方するのよ。",
+        "translation": "Tom talks like a robot."
+      },
+      {
+        "jp": "トムは私のことを負け犬だと思っている。",
+        "translation": "Tom thinks I'm a loser."
+      },
+      {
+        "jp": "トムはメアリーに勝ってほしかったんだ。",
+        "translation": "Tom wanted Mary to win."
+      },
+      {
+        "jp": "トムは昨日、体調がよくなかったんだよ。",
+        "translation": "Tom was sick yesterday."
+      },
+      {
+        "jp": "トムがあなたを家に連れて行ってくれるでしょう。",
+        "translation": "Tom will take you home."
+      },
+      {
+        "jp": "トムの家族は、トムのことが大好きなんだ。",
+        "translation": "Tom's family loves him."
+      },
+      {
+        "jp": "トムが言ってたことは、本当なんですか？",
+        "translation": "Was what Tom said true?"
+      },
+      {
+        "jp": "是非ともアドバイスをいただきたいです。",
+        "translation": "We do need your advice."
+      },
+      {
+        "jp": "僕らはボストンに行かなくてはいけなかった。",
+        "translation": "We had to go to Boston."
+      },
+      {
+        "jp": "我々はベストを尽くさなければならない。",
+        "translation": "We have to do our best."
+      },
+      {
+        "jp": "なるほど、君の言うとおりかもしれない。",
+        "translation": "Well, you may be right."
+      },
+      {
+        "jp": "この本は何について書いてあるのですか。",
+        "translation": "What is the book about?"
+      },
+      {
+        "jp": "この辺でタクシーが拾えるところはどこですか。",
+        "translation": "Where can I get a taxi?"
+      },
+      {
+        "jp": "トムとはどこでお知り合いになったんですか？",
+        "translation": "Where did you meet Tom?"
+      },
+      {
+        "jp": "誰がドアを開いたままにしておいたんだ？",
+        "translation": "Who left the door open?"
+      },
+      {
+        "jp": "ディズニーランドを開設したのは誰なんですか？",
+        "translation": "Who started Disneyland?"
+      },
+      {
+        "jp": "だれがあなたにフランス語を教えているのですか。",
+        "translation": "Who teaches you French?"
+      },
+      {
+        "jp": "なんでトムは行かなければならなかったの？",
+        "translation": "Why did Tom have to go?"
+      },
+      {
+        "jp": "ゆっくりしてお茶でも飲んでいきませんか。",
+        "translation": "Won't you stay for tea?"
+      },
+      {
+        "jp": "あなたはすぐに始めなければなりません。",
+        "translation": "You must start at once."
+      },
+      {
+        "jp": "あなたは注意深くする必要がありますよ。",
+        "translation": "You need to be careful."
+      },
+      {
+        "jp": "あなたはもっと勉強する必要があります。",
+        "translation": "You need to study more."
+      },
+      {
+        "jp": "お前は馬鹿なことするような子じゃないよな。",
+        "translation": "You should know better."
+      },
+      {
+        "jp": "お前にはオレに勝つことなど絶対できないだろう。",
+        "translation": "You'll never defeat me."
+      },
+      {
+        "jp": "お宅のワンちゃん、のどが渇いてるみたいね。",
+        "translation": "Your dog looks thirsty."
+      },
+      {
+        "jp": "あなたの生徒が私に電話を掛けてきました。",
+        "translation": "Your student called me."
+      },
+      {
+        "jp": "次に何をしたらいいか彼に尋ねてごらん。",
+        "translation": "Ask him what to do next."
+      },
+      {
+        "jp": "何かもっと簡単なことを聞いてください。",
+        "translation": "Ask me something easier."
+      },
+      {
+        "jp": "ワンピースのファスナー上げてくれないかな？",
+        "translation": "Can you zip up my dress?"
+      },
+      {
+        "jp": "クッキーは、いつもお腹空かせてるのよ。",
+        "translation": "Cookie is always hungry."
+      },
+      {
+        "jp": "私の言うことが間違っていたら訂正して下さい。",
+        "translation": "Correct me if I'm wrong."
+      },
+      {
+        "jp": "あなたの鉛筆を使ってもよろしいですか。",
+        "translation": "Could I use your pencil?"
+      },
+      {
+        "jp": "私達が何処に行くかが貴方にとって重要？",
+        "translation": "Do you care where we go?"
+      },
+      {
+        "jp": "彼が何をしてしまったのかご存知ですか。",
+        "translation": "Do you know what he did?"
+      },
+      {
+        "jp": "こちらのブラウスはお気に召しましたか？",
+        "translation": "Do you like this blouse?"
+      },
+      {
+        "jp": "私が冗談を言っていると思っているのですか。",
+        "translation": "Do you think I'm joking?"
+      },
+      {
+        "jp": "わざわざ電話していただくには及びません。",
+        "translation": "Don't bother to call me."
+      },
+      {
+        "jp": "あいつが手伝ってくれるのを期待しちゃ駄目だよ。",
+        "translation": "Don't count on his help."
+      },
+      {
+        "jp": "本を読みながら食事をしてはいけません。",
+        "translation": "Don't eat while reading."
+      },
+      {
+        "jp": "日が暮れてからは外出してはいけません。",
+        "translation": "Don't go out after dark."
+      },
+      {
+        "jp": "ここにいる誰もがトムのこと知ってるよ。",
+        "translation": "Everyone here knows Tom."
+      },
+      {
+        "jp": "みんなね、トムにうんざりしてるんだよ。",
+        "translation": "Everyone's tired of Tom."
+      },
+      {
+        "jp": "彼は我々にどうか助けてくれと頼んできた。",
+        "translation": "He asked us to help him."
+      },
+      {
+        "jp": "彼はその仕事をやらせてもらえなかった。",
+        "translation": "He couldn't get the job."
+      },
+      {
+        "jp": "彼はなんとしても成功したいと願っている。",
+        "translation": "He is eager for success."
+      }
+    ],
+    "N2": [
+      {
+        "jp": "幸いにも、お亡くなりになられた方はいらっしゃいませんでした。",
+        "translation": "Luckily nobody died."
+      },
+      {
+        "jp": "私はハンサムなのだろうか、それとも、そうではないのだろうか。",
+        "translation": "Am I handsome or not?"
+      },
+      {
+        "jp": "ここにどなたかフランス語を話される方、いらっしゃいますか？",
+        "translation": "Does anyone here speak French?"
+      },
+      {
+        "jp": "私は、自分が先祖から受け継いだものにとても誇りを持っている。",
+        "translation": "I'm very proud of my heritage."
+      },
+      {
+        "jp": "他人が悪い事をしているからといって自分もそうしてよいということにはならない。",
+        "translation": "Two wrongs don't make a right."
+      },
+      {
+        "jp": "その人が私に語ってくれたことについては、何も理解できなかった。",
+        "translation": "What he said was over my head."
+      },
+      {
+        "jp": "彼は非常に酔っぱらっていたので家まで車を運転していくことはできなかった。",
+        "translation": "He was too drunk to drive home."
+      },
+      {
+        "jp": "その件に関して、私の方からは特にお伝えすることはありません。",
+        "translation": "I have nothing to say about it."
+      },
+      {
+        "jp": "私たちはトムが困った状況に陥っているかもしれないと思っている。",
+        "translation": "We think Tom may be in trouble."
+      },
+      {
+        "jp": "あなたが困ったことになっているかもしれないと聞いたのですが。",
+        "translation": "I heard you might be in trouble."
+      },
+      {
+        "jp": "私ね、1回だけだけど、カナダ人の人とデートしたことあるよ。",
+        "translation": "I've only dated a Canadian once."
+      },
+      {
+        "jp": "トムはロマンチックではないけど、メアリーはロマンチックだ。",
+        "translation": "Tom isn't romantic, but Mary is."
+      },
+      {
+        "jp": "我々は生きるために食べるのであり、食べるために生きるのではない。",
+        "translation": "We eat to live, not live to eat."
+      },
+      {
+        "jp": "俺たちトムが３つのボールをジャグリングしてるの見たんだよ。",
+        "translation": "We saw Tom juggling three balls."
+      },
+      {
+        "jp": "「どなたか手伝って戴けませんか？」「はい。私でよろしければ」",
+        "translation": "\"Can somebody help me?\" \"I will.\""
+      },
+      {
+        "jp": "何か必要なものがございましたら、私どもにお知らせください。",
+        "translation": "Let us know if you need anything."
+      },
+      {
+        "jp": "彼女はあなたが持っているのと同じようなかばんを持っている。",
+        "translation": "She has the same bag as you have."
+      },
+      {
+        "jp": "トムはね、メアリーにフランス語を勉強してほしいと思ってるんだ。",
+        "translation": "Tom hopes Mary will study French."
+      },
+      {
+        "jp": "何を買うのかってことを、トムはメアリーに話したほうがいいんだ。",
+        "translation": "Tom should tell Mary what to buy."
+      },
+      {
+        "jp": "メアリーが断るんじゃないかって、トムはビクビクだったんだ。",
+        "translation": "Tom was afraid Mary would say no."
+      },
+      {
+        "jp": "\"A quarter past three\"っていうのは、3時15分ってことよ。",
+        "translation": "\"A quarter past three\" means 3:15."
+      },
+      {
+        "jp": "握りこぶしは、ストレスがあることを示しているかもしれません。",
+        "translation": "A closed fist can indicate stress."
+      },
+      {
+        "jp": "トムはみんなが思っているほど、大してお金持ちじゃないんだよ。",
+        "translation": "Tom isn't as rich as people think."
+      },
+      {
+        "jp": "トムはメアリーが大好きだったし、メアリーもトムのことが大好きだった。",
+        "translation": "Tom loved Mary and Mary loved him."
+      },
+      {
+        "jp": "「Ｔｈｅｒｅ　ｉｓ　ａ　ｔｉｄｅ」とはどういう意味ですか。",
+        "translation": "What does \"There is a tide\" imply?"
+      },
+      {
+        "jp": "私は行くことができないということをおっしゃっているんですか？",
+        "translation": "Are you telling me that I can't go?"
+      },
+      {
+        "jp": "あなたがここにいるということは、気に掛けているということだ。",
+        "translation": "If you are here, it means you care."
+      },
+      {
+        "jp": "トムとメアリーはなぜあなたがそんなことをしたのかを知っています。",
+        "translation": "Tom and Mary know why you did that."
+      },
+      {
+        "jp": "メアリーがなぜ自分を嫌っているのか、トムにはさっぱり分からないでいる。",
+        "translation": "Tom has no idea why Mary hates him."
+      },
+      {
+        "jp": "貴方は彼女がフランス語を話しているのを聞きませんでしたか。",
+        "translation": "Didn't you hear her speaking French?"
+      },
+      {
+        "jp": "もしかしたら、トムはフランス語がわからないんじゃないかな。",
+        "translation": "Maybe Tom doesn't understand French."
+      },
+      {
+        "jp": "私にとって子供たちは目の中に入れてもいたくないほどかわいいのです。",
+        "translation": "My children are very precious to me."
+      },
+      {
+        "jp": "僕の知っている中ではオーストラリアに行ったことがある人はいない。",
+        "translation": "No one I know has been to Australia."
+      },
+      {
+        "jp": "ひょっとすると彼女は私たちがここにいることを知らないのかもしれない。",
+        "translation": "She might not know that we are here."
+      },
+      {
+        "jp": "このウェブサイトは、あなたのコンピューターに害を及ぼす可能性があります。",
+        "translation": "This website can harm your computer."
+      },
+      {
+        "jp": "メアリーが結婚したがっていること、トムには分かってるんだ。",
+        "translation": "Tom knows Mary wants to get married."
+      },
+      {
+        "jp": "トムはメアリーが好きだけど、メアリーはジョンが好きなんだよ。",
+        "translation": "Tom likes Mary, but Mary likes John."
+      },
+      {
+        "jp": "昨日、メアリーがジョンにキスしているところをトムが見たんだ。",
+        "translation": "Tom saw Mary kissing John yesterday."
+      },
+      {
+        "jp": "彼は自分のやったことがすべて水の泡になったことに気づいた。",
+        "translation": "He found all his efforts of no avail."
+      },
+      {
+        "jp": "彼は彼女から電話がかかってくるのを何時間も待っていることがあった。",
+        "translation": "He would wait for hours for her call."
+      },
+      {
+        "jp": "私はトムに言わなかった、自分が何を買わなければならないのかを。",
+        "translation": "I didn't tell Tom what I have to buy."
+      },
+      {
+        "jp": "人を殺したり怪我を負わせたりしたことなど一度たりともありません。",
+        "translation": "I've never killed nor injured anyone."
+      },
+      {
+        "jp": "彼女は彼を無視したが、それは結果的には分別のない行為だった。",
+        "translation": "She ignored him, which proved unwise."
+      },
+      {
+        "jp": "トムって、私がすることにいちいち目くじらを立ててくるのよ。",
+        "translation": "Tom finds fault with everything I do."
+      },
+      {
+        "jp": "トムはメアリーが何をするつもりなのか、はっきりと知らない。",
+        "translation": "Tom isn't sure what Mary plans to do."
+      },
+      {
+        "jp": "メアリーは前にも泥棒に入られたことがあるって、トムが言ってたよ。",
+        "translation": "Tom said Mary has been robbed before."
+      },
+      {
+        "jp": "あなたに力をお貸しすることは、ほとんど出来ないと思って下さい。",
+        "translation": "You can hardly expect me to help you."
+      },
+      {
+        "jp": "偽造パスポートを手に入れるのって、どれくらい難しいのかな？",
+        "translation": "How hard is it to get a fake passport?"
+      },
+      {
+        "jp": "どうしてトムはあの仕事を断ったのだろうと不思議に思います。",
+        "translation": "I wonder why Tom turned down that job."
+      },
+      {
+        "jp": "あなたに腹を立ててるわけけじゃないのよ。自分に腹が立つの。",
+        "translation": "I'm not mad at you. I'm mad at myself."
+      },
+      {
+        "jp": "すみません、ここで話題を変えてみてはと思うのですが、いかがでしょうか？",
+        "translation": "Now, can we please change the subject?"
+      },
+      {
+        "jp": "かわいそうにその少年はどうしたらよいのか途方にくれていた。",
+        "translation": "The poor boy was at a loss what to do."
+      },
+      {
+        "jp": "市場に出回るものといたしまして、こちらのカバンは極上品でございます。",
+        "translation": "These are the best bags on the market."
+      },
+      {
+        "jp": "トムが、どうしてそんなに速く泳げるのかって聞いてきたんだ。",
+        "translation": "Tom asked me why I could swim so fast."
+      },
+      {
+        "jp": "トムはどうやら厄介なことから遠ざかることはできないようだ。",
+        "translation": "Tom can't seem to keep out of trouble."
+      },
+      {
+        "jp": "トムって、私が言うことにいちいち目くじらを立ててくるのよ。",
+        "translation": "Tom finds fault with everything I say."
+      },
+      {
+        "jp": "メアリーの話すフランス語を、トムは一度も聞いたことがない。",
+        "translation": "Tom has never heard Mary speak French."
+      },
+      {
+        "jp": "トムはメアリーにプレゼントを買わなきゃいけないって分かってたんだ。",
+        "translation": "Tom knew he had to buy Mary a present."
+      },
+      {
+        "jp": "あなたが助けてくれなかったら私はおぼれていたことでしょう。",
+        "translation": "Without your help, I would've drowned."
+      },
+      {
+        "jp": "両親に対してはどんなにやさしくてもやさしすぎることはない。",
+        "translation": "You can't be too good to your parents."
+      },
+      {
+        "jp": "「どのようにしてその公園に行きましたか」「バスで行きました」",
+        "translation": "\"How did you go to the park?\" \"By bus.\""
+      },
+      {
+        "jp": "きみがもどって来るころには、ぼくは出かけてしまっているよ。",
+        "translation": "By the time you get back, I'll be gone."
+      },
+      {
+        "jp": "彼はまるで私たちが彼を侮辱したと言わんばかりの態度だった。",
+        "translation": "He acted as though we had insulted him."
+      },
+      {
+        "jp": "彼はほとんどお金を持っていないが、どうにかやりくりしている。",
+        "translation": "He has almost no money, but he gets by."
+      },
+      {
+        "jp": "家に帰るまで、時計をなくしてしまったことにきづかなかった。",
+        "translation": "I didn't miss my watch till I got home."
+      },
+      {
+        "jp": "貴方がどうやってそれをやるかはどうでもいい。ただやりなさい。",
+        "translation": "I don't care how you do it. Just do it."
+      },
+      {
+        "jp": "私が選挙で一票入れたところで、何も変わらないと思ってしまう。",
+        "translation": "I figure my vote won't change anything."
+      },
+      {
+        "jp": "私には大学生の子供が二人いますが、どちらも家を離れています。",
+        "translation": "I have two children away at university."
+      },
+      {
+        "jp": "まるで良質のワインのように、彼は年齢とともに良くなってきている。",
+        "translation": "Like a good wine, he improves with age."
+      },
+      {
+        "jp": "良いワインのように、彼は年齢を重ねる度にいい味を出している。",
+        "translation": "Like a good wine, he improves with age."
+      },
+      {
+        "jp": "笑顔だからといって、必ずしも喜びを示しているとは限らない。",
+        "translation": "Smiles do not always indicate pleasure."
+      },
+      {
+        "jp": "お客様、申し訳ございませんが、こちらのクーポンは有効期限が切れております。",
+        "translation": "Sorry, sir, but this coupon is expired."
+      },
+      {
+        "jp": "入り江には、小さいヨットよりもキャビン付きの大きめのヨットの方がたくさんあるんだ。",
+        "translation": "The bay has more yachts than sailboats."
+      },
+      {
+        "jp": "トムは、あなたに窓掃除の手伝いをして欲しいと言っています。",
+        "translation": "Tom wants you to help him wash windows."
+      },
+      {
+        "jp": "皆様にご提供するだけのワインは私どもではご用意しておりません。",
+        "translation": "We don't have enough wine for everyone."
+      },
+      {
+        "jp": "われわれは、どんな犠牲を払っても自由を守らなければならない。",
+        "translation": "We must defend our freedom at all cost."
+      },
+      {
+        "jp": "あいつがどこに住むことになろうと俺たちの知ったことじゃない。",
+        "translation": "Where he will live doesn't interest us."
+      },
+      {
+        "jp": "笑いってね、嫌な雰囲気を和らげるための一番いい方法なのよ。",
+        "translation": "A smile is the best cure for a bad mood."
+      },
+      {
+        "jp": "賄賂を受け取ったのですか、それとも受け取らなかったのですか。",
+        "translation": "Did you or did you not accept the bribe?"
+      },
+      {
+        "jp": "私はフランス語が読めない、まして話せないことは言うまでもない。",
+        "translation": "I can't read French, let alone speak it."
+      },
+      {
+        "jp": "彼女が私といっしょに行きたがっているかどうか私は知りません。",
+        "translation": "I don't know if she wants to go with me."
+      },
+      {
+        "jp": "トムがどこに行ったのか、あなたが知っているかもしれないと思いました。",
+        "translation": "I thought you might know where Tom went."
+      },
+      {
+        "jp": "今までにトムがメアリーに花を贈ったことがあるのか疑問だなあ。",
+        "translation": "I wonder if Tom ever gives Mary flowers."
+      },
+      {
+        "jp": "ごめんなさい。間違ってあなたの郵便物を開けてしまいました。",
+        "translation": "I'm sorry I opened your mail by mistake."
+      },
+      {
+        "jp": "メアリーは本当は病気じゃないんだ。病気のふりをしているだけなんだ。",
+        "translation": "Mary isn't really sick. She's faking it."
+      },
+      {
+        "jp": "ここにいる私たちのほとんどは、フランス語が理解できないんです。",
+        "translation": "Most of us here don't understand French."
+      },
+      {
+        "jp": "ひょっとしたら彼は誰が窓を割ったか知っているのかもしれない。",
+        "translation": "Possibly he knows who broke the windows."
+      },
+      {
+        "jp": "今日は、お時間を割いていただき、誠にありがとうございます。",
+        "translation": "Thank you very much for your time today."
+      },
+      {
+        "jp": "アップデートを終了するには、デバイスを再起動してください。",
+        "translation": "To finish updating, restart your device."
+      },
+      {
+        "jp": "トムは自分がやらないといけないことを全てやり遂げることができなかった。",
+        "translation": "Tom couldn't do everything he had to do."
+      },
+      {
+        "jp": "トムは自分がどれだけメアリーを傷つけたのか、分かっていなかった。",
+        "translation": "Tom didn't know how much he'd hurt Mary."
+      },
+      {
+        "jp": "トムは自分が金持ちだってことをメアリーに知られたくないんだよ。",
+        "translation": "Tom doesn't want Mary to know he's rich."
+      },
+      {
+        "jp": "トムが言うには、私がつまんなさそうにしてると思ったんだって。",
+        "translation": "Tom said he thought that I looked bored."
+      },
+      {
+        "jp": "誰か手助けを必要としてる人がここにいると、トムが言っていました。",
+        "translation": "Tom said that somebody here needed help."
+      },
+      {
+        "jp": "「どちらに滞在していますか」「あのホテルに滞在しています」",
+        "translation": "\"Where are you staying?\" \"At that hotel.\""
+      },
+      {
+        "jp": "あいつがお前に金を貸してくれるなんてことは、当てにするんじゃないぞ。",
+        "translation": "Don't count on him to lend you any money."
+      },
+      {
+        "jp": "彼のアドバイスのおかげで、私はもう一度やってみようという気になった。",
+        "translation": "His advice encouraged me to try it again."
+      },
+      {
+        "jp": "僕が彼女に結婚して欲しいと頼んだら、彼女は受け入れてくれたんだ。",
+        "translation": "I asked her to marry me and she accepted."
+      },
+      {
+        "jp": "私は彼女の事務所へ電話してみましたが、誰もでませんでした。",
+        "translation": "I called her office, but no one answered."
+      },
+      {
+        "jp": "私はどこへ行ったらよいのか、何をしたらよいのかわからなかった。",
+        "translation": "I didn't know where to go, or what to do."
+      },
+      {
+        "jp": "どこに行けばいいのか、何をしたらいいのか、私には分からなかった。",
+        "translation": "I didn't know where to go, or what to do."
+      },
+      {
+        "jp": "トムが一体何の話をしているのか、私にはさっぱり分からない。",
+        "translation": "I have no clue what Tom is talking about."
+      },
+      {
+        "jp": "あなたが手を貸してくれることができるのではないかと思っていました。",
+        "translation": "I was wondering if you could lend a hand."
+      },
+      {
+        "jp": "うちの犬がくしゃみするのは見たことあるけど、猫は一度もないな。",
+        "translation": "I've seen my dog sneeze but never my cat."
+      },
+      {
+        "jp": "「痩せている」と言うよりも「細い」と言った方が失礼に当たりません。",
+        "translation": "It's more polite to say thin than skinny."
+      },
+      {
+        "jp": "医師から、もっと牛乳を飲むようにとアドバイスを受けました。",
+        "translation": "The doctor advised me to drink more milk."
+      },
+      {
+        "jp": "タクシーがなかったので、私は歩いて帰らなければならなかった。",
+        "translation": "There was no taxi, so I had to walk home."
+      },
+      {
+        "jp": "トムはメアリーが好きだけど、メアリーは彼のこと好きじゃないのよ。",
+        "translation": "Tom likes Mary, but she doesn't like him."
+      },
+      {
+        "jp": "トムはポップコーンの入ったボウルを、テーブルの上に置いた。",
+        "translation": "Tom put the bowl of popcorn on the table."
+      },
+      {
+        "jp": "私が必要としているのは、お金ではなくてあなたの助言なのです。",
+        "translation": "What I need isn't money, but your advice."
+      },
+      {
+        "jp": "ビザを取得するには、どのような手続きをすればいいのですか？",
+        "translation": "What is the procedure for getting a visa?"
+      },
+      {
+        "jp": "誠にすみませんが、私のかわりにそれをやっていただけませんか。",
+        "translation": "Would you be good enough to do it for me?"
+      },
+      {
+        "jp": "くたくたに疲れていたので、彼女はすぐにぐっすり眠ってしまった。",
+        "translation": "Being exhausted, she was soon fast asleep."
+      },
+      {
+        "jp": "彼女がどういう事を思っているのか、彼にはさっぱり分からなかった。",
+        "translation": "He had no idea as to what she had in mind."
+      },
+      {
+        "jp": "髪なんか染めれないよ。そんなことしたら、母さんに痛い目にあわされるよ。",
+        "translation": "I can't dye my hair. My mom would kill me!"
+      },
+      {
+        "jp": "あなたの援助がなかったら、私はそれをすることが出来なかっただろう。",
+        "translation": "I couldn't have done it without your help."
+      },
+      {
+        "jp": "ひょっとしたら雨になるかもしれない。かさをもって行ったほうがよさそうだ。",
+        "translation": "It might rain. We should take an umbrella."
+      },
+      {
+        "jp": "メアリーにあのネックレスをあげたのは、トムじゃなかったんだ。",
+        "translation": "It wasn't Tom who gave Mary that necklace."
+      },
+      {
+        "jp": "メアリーは彼女のおばあさんにちなんで赤ちゃんの名前を付けた。",
+        "translation": "Mary named the baby after her grandmother."
+      },
+      {
+        "jp": "彼女はそのことについて、まるで何も知らないようなふりをした。",
+        "translation": "She acted as if she knew nothing about it."
+      },
+      {
+        "jp": "トムは私達の中で誰かフランス語が話せる人はいないか尋ねた。",
+        "translation": "Tom asked if any of us could speak French."
+      },
+      {
+        "jp": "トムはお金は持っている。だがそれほど幸せというわけではない。",
+        "translation": "Tom has great wealth, but he is not happy."
+      },
+      {
+        "jp": "トムがポップ歌手として成功するには、もう年齢的に無理があるんだよ。",
+        "translation": "Tom is too old to make it as a pop singer."
+      },
+      {
+        "jp": "トムはやっぱりパイナップルのアップサイドダウンケーキが大好きです。",
+        "translation": "Tom just loves pineapple upside-down cake."
+      },
+      {
+        "jp": "何が起こったか、トムはメアリーに言わなきゃいけなかったんだ。",
+        "translation": "Tom must've told Mary about what happened."
+      },
+      {
+        "jp": "トムはクローゼットから自分のスーツケースを引っ張り出した。",
+        "translation": "Tom pulled his suitcase out of the closet."
+      },
+      {
+        "jp": "メアリーはフランス語を話すのが得意だって、トムが言ってたよ。",
+        "translation": "Tom said Mary was good at speaking French."
+      },
+      {
+        "jp": "トムは車のトランクから、メアリーのスーツケースを取り出した。",
+        "translation": "Tom took Mary's suitcase out of the trunk."
+      },
+      {
+        "jp": "トムはメアリーが何をしようとしていたのかを疑問に思っていた。",
+        "translation": "Tom wondered what Mary was planning to do."
+      },
+      {
+        "jp": "君たちはしっかり勉強してたくさんのことを学ばなければなりません。",
+        "translation": "You must study hard and learn many things."
+      },
+      {
+        "jp": "めそめそ泣きながら、その迷子の女の子は自分の名前を言った。",
+        "translation": "Between sobs, that lost girl said her name."
+      },
+      {
+        "jp": "彼は英語ですら解さない。ましてドイツ語など分かるはずがない。",
+        "translation": "He knows no English, not to mention German."
+      },
+      {
+        "jp": "どうすれば小さな子供に野菜を食べさせることができるでしょうか。",
+        "translation": "How can I get my toddler to eat vegetables?"
+      },
+      {
+        "jp": "彼女はどうやって魚に関する豊富な知識を身につけたのだろう。",
+        "translation": "How did she get to know so much about fish?"
+      },
+      {
+        "jp": "メアリーの住んでいる場所をトムが知っているなんて信じられない。",
+        "translation": "I can't believe Tom knows where Mary lives."
+      },
+      {
+        "jp": "この件について延々と語ってもいいのですが、やめておきます。",
+        "translation": "I could go on and on about it, but I won't."
+      },
+      {
+        "jp": "何でトムが本当のことを言わなかったのか、僕には分からないよ。",
+        "translation": "I don't know why Tom didn't tell the truth."
+      },
+      {
+        "jp": "トムがどうしてそんなにたくさんのお金を必要としているのかわからない。",
+        "translation": "I don't know why Tom needs that much money."
+      },
+      {
+        "jp": "私が初めてコンピュータに触れたのは今から40年近く前のことです。",
+        "translation": "I first used a computer about 40 years ago."
+      },
+      {
+        "jp": "あなたがもう二度と私に会いたくないと思っているのは分かっています。",
+        "translation": "I know you don't ever want to see me again."
+      },
+      {
+        "jp": "あなたがいないとどんなに寂しくなるか、私は全く気付かなかった。",
+        "translation": "I never realized how much I would miss you."
+      },
+      {
+        "jp": "トムにはあなたがどんなに素晴らしい仕事をしたかを伝えておく。",
+        "translation": "I'll let Tom know what a great job you did."
+      },
+      {
+        "jp": "トムのスーツケースに何が入ってるのか、どうしても知りたいんだよ。",
+        "translation": "I'm dying to know what's in Tom's suitcase."
+      },
+      {
+        "jp": "アイザック・ニュートンは1642年12月25日に生まれた。",
+        "translation": "Isaac Newton was born on December 25, 1642."
+      },
+      {
+        "jp": "イギリス人がみなフィッシュ・アンド・チップスが好きだというわけではない。",
+        "translation": "Not all English people like fish and chips."
+      },
+      {
+        "jp": "何と言ったらいいのか分からないので、私は黙ったままでいた。",
+        "translation": "Not knowing what to say, I remained silent."
+      },
+      {
+        "jp": "どう言ったらよいかわからなかったので、私は黙ったままでいた。",
+        "translation": "Not knowing what to say, I remained silent."
+      },
+      {
+        "jp": "彼女はいつだって自分が命令する立場にいないと気がすまないのです。",
+        "translation": "She always has to be the one giving orders."
+      },
+      {
+        "jp": "彼女には欠点がたくさんあるが、それでも、私は彼女が好きだ。",
+        "translation": "She has a lot of faults. Still, I like her."
+      },
+      {
+        "jp": "時々さ、トムって図書館に住んでるんじゃないかって思っちゃう。",
+        "translation": "Sometimes I think Tom lives at the library."
+      },
+      {
+        "jp": "トムはいつもシンクに汚れたお皿を置きっぱなしにするんだよ。",
+        "translation": "Tom always leaves dirty dishes in the sink."
+      },
+      {
+        "jp": "トムったら、自分の誕生日パーティーに私を招待してくれなかったんだよ。",
+        "translation": "Tom didn't invite me to his birthday party."
+      },
+      {
+        "jp": "メアリーがフランス語を話せないって、トムは知らなかったんだ。",
+        "translation": "Tom didn't know Mary couldn't speak French."
+      },
+      {
+        "jp": "トムは、自分に他の選択肢があまりないということを知っている。",
+        "translation": "Tom knows that he doesn't have much choice."
+      },
+      {
+        "jp": "トムはメアリーのこと好きなんだけどね、メアリーは他の人が好きなの。",
+        "translation": "Tom likes Mary, but she likes someone else."
+      },
+      {
+        "jp": "トムはメアリーを愛していたが、メアリーはトムを全く愛していなかった。",
+        "translation": "Tom loved Mary, who didn't love him at all."
+      },
+      {
+        "jp": "トムはメアリーを愛していたが、メアリーは彼を全く愛していなかった。",
+        "translation": "Tom loved Mary, who didn't love him at all."
+      },
+      {
+        "jp": "トムが君はメアリーよりフランス語を喋るのがうまいと言った。",
+        "translation": "Tom said you speak French better than Mary."
+      },
+      {
+        "jp": "トムは、メアリーが公園のベンチで一人で座っているのを見た。",
+        "translation": "Tom saw Mary sitting alone on a park bench."
+      },
+      {
+        "jp": "私たちは川の強い流れにさからってボートをこぐことができなかった。",
+        "translation": "We couldn't row against the strong current."
+      },
+      {
+        "jp": "我々に今必要なのは行動することであって話し合うことではない。",
+        "translation": "What we need now is action, not discussion."
+      },
+      {
+        "jp": "もし私が死んだりしたら、誰が子どもたちの面倒を見てくれるだろう？",
+        "translation": "Who would look after my children if I died?"
+      },
+      {
+        "jp": "「コーヒー飲む？」「インスタント？」「そうだよ」「なら、いらない」",
+        "translation": "\"Coffee?\" \"Is it instant?\" \"Yes.\" \"Then no.\""
+      },
+      {
+        "jp": "約束のお時間ですが、午前１０時３０分に変更していただけませんか？",
+        "translation": "Could I change my appointment to 10:30 a.m.?"
+      },
+      {
+        "jp": "どれくらいの間隔で、どれくらいの量の餌を犬にあげればいいんですか？",
+        "translation": "How often and how much should I feed my dog?"
+      },
+      {
+        "jp": "私の見積もりでは、それは300ドルかかるだろうということだった。",
+        "translation": "I calculated that it would cost 300 dollars."
+      },
+      {
+        "jp": "あなたが私を信用しないのなら、一緒に仕事をすることはできない。",
+        "translation": "I can't work with you if you don't trust me."
+      },
+      {
+        "jp": "私は蚊が大っ嫌いなんだけど、蚊は私のことが大好きみたいね。",
+        "translation": "I hate mosquitoes, but they seem to love me."
+      },
+      {
+        "jp": "彼がどうして突然勤めを辞めてしまったのかさっぱり分からない。",
+        "translation": "I have no idea why he quit his job suddenly."
+      },
+      {
+        "jp": "なぜ彼が突然仕事を辞めてしまったのか、さっぱりわからない。",
+        "translation": "I have no idea why he quit his job suddenly."
+      },
+      {
+        "jp": "やらなきゃいけないのは分かってるよ。やりたくないだけだよ。",
+        "translation": "I know that I have to. I just don't want to."
+      },
+      {
+        "jp": "メアリーって名前の人は知らないって、トムには言ったんだけどな。",
+        "translation": "I told Tom I didn't know anybody named Mary."
+      },
+      {
+        "jp": "ちょっと今忙しいから、あんたは向こうの部屋に行ってなさい。",
+        "translation": "I'm a bit busy now, so go to the other room."
+      },
+      {
+        "jp": "申し訳ありません。おっしゃったことが聞き取れなかったのですが。",
+        "translation": "I'm sorry, but I didn't catch what you said."
+      },
+      {
+        "jp": "私は彼が真面目に仕事に取り掛かるのを今までみたことがない。",
+        "translation": "I've never seen him really get down to work."
+      },
+      {
+        "jp": "私の大好きなデザートはね、チーズケーキにアイスをのせたものなの。",
+        "translation": "My favorite dessert is cheesecake a la mode."
+      },
+      {
+        "jp": "それがどうやって作られたのか、誰も説明することはできなかった。",
+        "translation": "Nobody could explain how the thing was made."
+      },
+      {
+        "jp": "トムは目を覚ますと、自分が見慣れない部屋にいることに気付いた。",
+        "translation": "Tom awoke to find himself in a strange room."
+      },
+      {
+        "jp": "トムはメアリーとほぼ同じぐらい上手にフランス語が話せます。",
+        "translation": "Tom can speak French almost as well as Mary."
+      },
+      {
+        "jp": "トムは自分がメアリーに惚れることになるとは思っていなかった。",
+        "translation": "Tom didn't expect to fall in love with Mary."
+      },
+      {
+        "jp": "トムは自分がメアリーに惚れることになろうとは思ってもみなかった。",
+        "translation": "Tom didn't expect to fall in love with Mary."
+      },
+      {
+        "jp": "トムは私のこと覚えていないかもしれないけど、私はトムのこと覚えてるよ。",
+        "translation": "Tom may not remember me, but I remember him."
+      },
+      {
+        "jp": "トムは認めようとしないだろうが、彼は大きな問題を抱えている。",
+        "translation": "Tom won't admit it, but he's in big trouble."
+      },
+      {
+        "jp": "「顔色がわるいけど具合が悪いのかい」「そういうわけでもないよ」",
+        "translation": "\"You look pale. Are you sick?\" \"Not exactly.\""
+      },
+      {
+        "jp": "子どもの頃、メガネをかけていることでからかわれたことがあります。",
+        "translation": "As a child, I was teased for wearing glasses."
+      },
+      {
+        "jp": "お願いがあるんだけどさ、トムを学校まで送ってくれないかな？",
+        "translation": "Can you do me a favor and take Tom to school?"
+      },
+      {
+        "jp": "これ、フランス語に訳したいんだけど、ちょっと手伝ってくれない？",
+        "translation": "Could you help me translate this into French?"
+      },
+      {
+        "jp": "日本はこれまでに何回、オリンピックの開催地になりましたか。",
+        "translation": "How many times has Japan hosted the Olympics?"
+      },
+      {
+        "jp": "トムさんにプレゼントを買ってあげるほどのお金は持ち合わせていなかった。",
+        "translation": "I didn't have enough money to buy Tom a gift."
+      },
+      {
+        "jp": "僕にはトムにプレゼントを買うような金銭的な余裕はなかった。",
+        "translation": "I didn't have enough money to buy Tom a gift."
+      },
+      {
+        "jp": "彼が今度の日曜日に私達のところに来るかどうかは分からない。",
+        "translation": "I don't know if he will visit us next Sunday."
+      },
+      {
+        "jp": "何がこれらの問題を引き起こしているのか、私にはわからない。",
+        "translation": "I have no idea what's causing these problems."
+      },
+      {
+        "jp": "なんとかコンサートのチケットを２枚、手に入れることができた。",
+        "translation": "I managed to get two tickets for the concert."
+      },
+      {
+        "jp": "あなたたち二人には共通点がたくさんあるだろうと思っていました。",
+        "translation": "I thought you two would have a lot in common."
+      },
+      {
+        "jp": "あなたはトムより上手くフランス語を話せると思っていました。",
+        "translation": "I thought you'd speak French better than Tom."
+      },
+      {
+        "jp": "私はきまりが悪くて彼女の目をまともに見ることができなかった。",
+        "translation": "I was too embarrassed to look her in the eye."
+      },
+      {
+        "jp": "ばつが悪くて、彼女の目をまともに見ることなどできなかった。",
+        "translation": "I was too embarrassed to look her in the eye."
+      },
+      {
+        "jp": "あなたが私を助けてくださるならば、その仕事を引き受けます。",
+        "translation": "I will accept the work, provided you help me."
+      },
+      {
+        "jp": "その点につきましては、あなたのご意見に全くもって同感です。",
+        "translation": "In that respect, I agree with you completely."
+      },
+      {
+        "jp": "家族の所へ行きたいので、2〜3日休みをとってもいいでしょうか。",
+        "translation": "May I take a few days off to visit my family?"
+      },
+      {
+        "jp": "家族の所に行くので、2〜3日休みをいただいてもよろしいですか？",
+        "translation": "May I take a few days off to visit my family?"
+      },
+      {
+        "jp": "私たちが働いている会社は、いくつかの文化事業を後援しています。",
+        "translation": "Our company supports several cultural events."
+      },
+      {
+        "jp": "腐っていない卵もいくつかあったが、残りの卵はみな腐っていた。",
+        "translation": "Some eggs were good, but the others were bad."
+      },
+      {
+        "jp": "非常にたくさんの学生が今日欠席なのはそういうわけなんです。",
+        "translation": "That's why so many students are absent today."
+      },
+      {
+        "jp": "その箱はとても重かったので、私は持ち上げることができなかった。",
+        "translation": "The box was so heavy that I couldn't lift it."
+      },
+      {
+        "jp": "私がしようと計画していることは、フランス語の勉強をすることです。",
+        "translation": "The thing I'm planning to do is study French."
+      },
+      {
+        "jp": "ウェイターが、テーブルに新品のテーブルクロスをかけました。",
+        "translation": "The waiter put a new tablecloth on the table."
+      },
+      {
+        "jp": "彼の話すのを見たら、彼のことを女の子と思うかもしれません。",
+        "translation": "To see him talk, you might think he's a girl."
+      },
+      {
+        "jp": "トムとメアリーが出会ったのは、トムが亡くなる３年前だった。",
+        "translation": "Tom and Mary met three years before Tom died."
+      },
+      {
+        "jp": "トムが、なんでオーストラリアに行きたいのかって聞いてきたのよ。",
+        "translation": "Tom asked me why I wanted to go to Australia."
+      },
+      {
+        "jp": "トムはメアリーがどのように暮らしを立てているのか知らない。",
+        "translation": "Tom doesn't know what Mary does for a living."
+      },
+      {
+        "jp": "トムってね、毎年メアリーに誕生日プレゼントを送ってるんだよ。",
+        "translation": "Tom sends Mary a birthday present every year."
+      },
+      {
+        "jp": "トムさんのお宅には、きれいな大理石の階段があるんですのよ。",
+        "translation": "Tom's house has a beautiful marble staircase."
+      },
+      {
+        "jp": "私たちの誰もが、交通ルールを知っておかなくてはいけないのだ。",
+        "translation": "We're all supposed to know the traffic rules."
+      },
+      {
+        "jp": "「そんなの問題なんじゃないよ」「じゃぁ、何がいけないの？」",
+        "translation": "\"That's not the problem.\" \"Then what's wrong?\""
+      },
+      {
+        "jp": "「雨はすぐに上がるでしょうか｣「すぐには上がらないと思います」",
+        "translation": "\"Will it stop raining soon?\" \"I'm afraid not.\""
+      },
+      {
+        "jp": "アリは自分の体重の５０倍以上の物を持ち上げることができる。",
+        "translation": "An ant can lift more than 50 times its weight."
+      },
+      {
+        "jp": "私がボストンに行きたがっていることをトムは知ってると思う？",
+        "translation": "Do you think Tom knows I want to go to Boston?"
+      },
+      {
+        "jp": "彼女がパーティーにきていないことにほとんど誰も気が付かなかった。",
+        "translation": "Few people noticed her absence from the party."
+      },
+      {
+        "jp": "私達への彼の助言は、正々堂々と勝負せよということであった。",
+        "translation": "His advice to us was that we should play fair."
+      },
+      {
+        "jp": "トムのフランス語がこんなペラペラになるなんて、思ってもみなかったよ。",
+        "translation": "I didn't expect Tom to be so fluent in French."
+      },
+      {
+        "jp": "私は、授業についていくために一生懸命勉強しなければなりませんでした。",
+        "translation": "I had to study hard to keep up with the class."
+      },
+      {
+        "jp": "来週の水曜日までにレポートを提出しなければならないんです。",
+        "translation": "I have to hand in my report by next Wednesday."
+      },
+      {
+        "jp": "この状況が私たちにとって非常に困難であることは知っている。",
+        "translation": "I know the situation is very difficult for us."
+      },
+      {
+        "jp": "トムが私にするよう言っていたことがまだ思い出せないのです。",
+        "translation": "I still can't remember what Tom told me to do."
+      },
+      {
+        "jp": "あなたはかつてボストンに住んでいたと言っていたような気がしたのですが。",
+        "translation": "I thought you said you used to live in Boston."
+      },
+      {
+        "jp": "トムって、メアリーがフランス語を話せないって知ってるのかしら。",
+        "translation": "I wonder if Tom knows Mary can't speak French."
+      },
+      {
+        "jp": "質問にいくつか答えていただくよう、トムにお願いしたいのですが。",
+        "translation": "I'd like to ask Tom to answer a few questions."
+      },
+      {
+        "jp": "ごめんなさい、テーブルクロスにコーヒーをこぼしちゃったわ。",
+        "translation": "I'm afraid I spilled coffee on the tablecloth."
+      },
+      {
+        "jp": "地図がありさえすれば、道順を教えてさし上げられるのですが。",
+        "translation": "If only I had a map, I could show you the way."
+      },
+      {
+        "jp": "それは干し草の山の中から針を探し出そうとするようなものだ。",
+        "translation": "It is like looking for a needle in a haystack."
+      },
+      {
+        "jp": "口に食べ物がいっぱい入ったままで話すのは、お行儀良くないな。",
+        "translation": "It's not polite to speak with your mouth full."
+      },
+      {
+        "jp": "トムが小さい頃、ここに来たことがあるっていうのは、あり得るかもね。",
+        "translation": "It's possible Tom came here when he was young."
+      },
+      {
+        "jp": "メアリーは、トムのジャケットについている金色の長い髪の毛を見つけた。",
+        "translation": "Mary found a long blonde hair on Tom's jacket."
+      },
+      {
+        "jp": "ボストンにいる僕のいとこなんだけど、スキーが上手なんだよ。",
+        "translation": "My cousin who lives in Boston is a good skier."
+      },
+      {
+        "jp": "先生は私に、できるだけたくさん本を読むようにとおっしゃった。",
+        "translation": "My teacher told me to read as much as I could."
+      },
+      {
+        "jp": "こんな場所で彼女と会うなんて、俺はこれっぽっちも思わなかった。",
+        "translation": "Never did I expect to see her in such a place."
+      },
+      {
+        "jp": "彼女は何が起きたかまるで気にしていないかのように行動した。",
+        "translation": "She acted as if she didn't care what happened."
+      },
+      {
+        "jp": "彼女はインテリア・デザインの仕事をしていきたいと考えている。",
+        "translation": "She is pursuing her career in interior design."
+      },
+      {
+        "jp": "あれって、私じゃなくてトムのアイデアなの。私を責めないで。",
+        "translation": "That was Tom's idea, not mine. Don't blame me."
+      },
+      {
+        "jp": "彼の息子が死んだという知らせは、とてもショッキングだった。",
+        "translation": "The news of his son's death was a great shock."
+      },
+      {
+        "jp": "その男が誰であるかということに関して疑いの余地はなかった。",
+        "translation": "There could be no doubt as to who the man was."
+      },
+      {
+        "jp": "その人が誰であるかということに関しては疑いの余地がなかった。",
+        "translation": "There could be no doubt as to who the man was."
+      },
+      {
+        "jp": "彼が話すのを聞いたら、彼のことを女の子と思うかもしれません。",
+        "translation": "To hear him talk, you might think he's a girl."
+      },
+      {
+        "jp": "トムはメアリーの振る舞いにこれ以上我慢することができない。",
+        "translation": "Tom can't put up with Mary's behavior anymore."
+      },
+      {
+        "jp": "トムには二人の息子がいて、二人ともボストンに住んでいます。",
+        "translation": "Tom has two sons. Both of them live in Boston."
+      },
+      {
+        "jp": "メアリーができるかどうかは分からないって、トムが言ってたよ。",
+        "translation": "Tom said he didn't know if Mary could do that."
+      },
+      {
+        "jp": "トムが言ってたけど、感謝祭にはボストンに行くかもしれないんだって。",
+        "translation": "Tom said he may go to Boston for Thanksgiving."
+      },
+      {
+        "jp": "トムは自分が何をしなければいけないのか分からないと言った。",
+        "translation": "Tom told me he doesn't know what he has to do."
+      },
+      {
+        "jp": "トムは飼い猫が二度と戻ってこないんじゃないかって心配していた。",
+        "translation": "Tom was worried his cat would never come back."
+      },
+      {
+        "jp": "私たちはとても興奮していたので、じっと座っていることができませんでした。",
+        "translation": "We were so excited that we couldn't sit still."
+      },
+      {
+        "jp": "初めてニューヨークに着いたときは、全く西も東も分からなかった。",
+        "translation": "When I first got to New York, I was in a daze."
+      },
+      {
+        "jp": "あんなに愛情深いご両親がいらっしゃるなんてあなたは幸運です。",
+        "translation": "You are fortunate to have such loving parents."
+      },
+      {
+        "jp": "カフェテリアは料理を自分で取るセルフサービスのレストランです。",
+        "translation": "A cafeteria is a self-service style restaurant."
+      },
+      {
+        "jp": "自分が金持ちだったとしても、あいつに金をやるつもりはないよ。",
+        "translation": "Even if I were rich, I wouldn't give him money."
+      },
+      {
+        "jp": "あなたはこのオペラがイタリア語で歌われるのを聞いたことがありますか。",
+        "translation": "Have you ever heard this opera sung in Italian?"
+      },
+      {
+        "jp": "彼は主催者にパーティーがたいへん楽しかったとお礼を言った。",
+        "translation": "He thanked his host for a most enjoyable party."
+      },
+      {
+        "jp": "東京駅からそちらの事務所へは、どのようにして行けばいいのでしょうか。",
+        "translation": "How do I get to your office from Tokyo Station?"
+      },
+      {
+        "jp": "どれくらいの時間がかかるのか、正確なところは申し上げかねます。",
+        "translation": "I can't tell you exactly how long it will take."
+      },
+      {
+        "jp": "私は英語を専攻するために、大学に進学することを決めました。",
+        "translation": "I decided to go to college to major in English."
+      },
+      {
+        "jp": "わたしは彼の援助を望んではいなかったが、受けざるをえなかった。",
+        "translation": "I didn't want his help, but I had to accept it."
+      },
+      {
+        "jp": "コーヒーがあまりにも熱かったので、ちびちびと飲むしかなかった。",
+        "translation": "I had to sip the coffee because it was too hot."
+      },
+      {
+        "jp": "私は彼に直接会ったことはありません。でも、彼のことは知っています。",
+        "translation": "I haven't met him in person, but I know of him."
+      },
+      {
+        "jp": "トムがフランス語を話せると思うんだけど、よく分かんないや。",
+        "translation": "I think Tom can speak French, but I'm not sure."
+      },
+      {
+        "jp": "私たちは2時30分にトムと会うことになっていると思っていました。",
+        "translation": "I thought we were supposed to meet Tom at 2:30."
+      },
+      {
+        "jp": "あなたはまっすぐ家に帰るつもりなのだと思っていたんだけど。",
+        "translation": "I thought you were going to come straight home."
+      },
+      {
+        "jp": "私が刑務所にいたこと、トムがメアリーに言ってないといいんだけど。",
+        "translation": "I wish Tom hadn't told Mary I'd been in prison."
+      },
+      {
+        "jp": "ごめんなさい、あなたの気持ちを傷つけるつもりなどなかったのです。",
+        "translation": "I'm sorry, I didn't mean to hurt your feelings."
+      },
+      {
+        "jp": "まだお腹がすいてるんなら、もう１つハンバーガーを食べてね。",
+        "translation": "If you're still hungry, have another hamburger."
+      },
+      {
+        "jp": "このはしごはわたしの体重を支えるのに十分なほど丈夫なのですか。",
+        "translation": "Is this ladder strong enough to bear my weight?"
+      },
+      {
+        "jp": "彼はわざとそうしたのではないかという考えが、ふと私の頭をよぎった。",
+        "translation": "It occurred to me that he'd done it on purpose."
+      },
+      {
+        "jp": "トムがようやく家にたどり着いた時にはもう夜遅くなっていた。",
+        "translation": "It was late at night when Tom finally got home."
+      },
+      {
+        "jp": "好きだろうと嫌いだろうと、この薬を飲まなければなりません。",
+        "translation": "Like it or not, you have to take this medicine."
+      },
+      {
+        "jp": "歯医者さんに、シュガーレスのガムを噛むようにと勧められた。",
+        "translation": "My dentist recommend that I chew sugarless gum."
+      },
+      {
+        "jp": "法律を学んでいる学生の全員が、法律家になれるとは限りません。",
+        "translation": "Not every student studying law can be a lawyer."
+      },
+      {
+        "jp": "明日私が論文を提出するのを忘れないように、念を押してください。",
+        "translation": "Please remind me to turn in the paper tomorrow."
+      },
+      {
+        "jp": "彼女はあなたのドレスを縫い上げるために夜遅くまで起きてたんだよ。",
+        "translation": "She stayed up late to finish sewing your dress."
+      },
+      {
+        "jp": "私がそこへ着いた時にはダンス・パーティーはすでに始まっていた。",
+        "translation": "The dance had already started when I got there."
+      },
+      {
+        "jp": "トムとメアリーは、すでにジョンに何をすべきかを話している。",
+        "translation": "Tom and Mary have already told John what to do."
+      },
+      {
+        "jp": "トムがね、メアリーにアコーディオンが弾けるかって聞いてたよ。",
+        "translation": "Tom asked Mary if she could play the accordion."
+      },
+      {
+        "jp": "トムは私がメアリーの電話番号を知ってるか聞いてきたんです。",
+        "translation": "Tom asked me if I knew Mary's telephone number."
+      },
+      {
+        "jp": "トムったら、私のメッセージを読みもせずに消しちゃったんだよ。",
+        "translation": "Tom deleted my message without ever reading it."
+      },
+      {
+        "jp": "トムはメアリーを信頼していなかったし、メアリーもトムを信頼していなかった。",
+        "translation": "Tom didn't trust Mary and she didn't trust him."
+      },
+      {
+        "jp": "トムは、メアリーの質問にどう答えればいいのか、見当もつかないでいる。",
+        "translation": "Tom has no idea how to answer Mary's questions."
+      },
+      {
+        "jp": "トムはあんたのことを待ってるんじゃないの。私のことを待ってるの。",
+        "translation": "Tom isn't waiting for you. He's waiting for me."
+      },
+      {
+        "jp": "あなたならメアリーの居所を知ってるだろうって、トムが教えてくれたの。",
+        "translation": "Tom told me you probably know where Mary lives."
+      },
+      {
+        "jp": "トムはオーストラリアに来るたびに、僕に会いに来てくれるんだ。",
+        "translation": "Tom visits me every time he comes to Australia."
+      },
+      {
+        "jp": "トムはメアリーのお誕生日会のためにケーキを焼くつもりです。",
+        "translation": "Tom will bake a cake for Mary's birthday party."
+      },
+      {
+        "jp": "お客さんが一人もいなかったので、私たちは早く閉店しました。",
+        "translation": "We had no customers, so we shut the shop early."
+      },
+      {
+        "jp": "私たちは出来るだけたくさんの情報を集めなければいけません。",
+        "translation": "We have to get as much information as possible."
+      },
+      {
+        "jp": "私たちね、犬が２匹に、猫が３匹、それから鶏を６羽飼ってるんです。",
+        "translation": "We have two dogs, three cats, and six chickens."
+      },
+      {
+        "jp": "私たちは通りのちょうど向こう側のあのアパートに住んでいます。",
+        "translation": "We live in that apartment just over the street."
+      },
+      {
+        "jp": "あらかじめ電話して、テーブルの予約をしておくべきだったな。",
+        "translation": "We should've phoned ahead and reserved a table."
+      },
+      {
+        "jp": "今度の4月で、私たちはここに2年住んでいることになります。",
+        "translation": "We'll have lived here for two years next April."
+      },
+      {
+        "jp": "あなたが私たちの会社で働こうと思った理由を聞かせて下さい。",
+        "translation": "What's made you decide to work for our company?"
+      },
+      {
+        "jp": "「時間通りに、教室にうまく行き着くことができる」と彼は思った。",
+        "translation": "\"I can make it to my class on time,\" he thought."
+      },
+      {
+        "jp": "「あの人たちは、またストをやるんだろうか」「どうもそうらしいね」",
+        "translation": "\"Will they go on strike again?\" \"I'm afraid so.\""
+      },
+      {
+        "jp": "外すよう、トムに言ってくれる？　それとも俺が言わなきゃダメ？",
+        "translation": "Are you going to tell Tom to leave, or should I?"
+      },
+      {
+        "jp": "ベートーヴェンは1827年3月26日、57歳でこの世を去った。",
+        "translation": "Beethoven died March 26, 1827, at the age of 57."
+      },
+      {
+        "jp": "あなたはほんとうに彼があなたに真実を告げると思っていたのですか。",
+        "translation": "Did you really expect him to tell you the truth?"
+      }
+    ]
+  },
+  "nhkNews": [
+    {
+      "title": "米 2月雇用統計 就業者は前月比9万2000人減 大幅な減少に",
+      "summary": "円相場や株価に影響を及ぼすアメリカの雇用統計が発表され、2月の農業分野以外の就業者は前の月から9万2000人減少しました。市場の予想では5万5000人程度の増加が見込まれていましたが、大幅な減少となりました。また、失業率は、前の月から0.1ポイント悪化し、4.4％でした。金融市場では、このところ雇用情勢の減速への警戒感が和らいでいましたが、減速への懸念が再び強まりそうです。",
+      "link": "http://www3.nhk.or.jp/news/html/20260306/k10015068861000.html",
+      "pubDate": "Fri, 06 Mar 2026 22:49:18 +0900"
+    },
+    {
+      "title": "原油市場 WTI先物価格が値上がり 一時1バレル＝86ドル台半ばに",
+      "summary": "アメリカ・イスラエルとイランとの攻撃の応酬が続く中、6日の原油市場では国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝86ドル台半ばまで値上がりしました。",
+      "link": "http://www3.nhk.or.jp/news/html/20260306/k10015068801000.html",
+      "pubDate": "Fri, 06 Mar 2026 21:58:05 +0900"
+    },
+    {
+      "title": "トランプ大統領 作戦の見通し「予定より早く進んでいる」",
+      "summary": "イランへの軍事作戦を続けるアメリカのトランプ大統領は作戦の見通しについて「予定より早く進んでいる」と述べて、これまでの成果を強調しています。一方、イランの精鋭部隊、革命防衛隊は「長期戦の準備は出来ている」として徹底抗戦の構えを見せています。",
+      "link": "http://www3.nhk.or.jp/news/html/20260306/k10015068581000.html",
+      "pubDate": "Fri, 06 Mar 2026 19:47:15 +0900"
+    },
+    {
+      "title": "WBC 日本が台湾にコールド勝ち 大谷翔平が先制満塁HR【詳報】",
+      "summary": "WBC＝ワールド・ベースボール・クラシック、日本は1次ラウンドの初戦で台湾に13対0で7回コールド勝ちしました。1番・指名打者に入った大谷翔平選手が先制の満塁ホームランを打つなど序盤から打線がつながり、大会2連覇に向けて白星スタートとなりました。記事後半では試合の経過を詳しくお伝えしています。",
+      "link": "http://www3.nhk.or.jp/news/html/20260306/k10015068491000.html",
+      "pubDate": "Fri, 06 Mar 2026 23:42:32 +0900"
+    },
+    {
+      "title": "自民 維新 5類型撤廃し「武器」移転を原則可能とする提言提出",
+      "summary": "防衛装備品の海外への移転をめぐり、自民党と日本維新の会は「救難」や「輸送」などに限定している5類型を撤廃し、殺傷能力のある「武器」の移転を原則可能とするなどとした提言を高市総理大臣に提出しました。政府は提言を踏まえ、ことし春にも運用指針を改正することにしています。提言の詳しい内容や提言の背景、装備品の輸出の変遷についても、詳しくまとめています。",
+      "link": "http://www3.nhk.or.jp/news/html/20260306/k10015067891000.html",
+      "pubDate": "Fri, 06 Mar 2026 18:37:12 +0900"
+    },
+    {
+      "title": "高市首相 カナダ首相と会談 経済安全保障対話立ち上げなど一致",
+      "summary": "高市総理大臣は、6日夜、カナダのカーニー首相と会談しました。両首脳は、AIや量子といった先端分野や重要鉱物のサプライチェーンの強じん化に向けた協力について話し合う、経済安全保障対話を立ち上げることなどで一致しました。",
+      "link": "http://www3.nhk.or.jp/news/html/20260306/k10015068391000.html",
+      "pubDate": "Fri, 06 Mar 2026 22:46:56 +0900"
+    },
+    {
+      "title": "沖縄 米海兵隊ヘリが目的地と異なる名護市のグラウンドに着陸",
+      "summary": "6日夜、沖縄県でアメリカ海兵隊のヘリコプターが目的地と異なる、名護市のグラウンドに着陸しました。海兵隊は「機内で警告表示が出た」と説明しています。",
+      "link": "http://www3.nhk.or.jp/news/html/20260306/k10015068781000.html",
+      "pubDate": "Fri, 06 Mar 2026 23:52:13 +0900"
+    }
+  ]
+}
